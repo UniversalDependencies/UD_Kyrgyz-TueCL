@@ -1921,18 +1921,6 @@
 # text[az] = Deniz evdə iydi?
 # text[tr] = Deniz evede miydi?
 # issue: Question particle
-1	Дениз	Дениз	NOUN	_	_	2	nsubj	_	_
-2	үйдѳ	үй	NOUN	_	_	0	root	_	_
-3	беле	э	AUX	_	_	2	cop	_	SpaceAfter=No
-4	?	?	PUNCT	_	_	2	punct	_	_
-
-# sent_id = kir-71.1:90
-# text = Дениз үйдѳ беле?
-# translit = Deniz üydö bele?
-# text[en] = Was Deniz at home?
-# text[az] = Deniz evdə iydi?
-# text[tr] = Deniz evede miydi?
-# issue: Question particle
 1	Дениз	Дениз	PROPN	_	_	2	nsubj	_	_
 2	үйдѳ	үй	NOUN	_	_	0	root	_	_
 3-4	беле	_	_	_	_	_	_	_	SpaceAfter=No
