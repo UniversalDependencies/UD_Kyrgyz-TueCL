@@ -825,7 +825,7 @@
 # sent_id = udtw23-kir-16.1
 # text = Айша бул китепти окубай койгон жок.
 # translit = Ajsha bul kitepti okubai koyğon zhok.
-# text[en] = Ayşe didn't not read this book. (This is not the case, that Ajsha didnt read the book.)
+# text[en] = Ayşe didn't not read this book. (This is not the case, that Ajsha didn't read the book.)
 # text[az] = Ayşə bu kitabı oxumamış dǝyil.
 # text[tr] = Ayşe bu kitabı oku(ma)mış değil.
 # issue = Negation, participle
@@ -1483,7 +1483,7 @@
 # sent_id = kir-41:90
 # text = Дениздин китеп окугусу келип жатат.
 # translit = Denizdin kitep okuğusu kelip zhatat.
-# text[en] = Deniz wants read books .
+# text[en] = Deniz wants read books.
 # text[az] = Deniz kitab oxumaq istəyir.
 # text[tr] = Deniz kitap okumak isitiyor.
 # issue: Clausal arguments/modifiers, non-finite verbs.
@@ -1514,7 +1514,7 @@
 # text = Дениз каникул экенин унутуп, сумкасын алып мектепке барыптыр.
 # translit = Deniz kanikul ekenin unutup, sumkasyn alyp mektepke baryptyr.
 # text[en] = Deniz took her/his bag and (evidentially) went to school (because) she/he had forgotten that it was holiday.
-# text[az] =
+# text[az] = 
 # text[tr] = Deniz tatil olduğunu unutup çantasisni alip okula gitmiş.
 # issue: Clausal arguments/modifiers, non-finite verbs.
 # note: cop/aux
@@ -1577,7 +1577,7 @@
 6	барат	бар	VERB	_	_	0	root	_	SpaceAfter=No
 7	.	.	PUNCT	_	_	6	punct	_	_
 
-# sent_id = kir-51.2:90
+# sent_id = kir-51.1:90
 # text = Дениз кеч жатса мектепке кеч калат.
 # translit = Deniz kech zhatsa mektepke kech kalat.
 # text[en] = If Deniz sleeps late, he/she will be late.
@@ -1900,20 +1900,6 @@
 4	?	?	PUNCT	_	_	2	punct	_	_
 
 # sent_id = kir-70:90
-# text = Дениз үйдѳ болду бекен?
-# translit = Deniz üydö boldu beken?
-# text[en] = Is Deniz at home?
-# text[az] = Deniz evdədir?
-# text[tr] = Deniz evede midir?
-# issue: Question particle
-1	Дениз	Дениз	NOUN	_	_	3	nsubj	_	_
-2	үйдѳ	үй	NOUN	_	_	3	obl	_	_
-3	болду	бол	VERB	_	_	0	root	_	_
-4	б	бы	PART	_	_	3	discourse	_	SpaceAfter=No
-5	екен	экен	AUX	_	_	3	aux	_	SpaceAfter=No
-6	?	?	PUNCT	_	_	3	punct	_	_
-
-# sent_id = kir-70.1:90
 # text = Дениз үйдѳ болду бекен?
 # translit = Deniz üydö boldu beken?
 # text[en] = Is Deniz at home? (copula, with additonal affix on -mi)
