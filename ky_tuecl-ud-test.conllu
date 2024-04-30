@@ -221,7 +221,7 @@
 9	алтын	алтын	NOUN	_	_	8	orphan	_	SpaceAfter=No
 10	.	.	PUNCT	_	_	3	punct	_	_
 
-# sent_id = Cairo-kir-10.1
+# sent_id = Cairo-kir-10
 # text = Игуасу чоң ѳрѳѳнбү же кичинекейби?
 # translit = Iğuazu choŋ öröönbü zhe kichinekejbi?
 # text[en] = Is Iguazu a big or a small country?
