@@ -1,16 +1,17 @@
 # Summary
 
-... 1-2 sentences (see [release checklist](http://universaldependencies.org/release_checklist.html#the-readme-file) for README guidelines) ...
+This is a small treebank of grammatical examples for Kyrgyz.
 
 
 # Introduction
 
-...
+Kyrgyz-TueCL contains totaly 145 sentences including 20 Cairo sentences, and ~ 100 sentences suggested by [UD Turkic Group](https://github.com/ud-turkic). This treebank is a part of UD Turkic Treebank. 
+Translation of all sentences are available in English, Turkish and Azerbaijani languages.
 
 
 # Acknowledgments
 
-...
+We are deeply thankful to the [UD Turkic Group](https://github.com/ud-turkic) and Kyrgyz team: [Johnathon Washington](https://github.com/jonorthwash), Aida Kasieva, Gulnura Dzumalieva, Aigul Tursunova, Meerim Ryspakova, Aizat Kadyrbekova for their weekly informative meetings and discussions and for all the support we have received.
 
 ## References
 
@@ -36,6 +37,6 @@ Features: manual native
 Relations: manual native
 Contributors: Chontaeva, Bermet; Çöltekin, Çağrı
 Contributing: here
-Contact: cagri.coeltekin@uni-tuebingen.de
+Contact: bermet.chontaeva@student.uni-tuebingen.de, cagri.coeltekin@uni-tuebingen.de
 ===============================================================================
 </pre>
