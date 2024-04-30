@@ -1976,18 +1976,6 @@
 # translit = Üydö nan barby?
 # text[en] = Is there (any) bread at home?
 # text[az] = Evdə çörək var?
-# text[tr] = Evede ekmek mi var?
-# issue: Question particle
-1	Үйдѳ	үй	NOUN	_	_	3	obl	_	_
-2	нан	нан	NOUN	_	_	3	nsubj	_	_
-3	барбы	бар	ADJ	_	_	0	root	_	SpaceAfter=No
-4	?	?	PUNCT	_	_	3	punct	_	_
-
-# sent_id = kir-75.1:90
-# text = Үйдѳ нан барбы?
-# translit = Üydö nan barby?
-# text[en] = Is there (any) bread at home?
-# text[az] = Evdə çörək var?
 # text[tr] = Ev(e - typo) de ekmek mi var?
 # issue: Question particle
 1	Үйдѳ	үй	NOUN	_	_	3	obl	_	_
