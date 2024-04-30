@@ -777,7 +777,7 @@
 4	бекен	экен	AUX	_	_	2	aux	_	SpaceAfter=No
 5	?	?	PUNCT	_	_	2	punct	_	_
 
-# sent_id = udtw23-kir-14.1
+# sent_id = udtw23-kir-14
 # text = Иш-чара бүгүн ѳткѳрүлѳбү?
 # translit = Ish-chara büğün ötkörülöbü? (passive)
 # text[en] = Is the event being held today?
