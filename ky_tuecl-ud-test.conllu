@@ -87,7 +87,7 @@
 4	бы	бы	PART	_	_	2	discourse	_	_
 5	?	?	PUNCT	_	_	2	punct	_	_
 
-# sent_id = Cairo-kir-4.2.1
+# sent_id = Cairo-kir-4.1
 # text = Сен кеткиң келип жатабы?
 # translit = Sen ketkiŋ kelip zhataby?
 # text[en] = Do you want to go?
