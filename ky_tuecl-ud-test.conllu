@@ -73,7 +73,7 @@
 9	кылды	кыл	VERB	_	_	0	root	_	SpaceAfter=No
 10	.	.	PUNCT	_	_	9	punct	_	_
 
-# sent_id = Cairo-kir-4.1
+# sent_id = Cairo-kir-4
 # text = Кеткиң келип жатабы?
 # translit = Ketkiŋ kelip zhataby?
 # text[en] = Do you want to go?
