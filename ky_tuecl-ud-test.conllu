@@ -340,6 +340,7 @@
 # text[az] = Peterinәn Mary qucaxlaşdɪlar/ birbirlәrini qucaxladɪlar vә sora otağdan çɪxdɪlar.
 # text[tr] = Peter ve Mary birbirlerini kucakladılar ve sonra odadan çıktılar.	
 # issue:
+# note: "бири-бирин" - lemma: "бир-бир"
 1	Питер	Питер	PROPN	_	_	7	nsubj	_	_
 2	менен	менен	SCONJ	_	_	3	cc	_	_
 3	Мэри	Мэри	PROPN	_	_	1	conj	_	_
@@ -1631,7 +1632,7 @@
 # sent_id = kir-54:90
 # text = Кѳңүлгѳ алба.
 # translit =  Köŋülğö alba.
-# text[en] = Nevermind . (typo)
+# text[en] = Nevermind. (typo)
 # text[az] = Boşla.
 # text[tr] = Boşver .
 # issue: MWE / segmentation
@@ -1642,7 +1643,7 @@
 # sent_id = kir-55:90
 # text = Кѳңүлгѳ алба.
 # translit = Köŋülğö alba.
-# text[en] = Nevermind . (typo)
+# text[en] = Nevermind. (typo)
 # text[az] = Boşla.
 # text[tr] = Boşver .
 # issue: MWE / segmentation
