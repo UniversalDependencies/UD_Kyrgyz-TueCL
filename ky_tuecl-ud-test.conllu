@@ -1952,18 +1952,6 @@
 # issue: Question particle
 1	Дениз	Дениз	PROPN	_	_	3	nsubj	_	_
 2	үйдѳ	үй	NOUN	_	_	3	obl	_	_
-3	жокпу	жок	ADJ	_	_	0	root	_	SpaceAfter=No
-4	?	?	PUNCT	_	_	3	punct	_	_
-
-# sent_id = kir-73.1:90
-# text = Дениз үйдѳ жокпу?
-# translit = Deniz üydö jokpu?
-# text[en] = Is Deniz not at home? (negation with 'yok')
-# text[az] = Deniz evdə yoxdu(r)?
-# text[tr] = Deniz evede yok mu?
-# issue: Question particle
-1	Дениз	Дениз	PROPN	_	_	3	nsubj	_	_
-2	үйдѳ	үй	NOUN	_	_	3	obl	_	_
 3-4	жокпу	_	_	_	_	_	_	_	SpaceAfter=No
 3	жок	жок	ADJ	_	_	0	root	_	_
 4	пу	бы	PART	_	_	3	discourse	_	_
