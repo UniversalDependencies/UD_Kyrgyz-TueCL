@@ -5,7 +5,7 @@ This is a small treebank of grammatical examples for Kyrgyz.
 
 # Introduction
 
-Kyrgyz-TueCL contains totaly 145 sentences including 20 Cairo sentences, and ~ 100 sentences suggested by [UD Turkic Group](https://github.com/ud-turkic). This treebank is a part of UD Turkic Treebank. 
+Kyrgyz-TueCL contains 145 sentences in total, including 20 Cairo sentences and ~ 100 sentences suggested by [UD Turkic Group](https://github.com/ud-turkic). This treebank is a part of UD Turkic Treebank. 
 Translation of all sentences are available in English, Turkish and Azerbaijani languages.
 
 
