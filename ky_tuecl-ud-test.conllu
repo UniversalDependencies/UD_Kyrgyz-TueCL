@@ -1,10 +1,11 @@
 # sent_id = Cairo-kir-1
 # text = Кыз досуна кат жазды.
-# translit = Kyz dosuna kat zhazdy. (Past tense)
-# text[en] = The girl wrote a letter to her friend .
+# translit = Qız dos-u-na kat zhaz-dı.
+# glossing = girl friend-POSS.3SG-DAT letter write-PST.3SG
+# issue:
+# text[en] = The girl wrote a letter to her friend.
 # text[az] = Qız yoldaşına namә yazdı.
 # text[tr] = Kız, arkadaşına mektup yazdı.
-# issue:
 1	Кыз	кыз	NOUN	_	_	4	nsubj	_	_
 2	досуна	дос	NOUN	_	_	4	obl	_	_
 3	кат	кат	NOUN	_	_	4	obj	_	_
@@ -13,11 +14,12 @@
 
 # sent_id = Cairo-kir-2
 # text = Жамгыр жаап жатат окшойт.
-# translit = Zhamğyr zhaap zhatat okshojt.
+# translit = Zhamğır zha-ap zhat-at oksho-yt.
+# glossing = rain rain-PFV lay.down-PRS.PROG.3SG seem-PRS.3SG
+# issue: (It) is raining
 # text[en] = I think that it is raining.
 # text[az] = Fikr eliyәm yağɪş yağɪr.
 # text[tr] = Sanırım yağmur yağıyor.
-# issues: (it) is raining
 1	Жамгыр	жамгыр	NOUN	_	_	2	nsubj	_	_
 2	жаап	жап	VERB	_	_	0	root	_	_
 3	жатат	жат	AUX	_	_	2	aux	_	_
@@ -26,11 +28,12 @@
 
 # sent_id = Cairo-kir-2.1
 # text = Жамгыр жаап жатат деп ойлойм.
-# translit = Zhamğyr zhaap zhatat dep ojlojm.
+# translit = Zhamğır zha-ap zhat-at de-p oylo-ym.
+# glossing = rain rain-PFV lay.down-PRS.PROG.3SG say-PFV think-PRS.1SG
+# issue: (It) is raining
 # text[en] = I think that it is raining.
 # text[az] = Fikr eliyәm yağɪş yağɪr.
 # text[tr] = Yağmur yağdığını zannediyorum.
-# issues: (it) is raining
 1	Жамгыр	жамгыр	NOUN	_	_	2	nsubj	_	_
 2	жаап	жап	VERB	_	_	4	ccomp	_	_
 3	жатат	жат	AUX	_	_	2	aux	_	_
@@ -40,11 +43,12 @@
 
 # sent_id = Cairo-kir-3
 # text = Тамеки чегүүнү жана арак ичүүнү токтотууга аракет кылды.
-# translit = Tameki cheğüünü zhana arak ichüünü toktotuuğa araket kyldy.
-# text[en] = He tried to stop smoking and drinking.
+# translit = Tameki cheğ-üü-nü zhana arak ich-üü-nü tokto-t-uu-ğa araket kıl-dı.
+# glossing = cigarette smoke-INF-ACC and alcohol drink-INF-ACC stop-CAUS-INF-DAT action do-PST.3SG
+# issue:
+# text[en] = He/She tried to stop smoking and drinking.
 # text[az] = (O) çalɪşdɪ kɪ siqar çekmә vә әlkol içmәni tәrkidә.
 # text[tr] = Siğara ve alkol içmeyi bırakmayı denedi.
-# issue:
 1	Тамеки	тамеки	NOUN	_	_	2	obj	_	_
 2	чегүүнү	чек	VERB	_	_	6	ccomp	_	_
 3	жана	жана	CCONJ	_	_	5	cc	_	_
@@ -57,11 +61,12 @@
 
 # sent_id = Cairo-kir-3.1
 # text = Ал тамеки чегүүнү жана арак ичүүнү токтотууга аракет кылды.
-# translit = Al tameki cheğüünü zhana arak ichüünü toktotuuğa araket kyldy.
-# text[en] = He tried to stop smoking and drinking.
+# translit = Al tameki cheğ-üü-nü zhana arak ich-üü-nü tokto-t-uu-ğa araket kıl-dı.
+# glossing = he/she cigarette smoke-INF-ACC and alcohol drink-INF-ACC stop-CAUS-INF-DAT action do-PST.3SG
+# issue:
+# text[en] = He/She tried to stop smoking and drinking.
 # text[az] = O çalɪşdɪ kɪ siqar çekmә vә әlkol içmәni tәrkidә.
 # text[tr] = O sigara ve alkol içmeyi bırakmayı denedi.
-# issue:
 1	Ал	ал	PRON	_	_	9	nsubj	_	_
 2	тамеки	тамеки	NOUN	_	_	3	obj	_	_
 3	чегүүнү	чек	VERB	_	_	7	ccomp	_	_
@@ -75,11 +80,12 @@
 
 # sent_id = Cairo-kir-4
 # text = Кеткиң келип жатабы?
-# translit = Ketkiŋ kelip zhataby?
+# translit = Ket-kiŋ kel-ip zhat-a-bı?
+# glossing = go-2SG come-PFV lay.down-PRS.PROG-Q
+# issue:
 # text[en] = Do you want to go?
 # text[az] = (Siz) getmək istəyirsiniz?
 # text[tr] = Gitmek istiyor musun?
-# issue:
 1	Кеткиң	кет	VERB	_	_	2	csubj	_	_
 2	келип	кел	VERB	_	_	0	root	_	_
 3-4	жатабы	_	_	_	_	_	_	_	SpaceAfter=No
@@ -89,11 +95,12 @@
 
 # sent_id = Cairo-kir-4.1
 # text = Сен кеткиң келип жатабы?
-# translit = Sen ketkiŋ kelip zhataby?
+# translit = Sen ket-kiŋ kel-ip zhat-a-bı?
+# glossing = you-2.SG go-2SG come-PFV lay.down-PRS.PROG-Q
+# issue:
 # text[en] = Do you want to go?
 # text[az] = Siz getmək istəyirsiniz?
 # text[tr] = Sen gitmek istiyor musun?
-# issue:
 # note: this one needs more discussion.
 1	Сен	сен	PRON	_	_	2	nsubj	_	_
 2	кеткиң	кет	VERB	_	_	3	xcomp	_	_
@@ -105,11 +112,12 @@
 
 # sent_id = Cairo-kir-5
 # text = Сэм, терезени ач!
-# translit = Sjem, terezeni ach!
-# text[en] = Sam , open the window!
+# translit = Səm, tereze-ni ach!
+# glossing = Sam window-ACC open.IMP.2SG 
+# issue:
+# text[en] = Sam, open the window!
 # text[az] = Sam, pәncәrәni aç!
 # text[tr] = Sam, pencereyi aç!
-# issue:
 1	Сэм	Сэм	PROPN	_	_	4	vocative	_	SpaceAfter=No
 2	,	,	PUNCT	_	_	1	punct	_	_
 3	терезени	терезе	NOUN	_	_	4	obj	_	_
@@ -118,11 +126,12 @@
 
 # sent_id = Cairo-kir-6
 # text = Ал күйѳѳсүнѳ унааны жуудурду.
-# translit = Al küjöösüno unaany zhuudurdu.
+# translit = Al küyöö-sü-nö unaa-nı zhuu-dur-du.
+# glossing = he/she husband-POSS.3SG-DAT car-ACC wash-CAUS-PST.3SG
+# issue:
 # text[en] = She made her husband wash the car.
 # text[az] = Әrinә maşɪnɪ yudurtdu.
 # text[tr] = O kocasına arabayı yıkattırdı.
-# issue:
 1	Ал	ал	PRON	_	_	4	nsubj	_	_
 2	күйѳѳсүнѳ	күйѳ	NOUN	_	_	4	obl:cau	_	_
 3	унааны	унаа	NOUN	_	_	4	obj	_	_
@@ -131,23 +140,25 @@
 
 # sent_id = Cairo-kir-6.1
 # text = Күйѳѳсүнѳ унааны жуудурду.
-# translit = Küjöösüno unaany zhuudurdu.
+# translit = Küyöö-sü-nö unaa-nı zhuu-dur-du.
+# glossing = husband-POSS.3SG-DAT car-ACC wash-CAUS-PST.3SG
+# issue:
 # text[en] = She made her husband wash the car.
 # text[az] = Әrinә maşɪnɪ yudurtdu.
 # text[tr] = Kocasına arabayı yıkattırdı.
-# issue:
-1	Күйѳѳсүнѳ	Күйѳ	NOUN	_	_	3	obl:cau	_	_
+1	Күйѳѳсүнѳ	күйѳ	NOUN	_	_	3	obl:cau	_	_
 2	унааны	унаа	NOUN	_	_	3	obj	_	_
 3	жуудурду	жуу	VERB	_	_	0	root	_	SpaceAfter=No
 4	.	.	PUNCT	_	_	3	punct	_	_
 
 # sent_id = Cairo-kir-7
 # text = Питердин кошунасы тосмону кызыл түскѳ боёду.
-# translit = Piterdin koshunasy tosmonu kyzyl tüskö boyodu .
-# text[en] = Peter ’s neighbor painted the fence red .
+# translit = Piter-din koshuna-sı tosmo-nu qızıl tüs-kö boyo-du.
+# glossing = Peter-GEN neighbour-POSS.3SG fence-ACC red colour-DAT paint-PST.3SG
+# issue:
+# text[en] = Peter’s neighbour painted the fence red.
 # text[az] = Peterin qonşusu hasarı qırmız rənglədı.
 # text[tr] = Peter'in komşusu çiti kırmızı boyadı.
-# issue:
 1	Питердин	Питер	PRON	_	_	2	nmod	_	_
 2	кошунасы	кошуна	NOUN	_	_	6	nsubj	_	_
 3	тосмону	тосмо	NOUN	_	_	6	obj	_	_
@@ -158,11 +169,12 @@
 
 # sent_id = Cairo-kir-7.1
 # text = Питердин кошунасы тосмону кызылга боёду.
-# translit = Piterdin koshunasy tosmonu kyzylğa boyodu.
-# text[en] = Peter ’s neighbor painted the fence red.
+# translit = Piter-din koshuna-sı tosmo-nu qızıl-ğa boyo-du.
+# glossing = Peter-GEN neighbour-POSS.3SG fence-ACC red-DAT paint-PST.3SG
+# issue:
+# text[en] = Peter’s neighbour painted the fence red.
 # text[az] = Peterin qonşusu hasarı qırmız rənglədı.
 # text[tr] = Peter'in komşusu çiti kırmızıya boyadı.
-# issue:
 1	Питердин	Питер	PRON	_	_	2	nmod	_	_
 2	кошунасы	кошуна	NOUN	_	_	5	nsubj	_	_
 3	тосмону	тосмо	NOUN	_	_	5	obj	_	_
@@ -172,11 +184,12 @@
 
 # sent_id = Cairo-kir-8
 # text = Менин атам сеникинен кыйыныраак.
-# translit = Menin atam senikinen kyjynyraak.
+# translit = Men-in ata-m seni-ki-nen kıyın-ıraak.
+# glossing = I-GEN father-POSS.1SG you-ATTR-ABL cool-COMP
+# issue:
 # text[en] = My dad is cooler than yours.
 # text[az] = Mәnin babam sәninkindən bәtәrdi.
 # text[tr] = Benim babam seninkinden daha harika.
-# issue:
 1	Менин	мен	PRON	_	_	2	nmod:poss	_	_
 2	атам	ата	NOUN	_	_	5	nsubj	_	_
 3-4	сеникинен	_	_	_	_	_	_	_	_
@@ -187,11 +200,12 @@
 
 # sent_id = Cairo-kir-9
 # text = Мэри коло, Питер күмүш, Джейн алтын утту.
-# translit = Mjeri kolo, Piter kümüsh, Dzhejn altyn uttu.
-# text[en] = Mary won bronze , Peter silver , and Jane gold .
+# translit = Məri kolo, Piter kümüsh, Dzheyn altın ut-tu.
+# glossing = Mary bronze Peter silver Jane gold win-PST.3SG
+# issue:
+# text[en] = Mary won bronze, Peter silver, and Jane gold.
 # text[az] = Mary bronz qazandı, Peter gümüş, Jane qɪzɪl.
 # text[tr] = Mary bronz, Peter gümüş, Jane altın kazandı.
-# issue:
 1	Мэри	Мэри	PROPN	_	_	9	nsubj	_	_
 2	коло	коло	NOUN	_	_	9	obj	_	SpaceAfter=No
 3	,	,	PUNCT	_	_	4	punct	_	_
@@ -205,11 +219,12 @@
 
 # sent_id = Cairo-kir-9.1
 # text = Мэри коло утту, Питер күмүш, Джейн алтын.
-# translit = Mjeri kolo uttu, Piter kümüsh, Dzhejn altyn.
-# text[en] = Mary won bronze , Peter silver , and Jane gold .
+# translit = Məri kolo ut-tu, Piter kümüsh, Dzheyn altın.
+# glossing = Mary bronze win-PST.3SG Peter silver Jane gold 
+# issue:
+# text[en] = Mary won bronze, Peter silver, and Jane gold.
 # text[az] = Mary bronz qazandı, Peter gümüş, Jane qɪzɪl.
 # text[tr] = Mary bronz kazandı, Peter gümüş, Jane altın.
-# issue:
 1	Мэри	Мэри	PROPN	_	_	3	nsubj	_	_
 2	коло	коло	NOUN	_	_	3	obl	_	_
 3	утту	ут	VERB	_	_	0	root	_	SpaceAfter=No
@@ -222,13 +237,14 @@
 10	.	.	PUNCT	_	_	3	punct	_	_
 
 # sent_id = Cairo-kir-10
-# text = Игуасу чоң ѳрѳѳнбү же кичинекейби?
-# translit = Iğuazu choŋ öröönbü zhe kichinekejbi?
+# text = Игуазу чоң ѳрѳѳнбү же кичинекейби?
+# translit = Iğuazu choŋ öröön-bü zhe kichinekey-bi?
+# glossing = Iguazu big country-Q or small-Q
+# issue:
 # text[en] = Is Iguazu a big or a small country?
 # text[az] = İguazu büyük bir kisvərdir, ya kiçik?
 # text[tr] = İguazu büyük bir ülke mi, yoksa küçük mü?
-# issue:
-1	Игуасу	Игуасу	PROPN	_	_	3	nsubj	_	_
+1	Игуазу	Игуазу	PROPN	_	_	3	nsubj	_	_
 2	чоң	чоң	ADJ	_	_	3	amod	_	_
 3-4	ѳрѳѳнбү	_	_	_	_	_	_	_	_
 3	ѳрѳѳн	ѳрѳѳн	NOUN	_	_	0	root	_	_
@@ -241,11 +257,12 @@
 
 # sent_id = Cairo-kir-11
 # text = Питер Смит да, Мэри Браун да ѳтѳ албай калды.
-# translit = Piter Smit da, Mjeri Braun da ötö albaj kaldy.
+# translit = Piter Smit da, Məri Braun da öt-ö al-bay kal-dı.
+# glossing = Peter Smith also Mary Brown also pass take-NEG stay-PST.3SG
+# issue:
 # text[en] = Neither Peter Smith nor Mary Brown could be selected.
 # text[az] = Nә Peter Smith nә Mary Brown, intixab ola bildi.
 # text[tr] = Ne Peter Smith ne de Mary Brown seçilemedi.
-# issue:
 1	Питер	Питер	PROPN	_	_	8	nsubj	_	_
 2	Смит	Смит	PROPN	_	_	1	flat	_	_
 3	да	да	ADV	_	_	1	advmod:emph	_	SpaceAfter=No
@@ -260,11 +277,12 @@
 
 # sent_id = Cairo-kir-12
 # text = Кимдин жазгандыгы жѳнүндѳ эч ойлору да жок.
-# translit = Kimdin zhazğandyğy zhönündö ech ojloru da zhok.
-# text[en] = They have no idea who wrote it.
-# text[az] = Kimin yazdığını bilmirlər.
-# text[tr] = Kimin yazdığı konusunda hiç bir fikirleri yok.
+# translit = Kim-din zhaz-ğan-dı-ğı zhönün-dö əch oylo-ru da zhok.
+# glossing = who-GEN write-PTCP-POSS.3SG-ACC about-LOC nothing idea-PL-POSS.3PL aslo not.exist
 # issue:
+# text[en] = They have no idea who wrote it.
+# text[az] = Kimin yazdığını bilmirlər.irleri yok.
+# text[tr] = Kimin yazdığı konusunda hiç bir fik
 1	Кимдин	ким	PRON	_	_	2	nsubj	_	_
 2	жазгандыгы	жаз	VERB	_	_	7	obl	_	_
 3	жѳнүндѳ	жѳнүндѳ	ADP	_	_	2	case	_	_
@@ -276,11 +294,12 @@
 
 # sent_id = Cairo-kir-12.1
 # text = Кимдин жазганын эч билишпейт.
-# translit = Kimdin zhazğanyn ech bilishpejt.
+# translit = Kim-din zhaz-ğan-ın əch bil-ish-pey-t.
+# glossing = who-GEN write-PTCP-POSS.3SG nothing know-RECP-NEG-3SG
+# issue:
 # text[en] = They have no idea who wrote it.
 # text[az] = Kimin yazdığını bilmirlər.
 # text[tr] = Kimin yazdığını hiç bilmiyorlar.
-# issue:
 1	Кимдин	ким	PRON	_	_	2	nsubj	_	_
 2	жазганын	жаз	VERB	_	_	4	ccomp	_	_
 3	эч	эч	ADV	_	_	4	advmod	_	_
@@ -289,11 +308,12 @@
 
 # sent_id = Cairo-kir-13
 # text = Эмнени карап жатасың?
-# translit = Emneni karap zhatasyŋ?
+# translit = Əmne-ni kara-p zhat-a-sıŋ?
+# glossing = what-ACC watch-PFV lay.down-PRS.PROG-2SG
+# issue:
 # text[en] = What are you looking at?
 # text[az] = Nәmәyә baxɪran?
 # text[tr] = Neye bakıyorsun?
-# issue:
 1	Эмнени	эмне	PRON	_	_	2	obl	_	_
 2	карап	кара	VERB	_	_	0	root	_	_
 3	жатасың	жат	AUX	_	_	2	aux	_	SpaceAfter=No
@@ -301,11 +321,12 @@
 
 # sent_id = Cairo-kir-14
 # text = Качан келе алам деп ойлойсуң?
-# translit = Kachan kele alam dep ojlojsuŋ?
+# translit = Kachan kel-e ala-m de-p oyloy-suŋ?
+# glossing = when come-SBJV take-PRS.2SG say-PFV think-PRS.2SG
+# issue:
 # text[en] = When do you think you can come?
 # text[az] = Fikr eliriz nə vaxt gələ bilərsiz?
 # text[tr] = Ne zaman gelebileceğini düşünüyorsun?
-# issue:
 1	Качан	качан	ADV	_	_	2	advmod	_	_
 2	келе	кел	VERB	_	_	4	ccomp	_	_
 3	алам	ал	AUX	_	_	2	aux	_	_
@@ -315,11 +336,12 @@
 
 # sent_id = Cairo-kir-15
 # text = Ал унаа сатып алды, бирок анын иниси жѳн гана велосипед.
-# translit = Al unaa satyp aldy, birok anyn inisi zhön ğana velosiped.
-# text[en] = He bought a car but his brother just a bike.
+# translit = Al unaa satı-p al-dı, birok a-nın ini-si zhön ğana velosiped.
+# glossing = he/she car buy-PFV take-PST.3SG but he/she-GEN younger.brother-POSS.3SG just only bike
+# issue:
+# text[en] = He/She bought a car but his/her younger brother just a bike.
 # text[az] = O bir dәnә maşɪn aldɪ amma qardaşı fәqәt çәrx aldɪ.
 # text[tr] = O bir araba aldı ama erkek kardeşi sadece bir bisiklet.
-# issue:
 1	Ал	ал	PRON	_	_	4	nsubj	_	_
 2	унаа	унаа	NOUN	_	_	4	obj	_	_
 3	сатып	сат	VERB	_	_	4	compound	_	_
@@ -335,11 +357,12 @@
 
 # sent_id = Cairo-kir-16
 # text = Питер менен Мэри бири-бирин кучакташты, андан соң бѳлмѳдѳн чыгып кетишти.
-# translit = Piter menen Mjeri biri-birin kuchaktashty, andan soŋ bölmödön chyğyp ketishti.
-# text[en] = Peter and Mary hugged each other and then left the room.
-# text[az] = Peterinәn Mary qucaxlaşdɪlar/ birbirlәrini qucaxladɪlar vә sora otağdan çɪxdɪlar.
-# text[tr] = Peter ve Mary birbirlerini kucakladılar ve sonra odadan çıktılar.	
+# translit = Piter menen Məri biri-birin kuchakta-sh-tı, a-ndan soŋ bölmö-dön chığ-ıp ket-ish-ti.
+# glossing = Peter and Mary each.other hug-RECP-PST.3SG that-ABL after room-ABL exit-PFV go-RECP-PST.3SG
 # issue:
+# text[en] = Peter and Mary hugged each other and then left the room.
+# text[az] = Peterinәn Mary qucaxlaşdɪlar vә sora otaqdan çɪxdɪlar.
+# text[tr] = Peter ve Mary birbirlerini kucakladılar ve sonra odadan çıktılar.	
 # note: "бири-бирин" - lemma: "бир-бир"
 1	Питер	Питер	PROPN	_	_	7	nsubj	_	_
 2	менен	менен	SCONJ	_	_	3	cc	_	_
@@ -349,26 +372,27 @@
 6	бирин	бир	PRON	_	_	4	fixed	_	_
 7	кучакташты	кучакта	VERB	_	_	0	root	_	SpaceAfter=No
 8	,	,	PUNCT	_	_	7	punct	_	_
-9	андан	анда	PRON	_	_	12	obl	_	_
+9	андан	ал	PRON	_	_	12	obl	_	_
 10	соң	соң	ADP	_	_	9	case	_	_
 11	бѳлмѳдѳн	бѳлмѳ	NOUN	_	_	12	obl	_	_
 12	чыгып	чык	VERB	_	_	7	conj	_	_
 13	кетишти	кет	AUX	_	_	12	aux	_	SpaceAfter=No
-14	.	_	PUNCT	_	_	7	punct	_	_
+14	.	.	PUNCT	_	_	7	punct	_	_
 
 # sent_id = Cairo-kir-16.1
 # text = Питер менен Мэри кучакташты, андан соң бѳлмѳдѳн чыгып кетишти.
-# translit = Piter menen Mjeri kuchaktashty, andan soŋ bölmödön chyğyp ketishti.
-# text[en] = Peter and Mary hugged each other and then left the room.
-# text[az] = Peterinәn Mary qucaxlaşdɪlar/ birbirlәrini qucaxladɪlar vә sora otağdan çɪxdɪlar.
-# text[tr] = Peter ve Mary kucaklaştılar ve sonra odadan çıktılar.
+# translit = Piter menen Məri kuchakta-sh-tı, a-ndan soŋ bölmö-dön chığ-ıp ket-ish-ti.
+# glossing = Peter and Mary each other hug-RECP-PST.3SG that-ABL after room-ABL exit-PFV go-RECP-PST.3SG
 # issue:
+# text[en] = Peter and Mary hugged each other and then left the room.
+# text[az] = Peterinәn Mary qucaxlaşdɪlar vә sora otaqdan çɪxdɪlar.
+# text[tr] = Peter ve Mary kucaklaştılar ve sonra odadan çıktılar.
 1	Питер	Питер	PROPN	_	_	4	nsubj	_	_
 2	менен	менен	SCONJ	_	_	3	cc	_	_
 3	Мэри	Мэри	PROPN	_	_	1	conj	_	_
 4	кучакташты	кучакта	VERB	_	_	0	root	_	SpaceAfter=No
 5	,	,	PUNCT	_	_	4	punct	_	_
-6	андан	анда	PRON	_	_	9	obl	_	_
+6	андан	ал	PRON	_	_	9	obl	_	_
 7	соң	соң	ADP	_	_	6	case	_	_
 8	бѳлмѳдѳн	бѳлмѳ	NOUN	_	_	9	obl	_	_
 9	чыгып	чык	VERB	_	_	4	conj	_	_
@@ -377,11 +401,12 @@
 
 # sent_id = Cairo-kir-17
 # text = Ал чачын  жасалгалап туруш керек болчу, бирок эмнегедир ошол күнү жасаган эмес.
-# translit = Al chachyn zhasalğalap turush kerek bolchu, birok emneğedir oshol künü zhasağan emes.
-# text[en] = She should have been doing her hair but for some reason she would n't that day.
+# translit = Al chach-ın zhasalğa-lap tur-ush kerek bol-chu, birok əmneğe-dir oshol kün-ü zhasa-ğan əmes.
+# glossing = he/she hair-POSS.3SG decorate-PFV stand.up-INF.3SG need be-PST.3SG but for.some.reason that day make not 
+# issue:
+# text[en] = He/She should have been doing his/her hair but for some reason he/she wouldn't that day.
 # text[az] = Tüklәrin cürlǝmǝliydi, amma neçә dәlilә görә o gün elǝmәdi.
 # text[tr] = Saçını yapıyor olmalıydı ama nedense o gün yapmadı.
-# issue:
 1	Ал	ал	PRON	_	_	3	nsubj	_	_
 2	чачын	чач	NOUN	_	_	3	obj	_	_
 3	жасалгалап	жасалгала	VERB	_	_	5	csubj	_	_
@@ -399,11 +424,12 @@
 
 # sent_id = Cairo-kir-18
 # text = Ага теңеле алган жокмун, анткени ал абдан тез чуркады.
-# translit = Ağa teŋele alğan zhokmun, antkeni al abdan tez churkady.
-# text[en] = I wasn't able to keep up , because he ran too fast.
+# translit = A-ğa teŋe-le al-ğan zhok-mun, antkeni al abdan tez churka-dı.
+# glossing = he/she-DAT equal take not.exist-1SG because.of he/she very fast run-PST.3SG
+# issue:
+# text[en] = I wasn't able to keep up, because he/she ran too fast.
 # text[az] = O çox yeyin qaçdɪğɪ için ona çata bilmәdim.
 # text[tr] = Ayak uyduramadım çünkü çok hızlı koştu.
-# issue:
 1	Ага	ал	PRON	_	_	2	obl	_	_
 2	теңеле	теңе	VERB	_	_	0	root	_	_
 3	алган	ал	AUX	_	_	2	aux	_	_
@@ -418,11 +444,12 @@
 
 # sent_id = Cairo-kir-19
 # text = Бул кат Питерден жана ал кечээ келди.
-# translit = Bul kat Piterden zhana al kechjeje keldi.
-# text[en] = This letter is from Peter and it was delivered yesterday .
+# translit = Bul kat Piter-den zhana al kechəə kel-di.
+# glossing = this letter Peter-ABL and it yesterday come-PST.3SG
+# issue:
+# text[en] = This letter is from Peter and it was delivered yesterday.
 # text[az] = Bu namә Perterdәndir vә dünәn yetişib(dir).
 # text[tr] = Bu mektup Peter'den ve dün iletildi.
-# issue:
 1	Бул	бул	DET	_	_	2	det	_	_
 2	кат	кат	NOUN	_	_	3	nsubj	_	_
 3	Питерден	Питер	PROPN	_	_	0	root	_	_
@@ -434,11 +461,12 @@
 
 # sent_id = Cairo-kir-20
 # text = Парижде, Франциянын борборунда, чоңойду.
-# translit = Parizhde, Franciyanyn borborunda, choŋojdu.
-# text[en] = She grew up in Paris , the capital of France .
+# translit = Parizh-de, Franziya-nın borbor-un-da, choŋoy-du.
+# glossing = Paris-LOC France-GEN capital-POSS.3SG-LOC grow.up-PST.3SG 
+# issue:
+# text[en] = He/She grew up in Paris, the capital of France.
 # text[az] = O Fәransәnin paytәxti, Parisdә böyüdü.
 # text[tr] = Paris'te, Fransanın başkentinde, büyüdü.
-# issue:
 1	Парижде	Париж	PROPN	_	_	6	obl	_	SpaceAfter=No
 2	,	,	PUNCT	_	_	4	punct	_	_
 3	Франциянын	Франция	PROPN	_	_	4	nmod	_	_
@@ -449,11 +477,12 @@
 
 # sent_id = Cairo-kir-20.1
 # text = Ал Франциянын борбору Парижде чоңойду.
-# translit = Al Franciyanyn borboru Parizhde, choŋojdu.
-# text[en] = She grew up in Paris, the capital of France.	
+# translit = Al Franziya-nın borbor-u Parizh-de, choŋoy-du.
+# glossing = he/she France-GEN capital-POSS.3SG Paris-LOC grow.up-PST.3SG 
+# issue:
+# text[en] = He/She grew up in Paris, the capital of France.	
 # text[az] = O Fәransәnin paytәxti, Parisdә böyüdü.
 # text[tr] = O Fransanın başkenti Paris'te büyüdü.
-# issue:
 1	Ал	ал	PRON	_	_	5	nsubj	_	_
 2	Франциянын	Франция	PROPN	_	_	3	nmod	_	_
 3	борбору	борбор	NOUN	_	_	4	nmod	_	_
@@ -462,13 +491,14 @@
 6	.	.	PUNCT	_	_	5	punct	_	_
 
 # sent_id = udtw23-kir-1
-# text = Жубайым дачадагы балдар бѳлмѳсүнүн терезесин шаша-буша тазалап, ашкананыкынкын тазалабай коюптур.
-# translit = Zhubajym dachadağy baldar bölmösünün terezesin shasha-busha tazalap, ashkananykyn tazalabaj koyuptur.
+# text = Жубайым дачадагы балдар бѳлмѳсүнүн терезесин шаша-буша тазалап, ашкананыкын тазалабай коюптур.
+# translit = Zhubayım dachadağı baldar bölmösünün terezesin shasha-busha tazalap, ashkananıkın tazalabay koyuptur.
+# glossing = wife summer.house child-PL room window in.a.hurry clean kitchen clean-NEG put
+# issue: Both uses of -ki, compound (vs nmod:poss), multi-word expressions, empty token
 # text[en] = My spouse cleaned the windows of the children's room at the summer house hastily, but didn't clean the kitchen's.
 # text[az] = Ərim bağdakı uşağ otağının pǝncǝrǝsini tez-tez tǝmizləmişdi, aşpazxananınkını tǝmizlǝmǝmişdi.
 # text[tr] = Eşim yazlıktaki çocuk odasının penceresini apar topar temizlemiş, mutfağınkini temizlememişti.
-# issue = Both uses of -ki, compound (vs nmod:poss), multi-word expressions, empty token
-1	Жубайым	Жубай	NOUN	_	_	13	nsubj	_	_
+1	Жубайым	жубай	NOUN	_	_	13	nsubj	_	_
 2	дачадагы	дача	NOUN	_	_	3	nmod	_	_
 3	балдар	бала	NOUN	_	_	4	nmod:poss	_	_
 4	бѳлмѳсүнүн	бѳлмѳ	NOUN	_	_	5	nmod:poss	_	_
@@ -478,8 +508,8 @@
 8	буша	буш	VERB	_	_	6	fixed	_	_
 9	тазалап	тазала	VERB	_	_	13	advcl	_	SpaceAfter=No
 10	,	,	PUNCT	_	_	13	punct	_	_
-11-12	ашкананыкынкын	_	_	_	_	_	_	_	_
-11	ашкананыкын	ашкана	NOUN	_	_	12	nmod:poss	_	_
+11-12	ашкананыкын	_	_	_	_	_	_	_	_
+11	ашкананы	ашкана	NOUN	_	_	12	nmod:poss	_	_
 12	кын	ки	PRON	_	_	13	obj	_	_
 13	тазалабай	тазала	VERB	_	_	0	root	_	_
 14	коюптур	кой	AUX	_	_	13	aux	_	SpaceAfter=No
@@ -487,11 +517,12 @@
 
 # sent_id = udtw23-kir-2
 # text = Мен сага муну дайыма айтам, күндѳ эртең менен досуң менен телефондо сүйлѳшкѳндѳ мен жѳнүндѳ сѳз кылба.
-# translit = Men sağa munu dajyma ajtam, kündö erteŋ menen dosuŋ menen telefondo süjlöshköndö men zhönündö söz kylba.
+# translit = Men sa-ğa mu-nu dayıma ayt-a-m, kün-dö ərteŋ menen dos-uŋ menen telefon-do süylö-sh-kön-dö men zhön-ün-dö söz kıl-ba.
+# glossing = I you-DAT this-ACC always tell-PRS.1SG day-LOC tomorrow with friend-POSS.2.SG with phone-LOC talk-RECP-LOC I topic-POSS.3SG-LOC word make-NEG.2SG 
+# issue: Oblique vs object, oblique (?) as temporal modifier
 # text[en] = I always tell you, when you talk with your friend on the phone in the morning, don't talk about me.
 # text[az] = Sənə bunu həmişə diyirəm, söbhlər yoldaşıynan telfunda danışanda mənim moridimdə danışma.
 # text[tr] = Sana bunu hep söylüyorum, sabahları arkadaşınla telefonda konuşurken benden bahsetme.
-# issue = Oblique vs object, oblique (?) as temporal modifier
 1	Мен	мен	PRON	_	_	5	nsubj	_	_
 2	сага	сен	PRON	_	_	5	obl	_	_
 3	муну	бул	PRON	_	_	5	obj	_	_
@@ -513,11 +544,12 @@
 
 # sent_id = udtw23-kir-3
 # text = Түнѳп калчу конок эшикти такылдатыптыр, бирок үйдүн ээси дагы эле үйдү жыйнап жаткан, ал эми ал ресторандан буюртма берген тамак келмек болчу.
-# translit = Tünöp kalchu konok eshikti takyldatyptyr, birok üjdün ezhesi dağy ele üjdü zhyjnap zhatkan, al emi al restorandan buyurtma berğen tamak kelmek bolchu.
+# translit = Tünö-p kal-chu konok əshik-ti takılda-tıptır, birok üy-dün əə-si dağı ələ üy-dü zhıyna-p zhat-kan, al əmi al restoran-dan buyurtma ber-ğen tamak kel-mek bol-chu.
+# glossing = 
+# issue: Compound_or_obj be_aux
 # text[en] = The guest that was going to stay for the night knocked on the door, but the owner of the house was still cleaning, and the food he had ordered from the restaurant was still coming.
 # text[az] = Gecəni qalan qonax qapını çalmışdı, amma ev sahab sil-süpür elirdi və resturandan sifariş verən qəza hələ gələcəgidi.
 # text[tr] = Yatılı kalacak misafir kapıyı çalmıştı ama ev sahibi hala temizlik yapıyordu, restorandan sipariş ettiği yemekise daha gelecekti.
-# issues = compound_or_obj be_aux
 1	Түнѳп	түнѳ	VERB	v.iv.gna_perf	Aspect=Perf|VerbForm=Conv	2	advcl	_	_
 2	калчу	кал	VERB	v.iv.gpr_hab	_	3	acl	_	_
 3	конок	конок	NOUN	n.nom	Case=Nom	5	nsubj	_	_
@@ -546,11 +578,12 @@
 
 # sent_id = udtw23-kir-4
 # text = Айша — доктур.
-# translit = Ajsha — doktur.
+# translit = Aysha — doktur.
+# glossing = Ayşe — doctor
+# issue: Null morpheme copula
 # text[en] = Ayşe is a doctor.
 # text[az] = Ayşə düktürdü(r).
 # text[tr] = Ayşe bir doktor.
-# issue = Null morpheme copula
 1	Айша	Айша	PROPN	_	_	3	nsubj	_	_
 2	—	—	PUNCT	_	_	3	punct	_	_
 3	доктур	доктур	NOUN	_	_	0	root	_	SpaceAfter=No
@@ -558,11 +591,12 @@
 
 # sent_id = udtw23-kir-5
 # text = Биз чечүүгѳ аракет кылып жаткан кѳйгѳй – китеп текчесинде беш китептик да орундун жоктугу.
-# translit = Biz chechüüğö araket kylyp zhatkan köjğöj – kitep tekchesinde besh kiteptik da orundun zhoktuğu.
+# translit = Biz chech-üü-ğö araket kıl-ıp zhat-kan köyğöy – kitep tekche-si-n-de besh kitep-tik da orun-dun zhoktuğ-u.
+# glossing = 
+# issue: Null morpheme copula with multiple subjects, productive/lexicalized derivation, internally_divided_case
 # text[en] = The (problem) we're trying to solve is that the bookshelf doesn't have room for even five books.
 # text[az] = Həll eləməyə təlaş elədigimiz məsələ kitabxanada beş dənə kitaba da yer olmamasıdır.
 # text[tr] = Çözmeye çalıştığımız (sorun) kitaplıkta beş kitaplık yer bile olmaması.
-# issue = Null morpheme copula with multiple subjects, productive/lexicalized derivation, internally_divided_case
 1	Биз	биз	PRON	_	_	3	nsubj	_	_
 2	чечүүгѳ	чеч	VERB	_	_	3	xcomp	_	_
 3	аракет	аракет	NOUN	_	_	4	obj	_	_
@@ -581,11 +615,12 @@
 
 # sent_id = udtw23-kir-5.1
 # text = Биз чечүүгѳ аракет кылып жаткан кѳйгѳй – китеп текчесинде беш китептик да орундун жоктугу.
-# translit = Biz chechüüğö araket kylyp zhatkan köjğöj – kitep tekchesinde besh kiteptik da orundun zhoktuğu.
+# translit = Biz chech-üü-ğö araket kıl-ıp zhat-kan köyğöy – kitep tekche-si-n-de besh kitep-tik da orun-dun zhoktuğ-u.
+# glossing = 
+# issue: Null morpheme copula with multiple subjects, productive/lexicalized derivation, internally_divided_case
 # text[en] = The (problem) we're trying to solve is that the bookshelf doesn't have room for even five books.
 # text[az] = Həll eləməyə təlaş elədigimiz məsələ kitabxanada beş dənə kitaba da yer olmamasıdır.
 # text[tr] = Çözmeye çalıştığımız (sorun) kitaplıkta beş kitaplık yer bile olmaması.
-# issue = Null morpheme copula with multiple subjects, productive/lexicalized derivation, internally_divided_case
 1	Биз	биз	PRON	_	_	3	nsubj	_	_
 2	чечүүгѳ	чеч	VERB	_	_	3	xcomp	_	_
 3	аракет	аракет	NOUN	_	_	4	compound:lvc	_	_
@@ -604,11 +639,12 @@
 
 # sent_id = udtw23-kir-5.2
 # text = Биз чечүүгѳ аракет кылып жаткан кѳйгѳй – китеп текчесинде беш китептик да орундун болбогону.
-# translit = Biz chechüüğö araket kylyp zhatkan köjğöj – kitep tekchesinde besh kiteptik da orundun bolboğonu.
+# translit = Biz chech-üü-ğö araket kıl-ıp zhat-kan köyğöy – kitep tekche-si-n-de besh kitep-tik da orun-dun bol-bo-ğon-u.
+# glossing = 
+# issue: Null morpheme copula with multiple subjects, productive/lexicalized derivation, internally_divided_case
 # text[en] = The (problem) we're trying to solve is that the bookshelf doesn't have room for even five books.
 # text[az] = Həll eləməyə təlaş elədigimiz məsələ kitabxanada beş dənə kitaba da yer olmamasıdır.
 # text[tr] = Çözmeye çalıştığımız (sorun) kitaplıkta beş kitaplık yer bile olmaması.
-# issue = Null morpheme copula with multiple subjects, productive/lexicalized derivation, internally_divided_case
 1	Биз	биз	PRON	_	_	3	nsubj	_	_
 2	чечүүгѳ	чеч	VERB	_	_	3	xcomp	_	_
 3	аракет	аракет	NOUN	_	_	4	obj	_	_
@@ -627,11 +663,12 @@
 
 # sent_id = udtw23-kir-6
 # text = Анын таенеси мед айым эле.
-# translit = Anyn tayenesi med ayim ele.
-# text[en] = His/her/their grandmother was a nurse.
+# translit = A-nın taene-si med ayım əle.
+# glossing = he/she-GEN grandmother-POSS.3SG med woman be-COP.PST.3SG
+# issue: Copula, multiword token compound
+# text[en] = His/her grandmother was a nurse.
 # text[az] = Böyük nənəsı  pərəstarıdı.
 # text[tr] = Anneannesi hemşireydi.
-# issue = Copula, multiword token compound
 1	Анын	ал	PRON	_	_	2	nmod:poss	_	_
 2	таенеси	таене	NOUN	_	_	4	nsubj	_	_
 3	мед	мед	ADJ	_	_	4	compound	_	_
@@ -641,11 +678,12 @@
 
 # sent_id = udtw23-kir-7
 # text = Макул, анда китеп текчесиндегилер кайда эле?
-# translit = Makul, anda kitep tekchesindeğiler kayda ele?
+# translit = Makul, anda kitep tekche-sin-de-ği-ler kayda əle?
+# glossing = all.right then book shelf where be-COP.PST.3SG
+# issue: Copula “idi”, derivation, -ki
 # text[en] = Okay, then where are/were the ones on the bookshelf? (So, where were the [ones] on the bookshelf?)
 # text[az] = Pəs kitabxanadakılar harda iydi?
 # text[tr] = Peki kitaplıktakiler nerede idi?
-# issue = Copula “idi”, derivation, -ki
 1	Макул	Макул	INTJ	_	_	7	discourse	_	SpaceAfter=No
 2	,	,	PUNCT	_	_	7	punct	_	_
 3	анда	анда	ADV	_	_	7	advmod	_	_
@@ -659,16 +697,17 @@
 
 # sent_id = udtw23-kir-8
 # text = Суде үч саат бою кеңседе болгон жок, Айша да үйдѳ болгон эмес экен.
-# translit = Sude uch saat boyu kensede bolğon zhok, Ajsha da uydo bolğon emes eken.
+# translit = Sude üch saat boyu keŋse-de bol-ğon zhok, Aysha da üy-do bol-ğon əmes əken.
+# glossing =  
+# issue: Temporal modifier / oblique, existential, “değil” negation, multiword token analytic verb form
 # text[en] = Sude wasn't in the office for a period of three hours, and Ayşe also wasn't at home.
 # text[az] = Sudə üç saatdı(r) afisdə dəyil, Ayşə də evdə dəyilmiş.
 # text[tr] = Sude üç saattir ofiste yokmuş, Ayşe de evde değilmiş.
-# issue = Temporal modifier / oblique, existential, “değil” negation, multiword token analytic verb form
 # note: aux/cop 
 1	Суде	Суде	PROPN	_	_	5	nsubj	_	_
 2	үч	үч	NUM	_	_	3	nummod	_	_
 3	саат	саат	NOUN	_	_	5	obl	_	_
-4	бою	бою	ADP	_	_	3	case	_	_
+4	бою	бой	ADP	_	_	3	case	_	_
 5	кеңседе	кеңсе	NOUN	_	_	0	root	_	_
 6	болгон	бол	AUX	_	_	5	aux	_	_
 7	жок	жок	ADJ	_	_	5	advmod	_	SpaceAfter=No
@@ -683,27 +722,29 @@
 
 # sent_id = udtw23-kir-9
 # text = Дүкѳндѳ жемиш бар, бирок жакшы эмес.
-# translit = Düköndö zhemish bar, birok zhakshi emes.
+# translit = Dükön-dö zhemish bar, birok zhakshı əmes.
+# glossing = 
+# issue: Existential, “değil” negation
 # text[en] = There's fruit at the store, but it's not nice.
 # text[az] = Bazarda mivə var amma yaxçı dǝyir.
 # text[tr] = Markette meyve var ama güzel değil.
-# issue = Existential, “değil” negation
 1	Дүкѳндѳ	дүкѳн	NOUN	_	_	3	obl	_	_
 2	жемиш	жемиш	NOUN	_	_	3	nsubj	_	_
 3	бар	бар	ADJ	_	_	0	root	_	SpaceAfter=No
 4	,	,	PUNCT	_	_	3	punct	_	_
 5	бирок	бирок	CCONJ	_	_	6	cc	_	_
 6	жакшы	жакшы	ADJ	_	_	3	conj	_	_
-7	эмес	_	ADV	_	_	6	advmod	_	SpaceAfter=No
+7	эмес	эмес	ADV	_	_	6	advmod	_	SpaceAfter=No
 8	.	.	PUNCT	_	_	3	punct	_	_
 
 # sent_id = udtw23-kir-10
 # text = Дениз доктур болот, билип кой!
-# translit = Deniz doktur bolot, bilip koy! (will be)
+# translit = Deniz doktur bol-ot, bil-ip koy! [will be]
+# glossing = 
+# issue: Copula, light verb auxiliary
 # text[en] = Deniz will be a doctor, know this!
 # text[az] = Deniz düktür olacax, bilmiş ol!
 # text[tr] = Deniz doktor olacak, bilmiş ol!
-# issue = Copula, light verb auxiliary
 1	Дениз	Дениз	PROPN	_	_	3	nsubj	_	_
 2	доктур	доктур	NOUN	_	_	3	xcomp	_	_
 3	болот	бол	VERB	_	_	0	root	_	SpaceAfter=No
@@ -714,11 +755,12 @@
 
 # sent_id = udtw23-kir-11
 # text = Дениз уктап калган эле.
-# translit = Deniz uktap kalğan ele.
+# translit = Deniz ukta-p kal-ğan əle.
+# glossing = Deniz sleep-PFV stay be-COP.PST.3SG
+# issue: Copula
 # text[en] = Deniz had fallen asleep.
 # text[az] = Deniz yatmış iydi.
 # text[tr] = Deniz uyumuş idi.
-# issue = Copula
 1	Дениз	Дениз	PROPN	_	_	2	nsubj	_	_
 2	уктап	укта	VERB	_	_	0	root	_	_
 3	калган	кал	AUX	_	_	2	aux	_	_
@@ -727,11 +769,12 @@
 
 # sent_id = udtw23-kir-12
 # text = Чогулуш боло тургандыгы айтылып жаткан учурда, ал ушунчалык таң калгандыктан окшойт, мени караган бойдон калды.
-# translit = Choğulush bolo turğandiği aytilip zhatkan uchurda, al ushunchalyk taŋ kalğandiktan okshoyt, meni karağan boydon kaldi.
+# translit = Choğulush bol-o tur-ğan-dı-ğı ayt-ıl-ıp zhat-kan uchur-da, al ushunchalık taŋ kal-ğan-dık-tan oksho-yt, men-i kara-ğan boy-don kal-dı.
+# glossing = 
+# issue: Converb, copula / AUX
 # text[en] = When it was being announced that there would be a meeting they must've been so surprised that they were left looking at me.
 # text[az] = Cǝlǝsǝ elam olanda o qədər tǝǝccüb elǝmişdi ki mǝnǝ elǝ mat mat baxırdı.
 # text[tr] = Toplantı duyurulurken çok şaşırmış olacak ki bana bakıp durdu.
-# issue = Converb, copula / AUX
 1	Чогулуш	чогулуш	NOUN	_	_	2	nsubj	_	_
 2	боло	бол	VERB	_	_	4	csubj	_	_
 3	тургандыгы	тур	PART	_	_	2	fixed	_	_
@@ -753,11 +796,12 @@
 
 # sent_id = udtw23-kir-13
 # text = Кардиганым үйдѳ бекен?
-# translit = Kardiğanim uydo beken?
-# text[en] = Is my cardigan at home?  (i.e., Did I leave it at home?)
+# translit = Kardiğa-nım üy-dö b-eken?
+# glossing = cardigan-POSS.1SG home-LOC Q-COP.3SG
+# issue: Question particle
+# text[en] = Is my cardigan at home? (i.e., Did I leave it at home?)
 # text[az] = Jakətim evdǝ iymiş?
-# text[tr] = Hırkam evde miymiş.
-# issue = Question particle
+# text[tr] = Hırkam evde miymiş?
 # note: cop/aux
 1	Кардиганым	кардиган	NOUN	_	_	2	nsubj	_	_
 2	үйдѳ	үй	NOUN	_	_	0	root	_	_
@@ -766,13 +810,14 @@
 
 # sent_id = udtw23-kir-13.1
 # text = Кардиганым үйдѳ болгон бекен?
-# translit = Kardiğanim uydo bolğon beken? (in Past Tense)
-# text[en] = Is my cardigan at home?  (i.e., Did I leave it at home?)
+# translit = Kardiğa-nım üy-dö bol-ğon b-eken? 
+# glossing = cardigan-POSS.1SG home-LOC be-PST.3SG Q-COP.3SG
+# issue: Question particle
+# text[en] = Is my cardigan at home? (i.e., Did I leave it at home?)
 # text[az] = Jakətim evdǝ iymiş?
-# text[tr] = Hırkam evde miymiş.
-# issue = Question particle
+# text[tr] = Hırkam evde miymiş?
 # note: cop/aux
-1	Кардиганым	Кардиган	NOUN	_	_	2	nsubj	_	_
+1	Кардиганым	кардиган	NOUN	_	_	2	nsubj	_	_
 2	үйдѳ	үй	NOUN	_	_	0	root	_	_
 3	болгон	бол	AUX	_	_	2	aux	_	_
 4	бекен	экен	AUX	_	_	2	aux	_	SpaceAfter=No
@@ -780,12 +825,13 @@
 
 # sent_id = udtw23-kir-14
 # text = Иш-чара бүгүн ѳткѳрүлѳбү?
-# translit = Ish-chara büğün ötkörülöbü? (passive)
+# translit = Ish-chara büğün öt-kör-ülö-bü? 
+# glossing = [passive]
+# issue: Question particle
 # text[en] = Is the event being held today?
 # text[en] = Is the event being held today?
 # text[az] = Mərasim büyün bərgüzar olacax?
 # text[tr] = Bugün mü yapılacak etkinlik?
-# issue = Question particle
 1	Иш	иш	NOUN	_	_	6	nsubj	_	SpaceAfter=No
 2	-	-	PUNCT	_	_	1	punct	_	SpaceAfter=No
 3	чара	чара	NOUN	_	_	1	fixed	_	_
@@ -797,11 +843,12 @@
 
 # sent_id = udtw23-kir-15
 # text = Натыйжалар жарыяланыптыр да, ээ?
-# translit = Natyizhalar zhariyalanyptyr da, ee ?
+# translit = Natıyzha-lar zharıyala-n-ıp-tır da, əə?
+# glossing = resalt-PL publish also isn't
+# issue: Question particle, tag question
 # text[en] = The results have been announced, haven't they?
 # text[az] = Nəticələr gəlmiş; belə dǝyil?
 # text[tr] = Sonuçlar açıklanmış, değil mi?
-# issue = Question particle, tag question
 1	Натыйжалар	натыйжа	NOUN	_	_	2	nsubj	_	_
 2	жарыяланыптыр	жарыяла	VERB	_	_	0	root	_	_
 3	да	да	INTJ	_	_	2	discourse	_	SpaceAfter=No
@@ -811,11 +858,12 @@
 
 # sent_id = udtw23-kir-16
 # text = Айша бул китепти окуган эмес.
-# translit = Ajsha bul kitepti okuğan emes. (Presend Pefect Tense)
+# translit = Aysha bul kitep-ti oku-ğan əmes. 
+# glossing = Ayşe this book-ACC read not [Present Pefect Tense]
+# issue: Negation, participle
 # text[en] = It is not the case that Ayşe has read this book.
 # text[az] = Ayşə bu kitabı oxumamış dǝyil.
 # text[tr] = Ayşe bu kitabı oku(ma)mış değil.
-# issue = Negation, participle
 1	Айша	Айша	PROPN	_	_	4	nsubj	_	_
 2	бул	бул	DET	_	_	3	det	_	_
 3	китепти	китеп	NOUN	_	_	4	obj	_	_
@@ -825,11 +873,12 @@
 
 # sent_id = udtw23-kir-16.1
 # text = Айша бул китепти окубай койгон жок.
-# translit = Ajsha bul kitepti okubai koyğon zhok.
-# text[en] = Ayşe didn't not read this book. (This is not the case, that Ajsha didn't read the book.)
+# translit = Aysha bul kitep-ti oku-ba-y koy-ğon zhok.
+# glossing = Ayşe this book-ACC read-NEG put not.exist 
+# issue: Negation, participle
+# text[en] = Ayşe didn't not read this book. [This is not the case, that Ajsha didn't read the book.]
 # text[az] = Ayşə bu kitabı oxumamış dǝyil.
 # text[tr] = Ayşe bu kitabı oku(ma)mış değil.
-# issue = Negation, participle
 1	Айша	Айша	PROPN	_	_	4	nsubj	_	_
 2	бул	бул	DET	_	_	3	det	_	_
 3	китепти	китеп	NOUN	_	_	4	obj	_	_
@@ -840,11 +889,12 @@
 
 # sent_id = udtw23-kir-17
 # text = Негизинен ал окуганды эмес, сүрѳт тартканды жакшы кѳрѳт.
-# translit = Neğizinen al okuğandi emes, süröt tartkandi zhakshi köröt.
+# translit = Neğiz-inen al oku-ğan-dı əmes, süröt tart-kan-dı zhakshı kör-öt.
+# glossing = 
+# issue: Negation, participle
 # text[en] = In general they like to paint, not to read.
 # text[az] = Kollən, oxumğı yox, amma nəqaşşi çekmağı söyür.
 # text[tr] = Genel olarak okumayı değil, resim yapmayı seviyor.
-# issue = Negation, participle
 1	Негизинен	негиз	ADV	_	_	9	obl	_	_
 2	ал	ал	PRON	_	_	9	nsubj	_	_
 3	окуганды	оку	VERB	_	_	9	ccomp	_	_
@@ -858,11 +908,12 @@
 
 # sent_id = udtw23-kir-18
 # text = Ал окугандары эмес, окуй тургандары тууралуу айтып жатат.
-# translit = Al okuğandari emes, okyi turğandari tuuraluu aytip zhatat.
+# translit = Al oku-ğan-da-rı əmes, oku-y tur-ğan-da-rı tuuraluu ayt-ıp zhat-at.
+# glossing = 
+# issue: Negation, participle
 # text[en] = They're telling me what they will read, not what they have read.
 # text[az] = Oxuduxlarını yox oxuyacaxlarını annadır.
 # text[tr] = Okuduklarını değil, okuyacaklarını anlatıyor.
-# issue = Negation, participle
 1	Ал	ал	PRON	_	_	8	nsubj	_	_
 2	окугандары	оку	VERB	_	_	8	ccomp	_	_
 3	эмес	эмес	ADV	_	_	2	advmod	_	SpaceAfter=No
@@ -876,11 +927,12 @@
 
 # sent_id = udtw23-kir-19
 # text = Мунун кѳгү жакшынакайыраак экен, мага кѳгүн берип коёсуңбу?
-# translit = Munun köğü zhakshinakayiraak eken, mağa köğün berip koyosünbü?
+# translit = Mun-un köğ-ü zhakshınakay-ıraak əken, mağa köğ-ün ber-ip koyo-osuŋ-bu?
+# glossing = 
+# issue:
 # text[en] = The blue [one] of these is prettier, could you give me the blue one?
 # text[az] = Bunun abisi çoxtər yaxçıdı. mənə abini verərsən?
 # text[tr] = Bunun mavisi daha güzel, bana maviyi verir misin? (Zero A -> N derivation, -si)
-# issue =
 1	Мунун	бул	PRON	_	_	2	nmod:poss	_	_
 2	кѳгү	кѳк	NOUN	_	_	3	nsubj	_	_
 3	жакшынакайыраак	жакшынакай	ADJ	_	_	0	root	_	_
@@ -894,11 +946,12 @@
 
 # sent_id = udtw23-kir-20
 # text = Жаштарды ишке ашырылбас максаттарынан баш тарттырышыбыз керек.
-# translit = Zhashtardi ishke ashirilbas maksattarinan bash tarttirishibiz kerek.
+# translit = Zhash-tar-dı ish-ke ash-ırıl-bas maksat-ta-rı-nan bash tart-tı-rı-shı-bız kerek.
+# glossing = 
+# issue: Multiple TAM markers, multi-word expressions
 # text[en] = We must make the young abandon unattainable goals.
 # text[az] = Cəvanlara elçatmaz hedeferini terk etdirmeliyik.
 # text[tr] = Gençlere erişilebilir olmayan hedefleri terk ettirmeliyiz.
-# issue = Multiple TAM markers, multi-word expressions
 1	Жаштарды	жаш	NOUN	_	_	7	obj	_	_
 2	ишке	иш	NOUN	_	_	3	compound	_	_
 3	ашырылбас	аш	VERB	_	_	4	acl	_	_
@@ -910,11 +963,12 @@
 
 # sent_id = udtw23-kir-21
 # text = Мугалим китепти алып мектепке кетти.
-# translit = Muğalim kitepti alyp mektepke ketti.
+# translit = Muğalim kitep-ti al-ıp mektep-ke ket-ti.
+# glossing = teacher book-ACC take-PFV school-DAT go-PST-3SG
+# issue:
 # text[en] = The teacher took the book and left for school.
 # text[az] = Moəllim kitabı alıp, mədrəsəyə getdi.
 # text[tr] = Öğretmen kitabı alıp okula gitti.
-# issue =
 1	Мугалим	мугалим	NOUN	_	_	5	nsubj	_	_
 2	китепти	китеп	NOUN	_	_	3	obj	_	_
 3	алып	ал	VERB	_	_	5	advcl	_	_
@@ -923,12 +977,13 @@
 6	.	.	PUNCT	_	_	5	punct	_	_
 
 # sent_id = udtw23-kir-22
-# text = Мугалим китепти мектепке  алып кетти.
-# translit = Muğalim kitepti mektepke alyp ketti.
+# text = Мугалим китепти мектепке алып кетти.
+# translit = Muğalim kitep-ti mektep-ke al-ıp ket-ti.
+# glossing = teacher book-ACC school-DAT take-PFV go-PST-3SG
+# issue:
 # text[en] = The teacher took the book to school.
 # text[az] = Moəllim kitabı alıp mədrəsəyə apardı.
 # text[tr] = Öğretmen kitabı okula götürdü.
-# issue =
 1	Мугалим	мугалим	NOUN	_	_	5	nsubj	_	_
 2	китепти	китеп	NOUN	_	_	5	obj	_	_
 3	мектепке	мектеп	NOUN	_	_	5	obl	_	_
@@ -936,37 +991,40 @@
 5	кетти	кет	VERB	_	_	0	root	_	SpaceAfter=No
 6	.	.	PUNCT	_	_	5	punct	_	_
 
-# sent_id = kir-1:90
+# sent_id = kir-1
 # text = Дениз уктады.
-# translit = Deniz uktady.
+# translit = Deniz ukta-dı.
+# glossing = Deniz sleep-PST-3SG
+# issue: Simple sentences [intransitive]
 # text[en] = Deniz slept.
 # text[az] = Deniz yoxladı.
 # text[tr] = Deniz uyudu.
-# issue: Simple sentences (intransitive)
 1	Дениз	Дениз	PROPN	_	_	2	nsubj	_	_
 2	уктады	укта	VERB	_	_	0	root	_	SpaceAfter=No
 3	.	.	PUNCT	_	_	2	punct	_	_
 
-# sent_id = kir-2:90
+# sent_id = kir-2
 # text = Дениз китеп окуп жатат.
-# translit = Deniz kitep okup zhatat.
+# translit = Deniz kitep oku-p zhat-at.
+# glossing = Deniz book read-PFV lay.down-PRS.PROG.3SG
+# issue: Simple sentences [transitive]
 # text[en] = Deniz is reading a book.
 # text[az] = Deniz kitab oxur.
-# text[tr] = Deniz kitap okuyor .
-# issue: Simple sentences (transitive)
+# text[tr] = Deniz kitap okuyor.
 1	Дениз	Дениз	PROPN	_	_	3	nsubj	_	_
 2	китеп	китеп	NOUN	_	_	3	obj	_	_
 3	окуп	оку	VERB	_	_	0	root	_	_
 4	жатат	жат	AUX	_	_	3	aux	_	SpaceAfter=No
 5	.	.	PUNCT	_	_	3	punct	_	_
 
-# sent_id = kir-3:90
+# sent_id = kir-3
 # text = Дениз кечинде үйдѳ китеп окуйт.
-# translit = Deniz kechinde üjdö kitep okujt.
+# translit = Deniz kech-in-de üy-dö kitep oku-y-t.
+# glossing = Deniz late-POSS.3SG-LOC home-LOC book read-PRS-3SG
+# issue: Simple sentences [with other modifiers]
 # text[en] = Deniz reads books in the evenings.
 # text[az] = Deniz axşamlar evdə kitab oxur.
 # text[tr] = Deniz akşamları evde kitap okur.
-# issue: Simple sentences (with other modifiers)
 1	Дениз	Дениз	PROPN	_	_	5	nsubj	_	_
 2	кечинде	кеч	NOUN	_	_	5	obl:tmod	_	_
 3	үйдѳ	үй	NOUN	_	_	5	obl	_	_
@@ -974,26 +1032,28 @@
 5	окуйт	оку	VERB	_	_	0	root	_	SpaceAfter=No
 6	.	.	PUNCT	_	_	5	punct	_	_
 
-# sent_id = kir-4:90
+# sent_id = kir-4
 # text = Дениз эжесине китепти берди.
-# translit = Deniz ezhesine kitepti berdi.
-# text[en] = Deniz gave the book to his/her sister / to his brother. (Dativ modifier)
-# text[az] = Deniz qardaşına kitabı verdi.
-# text[tr] = Deniz kardeşine kitabi verdi .
+# translit = Deniz əzhe-si-ne kitep-ti ber-di.
+# glossing = Deniz elder.sister-POSS.3SG-DAT book-ACC give-PST-3SG
 # issue: Object/oblique
+# text[en] = Deniz gave the book to his/her sister / to his brother. [Dativ modifier]
+# text[az] = Deniz qardaşına kitabı verdi.
+# text[tr] = Deniz kardeşine kitabi verdi.
 1	Дениз	Дениз	PROPN	_	_	4	nsubj	_	_
 2	эжесине	эже	NOUN	_	_	4	obl	_	_
 3	китепти	китеп	NOUN	_	_	4	obj	_	_
 4	берди	бер	VERB	_	_	0	root	_	SpaceAfter=No
 5	.	.	PUNCT	_	_	4	punct	_	_
 
-# sent_id = kir-5:90
+# sent_id = kir-5
 # text = Дениз китепти үйүнѳ алып кетти.
-# translit = Deniz kitepti üjünö alyp ketti.
-# text[en] = Deniz took the book home. (Another dative modifier).
+# translit = Deniz kitep-ti üy-ü-nö alı-p ket-ti.
+# glossing = Deniz book-ACC home-POSS.3SG-DAT take-PFV go-PST-3SG
+# issue: Object/oblique
+# text[en] = Deniz took the book home. [Another dative modifier].
 # text[az] = Deniz kitabı evə apardı.
 # text[tr] = Deniz kitabi eve götürdü.
-# issue: Object/oblique
 1	Дениз	Дениз	PROPN	_	_	5	nsubj	_	_
 2	китепти	китеп	NOUN	_	_	5	obj	_	_
 3	үйүнѳ	үй	NOUN	_	_	5	obl	_	_
@@ -1001,26 +1061,28 @@
 5	кетти	кет	VERB	_	_	0	root	_	SpaceAfter=No
 6	.	.	PUNCT	_	_	5	punct	_	_
 
-# sent_id = kir-6:90
+# sent_id = kir-6
 # text = Мугалим балдарга сабак ѳттү.
-# translit = Muğalim baldarğa sabak öttü.
-# text[en] = The teacher lectured the children. (Another dative modifier)
+# translit = Muğalim bal-dar-ğa sabak öt-tü.
+# glossing = teacher child-PL-DAT lesson pass-PST-3SG
+# issue: Object/oblique
+# text[en] = The teacher lectured the children. [Another dative modifier]
 # text[az] = Moəllim uşaqlara dərs verdi.
 # text[tr] = Öğretmen çocuklara ders verdi.
-# issue: Object/oblique
 1	Мугалим	мугалим	NOUN	_	_	4	nsubj	_	_
 2	балдарга	бала	NOUN	_	_	4	obl	_	_
 3	сабак	сабак	NOUN	_	_	4	compound	_	_
 4	ѳттү	ѳт	VERB	_	_	0	root	_	SpaceAfter=No
 5	.	.	PUNCT	_	_	4	punct	_	_
 
-# sent_id = kir-7:90
+# sent_id = kir-7
 # text = Дениз досуна китеп сатып алды.
-# translit = Deniz dosuna kitep satyp aldy.
-# text[en] = Deniz bought a book for his friend / for her friend. (Another dative modifier)
-# text[az] = Deniz yoldaşına bir dənə kitab ald
-# text[tr] = Deniz arkadaşına bir kitap aldi.
+# translit = Deniz dos-un-a kitep satıp aldı.
+# glossing = Deniz friend-POSS.3SG-DAT book sell-PFV take-PST-3SG
 # issue: Object/oblique
+# text[en] = Deniz bought a book for his friend / for her friend. [Another dative modifier]
+# text[az] = Deniz yoldaşına bir dənə kitab ald.
+# text[tr] = Deniz arkadaşına bir kitap aldi.
 1	Дениз	Дениз	PROPN	_	_	5	nsubj	_	_
 2	досуна	дос	NOUN	_	_	5	obl	_	_
 3	китеп	китеп	NOUN	_	_	5	obj	_	_
@@ -1028,52 +1090,55 @@
 5	алды	ал	VERB	_	_	0	root	_	SpaceAfter=No
 6	.	.	PUNCT	_	_	5	punct	_	_
 
-# sent_id = kir-8:90
+# sent_id = kir-8
 # text = Дениз эжеси менен жарашты.
-# translit = Deniz ezhesi menen zharashty.
-# text[en] = Deniz made peace with her sister / his brother. (Comitative)
+# translit = Deniz əzhe-si menen zharash-tı.
+# glossing = Deniz elder.sister-POSS.3SG with make.peace-PST.3SG
+# issue: Object/oblique
+# text[en] = Deniz made peace with her sister / his brother. [Comitative]
 # text[az] = Deniz qardaşıynan barışdı.
 # text[tr] = Deniz kardeşiyle barıştı.
-# issue: Object/oblique
 1	Дениз	Дениз	PROPN	_	_	4	nsubj	_	_
-2	эжеси	эжеси	NOUN	_	_	4	obl	_	_
+2	эжеси	эже	NOUN	_	_	4	obl	_	_
 3	менен	менен	CCONJ	_	_	2	case	_	_
 4	жарашты	жараш	VERB	_	_	0	root	_	SpaceAfter=No
 5	.	.	PUNCT	_	_	4	punct	_	_
 
-# sent_id = kir-8.1:90
+# sent_id = kir-8.1
 # text = Дениз байкеси менен элдешти.
-# translit = Deniz bajkesi menen eldeshti.
-# text[en] = Deniz made peace with her sister / his brother. (Comitative)
+# translit = Deniz bayke-si menen əldesh-ti.
+# glossing = Deniz elder.brother-POSS.3SG with make.peace-PST.3SG
+# issue: Object/oblique
+# text[en] = Deniz made peace with her sister / his brother. [Comitative]
 # text[az] = Deniz qardaşıynan barışdı.
 # text[tr] = Deniz kardeşiyle barıştı.
-# issue: Object/oblique
 1	Дениз	Дениз	PROPN	_	_	4	nsubj	_	_
 2	байкеси	байке	NOUN	_	_	4	obl	_	_
 3	менен	менен	CCONJ	_	_	2	case	_	_
 4	элдешти	элдеш	VERB	_	_	0	root	_	SpaceAfter=No
 5	.	.	PUNCT	_	_	4	punct	_	_
 
-# sent_id = kir-9:90
+# sent_id = kir-9
 # text = Дениз досторуна нааразы.
-# translit = Deniz dostoruna naarazy.
-# text[en] = Deniz is complaining about his friend / her friend. (Ablative modifier)
+# translit = Deniz dos-tor-u-na naarazı.
+# glossing = Deniz friend-PL-POSS.3SG-DAT complaine-PRS.3SG
+# issue: Object/oblique
+# text[en] = Deniz is complaining about his friend / her friend. [Ablative modifier]
 # text[az] = Deniz yoldaşlarınnan şikayət elir.
 # text[tr] = Deniz arkadaşlarindan yakiniyor.
-# issue: Object/oblique
 1	Дениз	Дениз	NOUN	_	_	3	nsubj	_	_
 2	досторуна	дос	NOUN	_	_	3	obl	_	_
 3	нааразы	нааразы	VERB	_	_	0	root	_	SpaceAfter=No
 4	.	.	PUNCT	_	_	3	punct	_	_
 
-# sent_id = kir-9.1:90
+# sent_id = kir-9.1
 # text = Дениз досунун үстүнѳн арызданып жатат.
-# translit = Deniz dosunun üstünön aryzdanyp zhatat.
-# translit = Deniz dosunun üstünön aryzdanyp zhatat.
-# text[en] = Deniz is complaining about his friend / her friend. (Ablative modifier)
+# translit = Deniz dos-u-nun üst-ü-nön arızdan-ıp zhat-at.
+# glossing = Deniz friend-POSS.3SG-GEN top-POSS.3SG-ABL complaine-PFV lay.down-PRS.PROG.3SG
+# issue: Object/oblique
+# text[en] = Deniz is complaining about his friend / her friend. [Ablative modifier]
 # text[az] = Deniz yoldaşlarınnan şikayət elir.
 # text[tr] = Deniz arkadaşlarindan yakiniyor.
-# issue: Object/oblique
 1	Дениз	Дениз	NOUN	_	_	4	nsubj	_	_
 2	досунун	дос	NOUN	_	_	3	nmod:poss	_	_
 3	үстүнѳн	үст	NOUN	_	_	4	obl	_	_
@@ -1081,25 +1146,27 @@
 5	жатат	жат	AUX	_	_	4	aux	_	SpaceAfter=No
 6	.	.	PUNCT	_	_	4	punct	_	_
 
-# sent_id = kir-10:90
+# sent_id = kir-10
 # text = Дениз эрте уктады.
-# translit = Deniz erte uktady.
-# text[en] = Deniz slept early.(Ablative more clearly a modifier)
-# text[az] = Deniz tezdən yatdı.
-# text[tr] = Deniz erkenden uyudu .
+# translit = Deniz ərte ukta-dı.
+# glossing = Deniz early sleep-PST-3SG
 # issue: Object/oblique
+# text[en] = Deniz slept early.[Ablative more clearly a modifier]
+# text[az] = Deniz tezdən yatdı.
+# text[tr] = Deniz erkenden uyudu.
 1	Дениз	Дениз	PROPN	_	_	3	nsubj	_	_
 2	эрте	эрте	ADV	_	_	3	obl:tmod	_	_
 3	уктады	укта	VERB	_	_	0	root	_	SpaceAfter=No
 4	.	.	PUNCT	_	_	3	punct	_	_
 
-# sent_id = kir-11:90
+# sent_id = kir-11
 # text = Дениз досу даярдаган тамактан эки табак жеди.
-# translit = Deniz dosu dayardağan tamaktan eki tabak zhedi.
-# text[en] = Deniz ate two plates from (of) the meal his friend cooked / her friend cooked. (Ablative, part/whole)
+# translit = Deniz dos-u dayarda-ğan tamak-tan əki tabak zhe-di.
+# glossing = Deniz friend prepare food two plate eat-PST-3SG
+# issue: Object/oblique
+# text[en] = Deniz ate two plates from (of) the meal his friend cooked / her friend cooked. [Ablative, part/whole]
 # text[az] = Deniz yoldaşının pişirdigi qəzadan ikki boşqab yedi.
 # text[tr] = Deniz arkadaşınin yaptiği yemekten iki tabak yedi.
-# issue: Object/oblique
 1	Дениз	Дениз	PROPN	_	_	7	nsubj	_	_
 2	досу	дос	NOUN	_	_	3	nsubj	_	_
 3	даярдаган	даярда	VERB	_	_	4	acl	_	_
@@ -1109,169 +1176,183 @@
 7	жеди	же	VERB	_	_	0	root	_	SpaceAfter=No
 8	.	.	PUNCT	_	_	7	punct	_	_
 
-# sent_id = kir-12:90
+# sent_id = kir-12
 # text = Дениз үч саат уктады.
-# translit = Deniz üch saat uktady.
-# text[en] = Deniz slept for three hours. (Non-case marked duration / distance modifier)
-# text[az] = Deniz üç saat yuxladı.
-# text[tr] = Deniz üç saat uyudu .
+# translit = Deniz üch saat ukta-dı.
+# glossing = Deniz three hour sleep-PST-3SG
 # issue: Object/oblique
+# text[en] = Deniz slept for three hours. [Non-case marked duration / distance modifier]
+# text[az] = Deniz üç saat yuxladı.
+# text[tr] = Deniz üç saat uyudu.
 1	Дениз	Дениз	PROPN	_	_	4	nsubj	_	_
 2	үч	үч	NUM	_	_	3	nummod	_	_
 3	саат	саат	NOUN	_	_	4	obl:tmod	_	_
 4	уктады	укта	VERB	_	_	0	root	_	SpaceAfter=No
 5	.	.	PUNCT	_	_	4	punct	_	_
 
-# sent_id = kir-13:90
+# sent_id = kir-13
 # text = Дениз ѳтѳ ылдам.
-# translit = Deniz ötö yldam.
-# text[en] = Deniz is very fast. (adj. predicate)
+# translit = Deniz ötö ıldam.
+# glossing = Deniz very fast
+# issue: Copula
+# text[en] = Deniz is very fast. [adj. predicate]
 # text[az] = Deniz çok yeyindir.
 # text[tr] = Deniz çok hizli.
-# issue: Copula
 1	Дениз	Дениз	PROPN	_	_	3	nsubj	_	_
 2	ѳтѳ	ѳт	ADV	_	_	3	advmod	_	_
 3	ылдам	ылдам	ADJ	_	_	0	root	_	SpaceAfter=No
 4	.	.	PUNCT	_	_	3	punct	_	_
 
-# sent_id = kir-14:90
+# sent_id = kir-14
 # text = Дениз студент.
 # translit = Deniz student.
-# text[en] = Deniz is a student. (nom. predicate)
+# glossing = Deniz student
+# issue: Copula
+# text[en] = Deniz is a student. [nom. predicate]
 # text[az] = Deniz mohəssildir.
 # text[tr] = Deniz öğrenci.
-# issue: Copula
 1	Дениз	Дениз	PROPN	_	_	2	nsubj	_	_
 2	студент	студент	NOUN	_	_	0	root	_	SpaceAfter=No
 3	.	.	PUNCT	_	_	2	punct	_	_
 
-# sent_id = kir-14.1:90
+# sent_id = kir-14.1
 # text = Дениз студент кыз.
-# translit = Deniz student kiz.
-# text[en] = Deniz is a student. (nom. predicate)
+# translit = Deniz student qız.
+# glossing = Deniz student girl
+# issue: Copula
+# text[en] = Deniz is a student. [nom. predicate]
 # text[az] = Deniz mohəssildir.
 # text[tr] = Deniz öğrenci.
-# issue: Copula
 1	Дениз	Дениз	PROPN	_	_	3	nsubj	_	_
 2	студент	студент	NOUN	_	_	3	nmod	_	_
 3	кыз	кыз	NOUN	_	_	0	root	_	SpaceAfter=No
 4	.	.	PUNCT	_	_	3	punct	_	_
 
-# sent_id = kir-15:90
+# sent_id = kir-15
 # text = Дениз студент.
 # translit = Deniz student.
-# text[en] = Deniz is a student. (nom. Predicate with -dir)
+# glossing = Deniz student
+# issue: Copula
+# text[en] = Deniz is a student. [nom. Predicate with -dir]
 # text[az] = Deniz mohəssildir.
 # text[tr] = Deniz öğrencidir.
-# issue: Copula
 1	Дениз	Дениз	PROPN	_	_	2	nsubj	_	_
 2	студент	студент	NOUN	_	_	0	root	_	SpaceAfter=No
 3	.	.	PUNCT	_	_	2	punct	_	_
 
-# sent_id = kir-16:90
+# sent_id = kir-16
 # text = Дениз доктур болот.
-# translit = Deniz doktur bolot.
-# text[en] = Deniz will become a doctor. ('become')
-# text[az] = Deniz düktür olacax.
-# text[tr] = Deniz doktor olacak .
+# translit = Deniz doktur bol-ot.
+# glossing = Deniz doctor be-FUT-3SG
 # issue: Copula
+# text[en] = Deniz will become a doctor. ['become']
+# text[az] = Deniz düktür olacax.
+# text[tr] = Deniz doktor olacak.
 1	Дениз	Дениз	PROPN	_	_	3	nsubj	_	_
 2	доктур	доктур	NOUN	_	_	3	xcomp	_	_
 3	болот	бол	VERB	_	_	0	root	_	SpaceAfter=No
 4	.	.	PUNCT	_	_	3	punct	_	_
 
-# sent_id = kir-17:90
+# sent_id = kir-17
 # text = Дениз үйдѳ.
-# translit = Deniz üjdö.
-# text[en] = Deniz is at home. (with case marking)
+# translit = Deniz üy-dö.
+# glossing = Deniz home-LOC
+# issue: Copula
+# text[en] = Deniz is at home. [with case marking]
 # text[az] = Deniz evdədir.
 # text[tr] = Deniz evde.
-# issue: Copula
 1	Дениз	Дениз	PROPN	_	_	2	nsubj	_	_
 2	үйдѳ	үй	NOUN	_	_	0	root	_	SpaceAfter=No
 3	.	.	PUNCT	_	_	2	punct	_	_
 
-# sent_id = kir-18:90
+# sent_id = kir-18
 # text = Дениз үйдѳ болчу.
-# translit = Deniz üjdö bolchu.
-# text[en] = Deniz was at home. (non-zero copular suffix)
+# translit = Deniz üy-dö bol-chu.
+# glossing = Deniz home-LOC be-PST.PFV.3SG
+# issue: Copula
+# text[en] = Deniz was at home. [non-zero copular suffix]
 # text[az] = Deniz evdəyidi.
 # text[tr] = Deniz evdeydi.
-# issue: Copula
 1	Дениз	Дениз	PROPN	_	_	3	nsubj	_	_
 2	үйдѳ	үй	NOUN	_	_	3	obl	_	_
 3	болчу	бол	VERB	_	_	0	root	_	SpaceAfter=No
 4	.	.	PUNCT	_	_	3	punct	_	_
 
-# sent_id = kir-19:90
+# sent_id = kir-19
 # text = Дениз үйдѳ эле.
-# translit = Deniz üydö ele.
-# text[en] = Deniz was at home. (Non-suffix copula)
+# translit = Deniz üy-dö əle.
+# glossing = Deniz home-LOC be-COP.PST.3SG
+# issue: Copula
+# text[en] = Deniz was at home. [Non-suffix copula]
 # text[az] = Deniz evdə iydi.
 # text[tr] = Deniz evde idi.
-# issue: Copula
 1	Дениз	Дениз	PROPN	_	_	2	nsubj	_	_
 2	үйдѳ	үй	NOUN	_	_	0	root	_	_
 3	эле	э	AUX	_	_	2	cop	_	SpaceAfter=No
 4	.	.	PUNCT	_	_	2	punct	_	_
 
-# sent_id = kir-20:90
+# sent_id = kir-20
 # text = Белек Дениз үчүн болчу.
-# translit = Belek Deniz üchün bolchu.
-# text[en] = The present was for Deniz. (Copular suffix attached to postposition.)
+# translit = Belek Deniz üchün bol-chu.
+# glossing = present Deniz for be-PST.PFV.3SG
+# issue: Copula
+# text[en] = The present was for Deniz. [Copular suffix attached to postposition]
 # text[az] = Hediye Deniz içindi.
 # text[tr] = Hediye Deniz içindi.
-# issue: Copula
 1	Белек	белек	NOUN	_	_	4	nsubj	_	_
 2	Дениз	Дениз	PROPN	_	_	4	obl	_	_
 3	үчүн	үчүн	ADP	_	_	2	case	_	_
 4	болчу	бол	VERB	_	_	0	root	_	SpaceAfter=No
 5	.	.	PUNCT	_	_	4	punct	_	_
 
-# sent_id = kir-21:90
+# sent_id = kir-21
 # text = Дениз уктап калган.
-# translit = Deniz uktap kalğan.
-# text[en] = Deniz had slept. (complex tense formed by copular suffix)
+# translit = Deniz ukta-p kal-ğan.
+# glossing = Deniz sleep-PFV stay
+# issue: Copula as auxiliary
+# text[en] = Deniz had slept. [complex tense formed by copular suffix]
 # text[az] = Deniz yatmışdı.
 # text[tr] = Deniz uyumuştu.
-# issue: Copula as auxiliary
 1	Дениз	Дениз	PROPN	_	_	2	nsubj	_	_
 2	уктап	укта	VERB	_	_	0	root	_	_
 3	калган	кал	AUX	_	_	2	aux	_	SpaceAfter=No
 4	.	.	PUNCT	_	_	2	punct	_	_
 
-# sent_id = kir-22:90
+# sent_id = kir-22
 # text = Дениз уктап калган эле.
-# translit = Deniz uktap kalğan ele.
-# text[en] = Deniz hat slept. (same with non-affixal copula)
+# translit = Deniz ukta-p kal-ğan əle.
+# glossing = Deniz sleep-PFV stay be-COP.PST.3SG
+# issue: Copula as auxiliary
+# text[en] = Deniz hat slept. [same with non-affixal copula]
 # text[az] = Deniz yatmış iydı.
 # text[tr] = Deniz uyumuş idi.
-# issue: Copula as auxiliary
 1	Дениз	Дениз	PROPN	_	_	2	nsubj	_	_
 2	уктап	укта	VERB	_	_	0	root	_	_
 3	калган	кал	AUX	_	_	2	aux	_	_
 4	эле	э	AUX	_	_	2	aux	_	SpaceAfter=No
 5	.	.	PUNCT	_	_	2	punct	_	_
 
-# sent_id = kir-23:90
+# sent_id = kir-23
 # text = Дениз уктаган болот.
-# translit = Deniz uktağan bolot.
-# text[en] = Deniz will have slept. (with auxiliary 'ol')
+# translit = Deniz ukta-ğan bol-ot.
+# glossing = Deniz sleep be-FUT
+# issue: Copula as auxiliary
+# text[en] = Deniz will have slept. [with auxiliary 'ol']
 # text[az] = Deniz yatmış olacax.
 # text[tr] = Deniz uyumuş olacak.
-# issue: Copula as auxiliary
 1	Дениз	Дениз	PROPN	_	_	2	nsubj	_	_
 2	уктаган	укта	VERB	_	_	0	root	_	_
 3	болот	бол	AUX	_	_	2	aux	_	SpaceAfter=No
 4	.	.	PUNCT	_	_	2	punct	_	_
 
-# sent_id = kir-24:90
+# sent_id = kir-24
 # text = Апасынын кыялы Дениздин жакшы мектепте окушу эле.
-# translit = Apasynyn kyyaly Denizdin zhakshy mektepte okushu ele.
-# text[en] = His/her mother's dream was for Deniz to study in a good school . (verbal-noun/copula with differing subjects.)
+# translit = Apa-sı-nın kıyal-ı Deniz-din zhakshı mektep-te oku-shu əle.
+# glossing = mother-POSS.3SG-GEN dream-POSS.3SG Deniz-GEN good school-LOC read be-COP.PST.3SG
+# issue: Copula with subordinate clauses / verbal nouns
+# text[en] = His/her mother's dream was for Deniz to study in a good school. [verbal-noun/copula with differing subjects]
 # text[az] = Anasının arzusu Denizin yaxçı bir mədrəsəde ders oxumasıydı.
 # text[tr] = Annesinin hayali Deniz'in iyi bir okulda okumasiydi.
-# issue: Copula with subordinate clauses / verbal nouns
 1	Апасынын	апа	NOUN	_	_	2	nmod:poss	_	_
 2	кыялы	кыял	NOUN	_	_	6	nsubj:outer	_	_
 3	Дениздин	Дениз	PROPN	_	_	6	nsubj	_	_
@@ -1281,13 +1362,14 @@
 7	эле	э	AUX	_	_	6	cop	_	SpaceAfter=No
 8	.	.	PUNCT	_	_	6	punct	_	_
 
-# sent_id = kir-25:90
+# sent_id = kir-25
 # text = Дениздин жакшы мектепте окубагандыгы апасын санаага салчу.
-# translit = Denizdin zhakshy mektepte okubağandyğy apasyn sanaağa salchu.
-# text[en] = The fact that Deniz did not study in a good school worried her mother. (alternation with no double subject)
+# translit = Deniz-din zhakshı mektep-te oku-ba-ğan-dı-ğı apa-sı-n sanaa-ğa sal-chu.
+# glossing = Deniz-GEN good school-LOC read-NEG mother-POSS.3SG-ACC worry-DAT put
+# issue: Copula with subordinate clauses / verbal nouns
+# text[en] = The fact that Deniz did not study in a good school worried her mother. [alternation with no double subject]
 # text[az] = Denizin yaxçı bir mədrəsədə dərs oxumaması anasını nigəran elirdi.
 # text[tr] = Deniz'in iyi bir okulda okumamasi annesini kaygilandiriyordu.
-# issue: Copula with subordinate clauses / verbal nouns
 1	Дениздин	Дениз	PROPN	_	_	4	nsubj	_	_
 2	жакшы	жакшы	ADJ	_	_	3	amod	_	_
 3	мектепте	мектеп	NOUN	_	_	4	obl	_	_
@@ -1297,13 +1379,14 @@
 7	салчу	сал	VERB	_	_	0	root	_	SpaceAfter=No
 8	.	.	PUNCT	_	_	7	punct	_	_
 
-# sent_id = kir-26:90
+# sent_id = kir-26
 # text = Столдо кѳп китеп бар, китеп текчеде жок.
-# translit = Stoldo köp kitep bar, kitep tekchede zhok.
-# text[en] = There are many books on the table, none in the bookshelf . (Positive/negative existentials)
+# translit = Stol-do köp kitep bar, kitep tekche-de zhok.
+# glossing = table-LOC many book exist book shelf-LOC not.exist
+# issue: Existentials
+# text[en] = There are many books on the table, none in the bookshelf. [Positive/negative existentials]
 # text[az] = Mizin üstündə çox kitab var, kitabxanda yox.
 # text[tr] = Masada çok kitap var, kitaplikta yok.
-# issue: Existentials
 1	Столдо	стол	NOUN	_	_	4	obl	_	_
 2	кѳп	кѳп	DET	_	_	3	det	_	_
 3	китеп	китеп	NOUN	_	_	4	nsubj	_	_
@@ -1314,13 +1397,14 @@
 8	жок	жок	ADJ	_	_	4	parataxis	_	SpaceAfter=No
 9	.	.	PUNCT	_	_	4	punct	_	_
 
-# sent_id = kir-26.1:90
+# sent_id = kir-26.1
 # text = Столдун үстүндѳ кѳп китеп бар, китеп текчеде жок.
-# translit = Stoldun üstündö köp kitep bar, kitep tekchede zhok.
-# text[en] = There are many books on the table, none in the bookshelf . (Positive/negative existentials)
+# translit = Stol-dun üst-ün-dö köp kitep bar, kitep tekche-de zhok.
+# glossing = table-GEN top-POSS.3SG-LOC  many book exist book shelf-LOC not.exist
+# issue: Existentials
+# text[en] = There are many books on the table, none in the bookshelf. [Positive/negative existentials]
 # text[az] = Mizin üstündə çox kitab var, kitabxanda yox.
 # text[tr] = Masada çok kitap var, kitaplikta yok.
-# issue: Existentials
 1	Столдун	стол	NOUN	_	_	2	nmod:poss	_	_
 2	үстүндѳ	үстүндѳ	NOUN	_	_	5	obl	_	_
 3	кѳп	кѳп	DET	_	_	4	det	_	_
@@ -1332,13 +1416,14 @@
 9	жок	жок	ADJ	_	_	5	parataxis	_	SpaceAfter=No
 10	.	.	PUNCT	_	_	5	punct	_	_
 
-# sent_id = kir-27:90
+# sent_id = kir-27
 # text = Дениздин эч бир китеби жок.
-# translit = Denizdin ech bir kitebi zhok.
-# text[en] = Deniz does not have any books . (expressions of possession)
+# translit = Deniz-din əch bir kiteb-i zhok.
+# glossing = Deniz-GEN nothing one book-POSS.3SG not.exist
+# issue: Existentials
+# text[en] = Deniz does not have any books. [expressions of possession]
 # text[az] = Denizin heç kitabı yox.
 # text[tr] = Deniz'in hiç kitabi yok.
-# issue: Existentials
 1	Дениздин	Дениз	PROPN	_	_	4	nmod:poss	_	_
 2	эч	эч	DET	_	_	4	det	_	_
 3	бир	бир	NUM	_	_	2	fixed	_	_
@@ -1346,52 +1431,56 @@
 5	жок	жок	ADJ	_	_	0	root	_	SpaceAfter=No
 6	.	.	PUNCT	_	_	5	punct	_	_
 
-# sent_id = kir-28:90
+# sent_id = kir-28
 # text = Дениз үйдѳ эмес эле.
-# translit = Deniz üjdö emes ele.
-# text[en] = Deniz was not at home. (nominal predicate negation)
+# translit = Deniz üy-dö əmes əle.
+# glossing = Deniz home-LOC not be-COP.PST.3SG
+# issue: Negation
+# text[en] = Deniz was not at home. [nominal predicate negation]
 # text[az] = Deniz evdə dəyildi.
 # text[tr] = Deniz evde değildi.
-# issue: Negation
 1	Дениз	Дениз	PROPN	_	_	2	nsubj	_	_
 2	үйдѳ	үй	NOUN	_	_	0	root	_	_
 3	эмес	эмес	ADV	_	_	2	advmod	_	_
 4	эле	э	AUX	_	_	2	cop	_	SpaceAfter=No
 5	.	.	PUNCT	_	_	2	punct	_	_
 
-# sent_id = kir-29:90
+# sent_id = kir-29
 # text = Дениз ѳз убагында уктабайт.
-# translit = Deniz öz ubağynda uktabajt.
-# text[en] = Deniz does not sleep on time. (simple negation)
+# translit = Deniz öz ubağ-ın-da ukta-bay-t.
+# glossing = Deniz own time-POSS.3SG-LOC sleep-NEG-3SG
+# issue: Negation
+# text[en] = Deniz does not sleep on time. [simple negation]
 # text[az] = Deniz vəxtikən yatmır.
 # text[tr] = Deniz zamaninda uyumuyor.
-# issue: Negation
 1	Дениз	Дениз	PROPN	_	_	4	nsubj	_	_
 2	ѳз	ѳз	DET	_	_	3	det	_	_
 3	убагында	убак	NOUN	_	_	4	obl:tmod	_	_
 4	уктабайт	укта	VERB	_	_	0	root	_	SpaceAfter=No
 5	.	.	PUNCT	_	_	4	punct	_	_
 
-# sent_id = kir-30:90
+# sent_id = kir-30
 # text = Дениз уктай албай жатат.
-# translit =  Deniz uktaj albaj zhatat.
-# text[en] = Deniz cannot sleep . (with -abil)
-# text[az] =
-# text[tr] = Deniz uyuyamiyor.
+# translit = Deniz ukta-y al-ba-y zhat-at.
+# glossing = Deniz sleep take-NEG lay.down-PRS.PROG.3SG
 # issue: Negation
+# text[en] = Deniz cannot sleep. [with -abil]
+# text[az] = Deniz yata bilmir.
+# text[tr] = Deniz uyuyamiyor.
 1	Дениз	Дениз	PROPN	_	_	2	nsubj	_	_
 2	уктай	укта	VERB	_	_	0	root	_	_
 3	албай	ал	AUX	_	_	2	aux	_	_
 4	жатат	жат	AUX	_	_	2	aux	_	SpaceAfter=No
 5	.	.	PUNCT	_	_	2	punct	_	_
 
-# sent_id = kir-31:90
+# sent_id = kir-31
 # text = Дениз ѳз убагында уктай албашы мүмкүн.
-# translit = Deniz öz ubağynda uktaj albashy mümkün.
-# text[en] = Deniz may not be able to sleep on time. (with double -abil)
+# translit = Deniz öz ubağ-ın-da ukta-y al-ba-shı mümkün.
+# glossing = Deniz own time-POSS.3SG-LOC sleep take-NEG maybe
+# issue: Negation
+# text[en] = Deniz may not be able to sleep on time. [with double -abil]
 # text[az] = Deniz vəxtikən yatmıya bilir.
 # text[tr] = Deniz zamaninda uyuyamayabilir.
-# issue: Negation
 1	Дениз	Дениз	PROPN	_	_	4	nsubj	_	_
 2	ѳз	ѳз	DET	_	_	3	det	_	_
 3	убагында	убак	NOUN	_	_	4	obl:tmod	_	_
@@ -1400,26 +1489,28 @@
 6	мүмкүн	мүмкүн	ADJ	_	_	0	root	_	SpaceAfter=No
 7	.	.	PUNCT	_	_	6	punct	_	_
 
-# sent_id = kir-32:90
+# sent_id = kir-32
 # text = Дениз апасын кѳрбѳй калды.
-# translit = Deniz apasyn körböj kaldy.
-# text[en] = (It turned out that) Deniz did not see her/his mother. (neg. with aux -ol)
+# translit = Deniz apa-sı-n kör-bö-y kal-dı.
+# glossing = Deniz mother-POSS.3SG-ACC see-NEG stay-PST
+# issue: Negation
+# text[en] = (It turned out that) Deniz did not see her/his mother. [neg. with aux -ol]
 # text[az] = Deniz anasın görmədi.
 # text[tr] = Deniz annesini görmemiş oldu.
-# issue: Negation
 1	Дениз	Дениз	PROPN	_	_	3	nsubj	_	_
 2	апасын	апа	NOUN	_	_	3	obj	_	_
 3	кѳрбѳй	кѳр	VERB	_	_	0	root	_	_
 4	калды	кал	AUX	_	_	3	aux	_	SpaceAfter=No
 5	.	.	PUNCT	_	_	3	punct	_	_
 
-# sent_id = kir-33:90
+# sent_id = kir-33
 # text = Дениз апасын кѳрүп калган жок.
-# translit = Deniz apasyn körüp kalğan zhok.
-# text[en] = (It turned out that) Deniz did not see her/his mother . (negation on aux)
-# text[az] =
-# text[tr] = Deniz annesini görmemiş oldu.
+# translit = Deniz apa-sı-n kör-üp kal-ğan zhok.
+# glossing = Deniz mother-POSS.3SG-ACC see-PFV stay not.exist
 # issue: Negation
+# text[en] = (It turned out that) Deniz did not see her/his mother. [negation on aux]
+# text[az] = [This structure is not possible in Azeri.]
+# text[tr] = Deniz annesini görmemiş oldu.
 1	Дениз	Дениз	PROPN	_	_	3	nsubj	_	_
 2	апасын	апа	NOUN	_	_	3	obj	_	_
 3	кѳрүп	кѳр	VERB	_	_	0	root	_	_
@@ -1427,13 +1518,14 @@
 5	жок	жок	AUX	_	_	3	aux	_	SpaceAfter=No
 6	.	.	PUNCT	_	_	3	punct	_	_
 
-# sent_id = kir-34:90
+# sent_id = kir-34
 # text = Дениз апасын кѳрбѳй калган жок.
-# translit = Deniz apasyn körböj kalğan zhok.
-# text[en] = (It turned out that) Deniz did not not-see her/his mother. (double negation)
-# text[az] = Deniz anasın görməmiş olmadı.
-# text[tr] =  Deniz annesini görmemiş olmadi.
+# translit = Deniz apa-sı-n kör-bö-y kal-ğan zhok.
+# glossing = Deniz mother-POSS.3SG-ACC see-NEG stay not.exist
 # issue: Negation
+# text[en] = (It turned out that) Deniz did not not-see her/his mother. [double negation]
+# text[az] = Deniz anasın görməmiş olmadı.
+# text[tr] = Deniz annesini görmemiş olmadi.
 1	Дениз	Дениз	PROPN	_	_	3	nsubj	_	_
 2	апасын	апа	NOUN	_	_	3	obj	_	_
 3	кѳрбѳй	кѳр	VERB	_	_	0	root	_	_
@@ -1441,13 +1533,14 @@
 5	жок	жок	AUX	_	_	3	aux	_	SpaceAfter=No
 6	.	.	PUNCT	_	_	3	punct	_	_
 
-# sent_id = kir-35:90
+# sent_id = kir-35
 # text = Окугандарын түшүнбѳй жатат.
-# translit = Okuğandaryn tüshünböj zhatat.
+# translit = Okuğandarın tüshünböy zhatat.
+# glossing = read understand-NEG lay.down-PRS.PROG.3SG
+# issue: Negation
 # text[en] = He/She does not understand things he/she reads.
 # text[az] = Oxuduxlarını düşünmürü.
 # text[tr] = Okuduklarini anlamiyir.
-# issue: Negation
 1-2	Окугандарын	_	_	_	_	_	_	_	_
 1	Окуган	оку	VERB	_	_	2	acl	_	_
 2	дарын	_	PRON	_	_	3	obj	_	_
@@ -1455,39 +1548,42 @@
 4	жатат	жат	AUX	_	_	3	aux	_	SpaceAfter=No
 5	.	.	PUNCT	_	_	3	punct	_	_
 
-# sent_id = kir-39:90
+# sent_id = kir-39
 # text = Дениз бѳлмѳдѳ эмес эле.
-# translit = Deniz bölmödö emes ele.
-# text[en] = Deniz was not in the room. (simple negation with 'değil')
+# translit = Deniz bölmö-dö əmes əle.
+# glossing = Deniz room-LOC not be-COP.PST.3SG
+# issue: Negation
+# text[en] = Deniz was not in the room. [simple negation with 'değil']
 # text[az] = Deniz otaqda dəyildi.
 # text[tr] = Deniz odada değildi.
-# issue: Negation
 1	Дениз	Дениз	PROPN	_	_	2	nsubj	_	_
 2	бѳлмѳдѳ	бѳлмѳ	NOUN	_	_	0	root	_	_
 3	эмес	эмес	ADV	_	_	2	advmod	_	_
 4	эле	э	AUX	_	_	2	cop	_	SpaceAfter=No
 5	.	.	PUNCT	_	_	2	punct	_	_
 
-# sent_id = kir-40:90
+# sent_id = kir-40
 # text = Дениз бѳлмѳдѳ жок эле.
-# translit = Deniz bölmödö zhok ele.
-# text[en] = Deniz was not in the room. (version with 'yok')
+# translit = Deniz bölmö-dö zhok əle.
+# glossing = Deniz room-LOC not.exist be-COP.PST.3SG
+# issue: Negation
+# text[en] = Deniz was not in the room. [version with 'yok']
 # text[az] = Deniz otaqda yoxdu(r).
 # text[tr] = Deniz odada yoktu .
-# issue: Negation
 1	Дениз	Дениз	PROPN	_	_	3	nsubj	_	_
 2	бѳлмѳдѳ	бѳлмѳ	NOUN	_	_	3	obl	_	_
 3	жок	жок	ADJ	_	_	0	root	_	_
 4	эле	э	AUX	_	_	3	cop	_	SpaceAfter=No
 5	.	.	PUNCT	_	_	3	punct	_	_
 
-# sent_id = kir-41:90
+# sent_id = kir-41
 # text = Дениздин китеп окугусу келип жатат.
-# translit = Denizdin kitep okuğusu kelip zhatat.
+# translit = Deniz-din kitep oku-ğu-su kel-ip zhat-at.
+# glossing = Deniz-GEN book read-INF-POSS.3SG come-PFV lay.down-PRS.PROG.3SG
+# issue: Clausal arguments/modifiers, non-finite verbs.
 # text[en] = Deniz wants read books.
 # text[az] = Deniz kitab oxumaq istəyir.
 # text[tr] = Deniz kitap okumak isitiyor.
-# issue: Clausal arguments/modifiers, non-finite verbs.
 1	Дениздин	Дениз	PROPN	_	_	3	nsubj	_	_
 2	китеп	китеп	NOUN	_	_	3	obj	_	_
 3	окугусу	оку	VERB	_	_	4	csubj	_	_
@@ -1495,13 +1591,14 @@
 5	жатат	жат	AUX	_	_	4	aux	_	SpaceAfter=No
 6	.	.	PUNCT	_	_	4	punct	_	_
 
-# sent_id = kir-48:90
+# sent_id = kir-48
 # text = Дениз каникул экенин унутуп мектепке барыптыр.
-# translit = Deniz kanikul ekenin unutup mektepke baryptyr.
-# text[en] = Deniz (evidentially) went to school (because) she/he had forgotten that it was holiday .
+# translit = Deniz kanikul əkenin unut-up mektep-ke bar-ıp-tır.
+# glossing = Deniz holiday that forget-PFV school-DAT go-PFV
+# issue: Clausal arguments/modifiers, non-finite verbs.
+# text[en] = Deniz (evidentially) went to school (because) she/he had forgotten that it was holiday.
 # text[az] = Deniz tətil olduğunu yadınnan cıxardıp, mədrəsəyə getmişdi.
 # text[tr] = Deniz tatil olduğunu unutup okula gitmiş.
-# issue: Clausal arguments/modifiers, non-finite verbs.
 # note: cop/aux
 1	Дениз	Дениз	PROPN	_	_	6	nsubj	_	_
 2	каникул	каникул	NOUN	_	_	4	ccomp	_	_
@@ -1511,13 +1608,14 @@
 6	барыптыр	бар	VERB	_	_	0	root	_	SpaceAfter=No
 7	.	.	PUNCT	_	_	6	punct	_	_
 
-# sent_id = kir-49:90
+# sent_id = kir-49
 # text = Дениз каникул экенин унутуп, сумкасын алып мектепке барыптыр.
-# translit = Deniz kanikul ekenin unutup, sumkasyn alyp mektepke baryptyr.
-# text[en] = Deniz took her/his bag and (evidentially) went to school (because) she/he had forgotten that it was holiday.
-# text[az] = 
-# text[tr] = Deniz tatil olduğunu unutup çantasisni alip okula gitmiş.
+# translit = Deniz kanikul əken-in unut-up, sumka-sı-n al-ıp mektep-ke bar-ıp-tır.
+# glossing = Deniz holiday that forget-PFV bagөPOSS.3SG-ACC take-PFV school-DAT go
 # issue: Clausal arguments/modifiers, non-finite verbs.
+# text[en] = Deniz took her/his bag and (evidentially) went to school (because) she/he had forgotten that it was holiday.
+# text[az] = Dəniz tətil olduğunu yadınnan cıxardıp kifini götürüb mədrəsəyə getdi.
+# text[tr] = Deniz tatil olduğunu unutup çantasisni alip okula gitmiş.
 # note: cop/aux
 1	Дениз	Дениз	PROPN	_	_	9	nsubj	_	_
 2	каникул	каникул	NOUN	_	_	4	ccomp	_	_
@@ -1530,13 +1628,14 @@
 9	барыптыр	бар	VERB	_	_	0	root	_	SpaceAfter=No
 10	.	.	PUNCT	_	_	9	punct	_	_
 
-# sent_id = kir-49.1:90
+# sent_id = kir-49.1
 # text = Дениз каникул болгонун унутуп, сумкасын алып мектепке барыптыр.
-# translit = Deniz kanikul bolğonun unutup, sumkasyn alyp mektepke baryptyr.
-# text[en] = Deniz took her/his bag and (evidentially) went to school (because) she/he had forgotten that it was holiday.
-# text[az] =
-# text[tr] = Deniz tatil olduğunu unutup çantasisni alip okula gitmiş .
+# translit = Deniz kanikul bol-ğo-nun unut-up, sumka-sı-n al-ıp mektep-ke bar-ıp-tır.
+# glossing = Deniz holiday be forget-PFV bag-POSS.3SG-ACC take-PFV school-DAT go-PFV
 # issue: Clausal arguments/modifiers, non-finite verbs.
+# text[en] = Deniz took her/his bag and (evidentially) went to school (because) she/he had forgotten that it was holiday.
+# text[az] = Dəniz tətil olduğunu yadınnan cıxardıp kifini götürüb mədrəsəyə getdi.
+# text[tr] = Deniz tatil olduğunu unutup çantasisni alip okula gitmiş.
 1	Дениз	Дениз	PROPN	_	_	4	nsubj	_	_
 2	каникул	каникул	NOUN	_	_	3	xcomp	_	_
 3	болгонун	бол	VERB	_	_	4	ccomp	_	_
@@ -1548,13 +1647,14 @@
 9	барыптыр	бар	VERB	_	_	0	root	_	SpaceAfter=No
 10	.	.	PUNCT	_	_	9	punct	_	_
 
-# sent_id = kir-50:90
+# sent_id = kir-50
 # text = Дениз кеч уктаса мектепке кечигет эле.
-# translit = Deniz kech zhatsa mektepke kechiğet ele.
-# text[en] = If Deniz sleeps late, he/she would be late .
+# translit = Deniz kech ukta-sa mektep-ke kech-i-ğet əle.
+# glossing = Deniz late sleep-COND school-DAT late be-COP.PST.3SG
+# issue: Clausal arguments/modifiers, non-finite verbs.
+# text[en] = If Deniz sleeps late, he/she would be late.
 # text[az] = Deniz gec yatsa mədrəsəyə gecikip.
 # text[tr] = Deniz geç uyursa okula geç kalip.
-# issue: Clausal arguments/modifiers, non-finite verbs.
 1	Дениз	Дениз	PROPN	_	_	3	nsubj	_	_
 2	кеч	кеч	ADV	_	_	3	advmod	_	_
 3	уктаса	укта	VERB	_	_	5	advcl	_	_
@@ -1563,13 +1663,14 @@
 6	эле	э	AUX	_	_	5	aux	_	SpaceAfter=No
 7	.	.	PUNCT	_	_	5	punct	_	_
 
-# sent_id = kir-51:90
+# sent_id = kir-51
 # text = Дениз кеч уктаса мектепке кечигип барат.
-# translit = Deniz kech zhatsa mektepke kechiğip kalat.
+# translit = Deniz kech ukta-sa mektep-ke kech-i-ğip kal-at.
+# glossing = Deniz late sleep-COND school-DAT late-PFV stay
+# issue: Clausal arguments/modifiers, non-finite verbs.
 # text[en] = If Deniz sleeps late, he/she will be late.
 # text[az] = Deniz gec yatsa mədrəsəyə gec qalacax.
 # text[tr] = Deniz geç uyursa okula geç kalacak.
-# issue: Clausal arguments/modifiers, non-finite verbs.
 1	Дениз	Дениз	PROPN	_	_	3	nsubj	_	_
 2	кеч	кеч	ADJ	_	_	3	advmod	_	_
 3	уктаса	укта	VERB	_	_	6	advcl	_	_
@@ -1578,13 +1679,14 @@
 6	барат	бар	VERB	_	_	0	root	_	SpaceAfter=No
 7	.	.	PUNCT	_	_	6	punct	_	_
 
-# sent_id = kir-51.1:90
+# sent_id = kir-51.1
 # text = Дениз кеч жатса мектепке кеч калат.
-# translit = Deniz kech zhatsa mektepke kech kalat.
+# translit = Deniz kech zhat-sa mektep-ke kech kal-at.
+# glossing = Deniz late lay.down-COND school-DAT late stay
+# issue: Clausal arguments/modifiers, non-finite verbs.
 # text[en] = If Deniz sleeps late, he/she will be late.
 # text[az] = Deniz gec yatsa mədrəsəyə gec qalacax.
 # text[tr] = Deniz geç uyursa okula geç kalacak.
-# issue: Clausal arguments/modifiers, non-finite verbs.
 1	Дениз	Дениз	PROPN	_	_	3	nsubj	_	_
 2	кеч	кеч	ADV	_	_	3	advmod	_	_
 3	жатса	жат	VERB	_	_	6	advcl	_	_
@@ -1593,14 +1695,14 @@
 6	калат	кал	VERB	_	_	0	root	_	SpaceAfter=No
 7	.	.	PUNCT	_	_	6	punct	_	_
 
-# sent_id = kir-52:90
+# sent_id = kir-52
 # text = Бала уктаса кино кѳрѳт элек.
-# translit = Bala uktasa kino köröt elek.
+# translit = Bala ukta-sa kino kör-öt əlek.
+# glossing = child sleep-COND movie watch be
 # issue: Clausal arguments/modifiers, non-finite verbs.
-# text[en] = If the child would sleep, we would watch a movie .
-# text[az] =
-# text[tr] = Çocuk uyumuş olsaydi film izleyecektik .
-# issue: Clausal arguments/modifiers, non-finite verbs.
+# text[en] = If the child would sleep, we would watch a movi.
+# text[az] = Uşaq yatsaydı filmə baxacaqıdıx.
+# text[tr] = Çocuk uyumuş olsaydi film izleyecektik.
 1	Бала	бала	NOUN	_	_	2	nsubj	_	_
 2	уктаса	укта	VERB	_	_	4	advcl	_	_
 3	кино	кино	NOUN	_	_	4	obj	_	_
@@ -1608,13 +1710,14 @@
 5	элек	э	AUX	_	_	4	aux	_	SpaceAfter=No
 6	.	.	PUNCT	_	_	4	punct	_	_
 
-# sent_id = kir-53:90
+# sent_id = kir-53
 # text = Эгер бала биз үйгѳ жеткиче уктап калса, барганыбызда ойготушубуз керек болот.
-# translit = Eğer bala biz üjğö zhetkiche uktap kalsa, barğanybyzda ojğotushubuz kerek bolot.
-# text[en] = If the child sleeps before we arrive home, we will need to wake him/her up .
-# text[az] = Əyər uşaq biz evə getməmış yatsa, yetişincə gərək onu oyandırax.
-# text[tr] = Eğer çocuk eve gitmeden uyursa vardiğimizda uyandirmamiz gerekecek .
+# translit = Əğer bala biz üy-ğö zhet-ki-che uktap kal-sa, bar-ğanı-bız-da oyğo-tu-shu-buz kerek bol-ot.
+# glossing = if child I-PL home-DAT enough sleep-PFV stay-COND go awake need be
 # issue: Clausal arguments/modifiers, non-finite verbs.
+# text[en] = If the child sleeps before we arrive home, we will need to wake him/her up.
+# text[az] = Əyər uşaq biz evə getməmış yatsa, yetişincə gərək onu oyandırax.
+# text[tr] = Eğer çocuk eve gitmeden uyursa vardiğimizda uyandirmamiz gerekecek.
 1	Эгер	эгер	SCONJ	_	_	6	mark	_	_
 2	бала	бала	NOUN	_	_	6	nsubj	_	_
 3	биз	биз	PROPN	_	_	5	nsubj	_	_
@@ -1629,35 +1732,38 @@
 12	болот	бол	VERB	_	_	0	root	_	SpaceAfter=No
 13	.	.	PUNCT	_	_	12	punct	_	_
 
-# sent_id = kir-54:90
+# sent_id = kir-54
 # text = Кѳңүлгѳ алба.
-# translit =  Köŋülğö alba.
-# text[en] = Nevermind. (typo)
-# text[az] = Boşla.
-# text[tr] = Boşver .
+# translit = Köŋül-ğö al-ba.
+# glossing = attention-DAT take.IMP-NEG
 # issue: MWE / segmentation
+# text[en] = Nevermind. [Typo]
+# text[az] = Boşla.
+# text[tr] = Boşver.
 1	Кѳңүлгѳ	кѳңүл	NOUN	_	_	2	obl	_	_
 2	алба	ал	VERB	_	_	0	root	_	SpaceAfter=No
 3	.	.	PUNCT	_	_	2	punct	_	_
 
-# sent_id = kir-55:90
+# sent_id = kir-55
 # text = Кѳңүлгѳ алба.
-# translit = Köŋülğö alba.
-# text[en] = Nevermind. (typo)
-# text[az] = Boşla.
-# text[tr] = Boşver .
+# translit = Köŋül-ğö al-ba.
+# glossing = attention-DAT take.IMP-NEG
 # issue: MWE / segmentation
+# text[en] = Nevermind. [Typo]
+# text[az] = Boşla.
+# text[tr] = Boşver.
 1	Кѳңүлгѳ	кѳңүл	NOUN	_	_	2	obl	_	_
 2	алба	ал	VERB	_	_	0	root	_	SpaceAfter=No
 3	.	.	PUNCT	_	_	2	punct	_	_
 
-# sent_id = kir-56:90
+# sent_id = kir-56
 # text = Бала эрте уктайт деп ойлоп жатам.
-# translit = Bala erte uktajt dep ojlop zhatam.
+# translit = Bala ərte ukta-y-t de-p oylo-p zhat-am.
+# glossing = child early sleep-FUT-3SG say-PFV think-PFV lay.down-PRS.PROG.3SG
+# issue: MWE / segmentation
 # text[en] = I think that the child will sleep early.
 # text[az] = Fikr elirəm ki uşaq tez yatacax.
 # text[tr] = Çocuğun erken uyuyacağini zannediyorum.
-# issue: MWE / segmentation
 1	Бала	бала	NOUN	_	_	3	nsubj	_	_
 2	эрте	эрте	ADV	_	_	3	advmod	_	_
 3	уктайт	укта	VERB	_	_	4	ccomp	_	_
@@ -1666,13 +1772,14 @@
 6	жатам	жат	AUX	_	_	5	aux	_	SpaceAfter=No
 7	.	.	PUNCT	_	_	5	punct	_	_
 
-# sent_id = kir-56.1:90
+# sent_id = kir-56.1
 # text = Баланын эрте уктарын ойлоп жатам.
-# translit = Balanyn erte uktaryn ojlop zhatam.
+# translit = Bala-nın ərte ukta-rı-n oylo-p zhat-am.
+# glossing = child-GEN early sleep think-PFV lay.down-PRS.PROG.1SG
+# issue: MWE / segmentation
 # text[en] = I think that the child will sleep early.
 # text[az] = Fikr elirəm ki uşaq tez yatacax.
 # text[tr] = Çocuğun erken uyuyacağini zannediyorum.
-# issue: MWE / segmentation
 1	Баланын	бала	NOUN	_	_	3	nsubj	_	_
 2	эрте	эрте	ADV	_	_	3	advmod	_	_
 3	уктарын	укта	VERB	_	_	4	ccomp	_	_
@@ -1680,13 +1787,14 @@
 5	жатам	жат	AUX	_	_	4	aux	_	SpaceAfter=No
 6	.	.	PUNCT	_	_	4	punct	_	_
 
-# sent_id = kir-57:90
+# sent_id = kir-57
 # text = Дениз бир тууганын жек кѳрѳт.
-# translit = Deniz bir tuuğanyn zhek köröt.
+# translit = Deniz bir tuuğan-ı-n zhek kör-öt.
+# glossing = Deniz one relative-POSS.3SG-[ACC] hate see-PRS.3SG
+# issue: MWE / segmentation
 # text[en] = Deniz hates their sibling.
 # text[az] = Deniz qardaşınnan acığı gelir.
 # text[tr] = Deniz kardeşinden nefret ediyor.
-# issue: MWE / segmentation
 1	Дениз	Дениз	PROPN	_	_	5	nsubj	_	_
 2	бир	бир	NUM	_	_	3	compound	_	_
 3	тууганын	тууган	NOUN	_	_	5	obj	_	_
@@ -1694,13 +1802,14 @@
 5	кѳрѳт	кѳр	VERB	_	_	0	root	_	SpaceAfter=No
 6	.	.	PUNCT	_	_	5	punct	_	_
 
-# sent_id = kir-58:90
+# sent_id = kir-58
 # text = Эртеңки күндү чыдамсыздык менен күтүп жатам.
-# translit = Erteŋki kündü chydamsyzdyk menen kütüp zhatam.
+# translit = Ərteŋ-ki kün-dü chıdam-sız-dık menen küt-üp zhat-am.
+# glossing = morning-ATTR day-LOC patience-ABE with.INST wait-PFV lay.down-PRS.PROG.1SG
+# issue: MWE / segmentation
 # text[en] = I am looking forward to tomorrow.
 # text[az] =
 # text[tr] = Yarini iple çekiyorum.
-# issue: MWE / segmentation
 1	Эртеңки	эртең	ADJ	_	_	2	amod	_	_
 2	күндү	күн	NOUN	_	_	5	obj	_	_
 3	чыдамсыздык	чыдамсыз	NOUN	_	_	5	obl	_	_
@@ -1709,26 +1818,28 @@
 6	жатам	жат	AUX	_	_	5	aux	_	SpaceAfter=No
 7	.	.	PUNCT	_	_	5	punct	_	_
 
-# sent_id = kir-59:90
+# sent_id = kir-59
 # text = Оорукана эл кызматына берилди.
-# translit = Oorukana el kyzmatyna berildi .
+# translit = Oorukana əl qızmat-ı-na ber-il-di.
+# glossing = hospital people service-POSS.3SG-DAT give-PASS-PST.3SG
+# issue: MWE / segmentation
 # text[en] = The hospital was made available to the public.
 # text[az] = Xəstəxana xalqın xidmətinə verildi.
 # text[tr] = Hastane halkin hizmetine sunuludu.
-# issue: MWE / segmentation
 1	Оорукана	оорукана	NOUN	_	_	4	nsubj	_	_
 2	эл	эл	NOUN	_	_	3	nmod:poss	_	_
 3	кызматына	кызмат	NOUN	_	_	4	obl	_	_
 4	берилди	бер	VERB	_	_	0	root	_	SpaceAfter=No
 5	.	.	PUNCT	_	_	4	punct	_	_
 
-# sent_id = kir-60:90
+# sent_id = kir-60
 # text = Чоң үйдѳгү бала китеп окуп жатат.
-# translit = Choŋ üydöğü bala kitep okup zhatat.
+# translit = Choŋ üy-dö-ğü bala kitep oku-p zhat-at.
+# glossing = big home-LOC-ATTR child book read-PFV lay.down-PRS.PROG.3SG
+# issue: MWE / segmentation
 # text[en] = The child in the big house is reading (a) book.
 # text[az] = Böyük evdəki uşaq kitab oxur.
 # text[tr] = Büyük evdeki çocuk kitap okuyor.
-# issue: MWE / segmentation
 1	Чоң	чоң	ADJ	_	_	2	amod	_	_
 2-3	үйдѳгү	_	_	_	_	_	_	_	_
 2	үйдѳ	үй	NOUN	_	_	4	nmod	_	_
@@ -1739,13 +1850,14 @@
 7	жатат	жат	AUX	_	_	6	aux	_	SpaceAfter=No
 8	.	.	PUNCT	_	_	6	punct	_	_
 
-# sent_id = kir-60.1:90
+# sent_id = kir-60.1
 # text = Чоң үйдѳгү бала китеп окуп жатат.
-# translit = Choŋ üydöğü kitep okup zhatat.
+# translit = Choŋ üy-dö-ğü bala kitep oku-p zhat-at.
+# glossing = big home-LOC-ATTR child book read-PFV lay.down-PRS.PROG.3SG
 # issue: MWE / segmentation
 # text[en] = The child in the big house is reading (a) book.
 # text[az] = Böyük evdəki uşaq kitab oxur.
-# text[tr] = Büyük evdeki çocuk kitap okuyor .
+# text[tr] = Büyük evdeki çocuk kitap okuyor.
 1	Чоң	чоң	ADJ	_	_	2	amod	_	_
 2	үйдѳгү	үй	NOUN	_	_	3	nmod	_	_
 3	бала	бала	NOUN	_	_	5	nsubj	_	_
@@ -1754,13 +1866,14 @@
 6	жатат	жат	AUX	_	_	5	aux	_	SpaceAfter=No
 7	.	.	PUNCT	_	_	5	punct	_	_
 
-# sent_id = kir-61:90
+# sent_id = kir-61
 # text = Чоң үйдѳгү китеп окуп жатат.
-# translit = Choŋ üydöğü kitep okup zhatat.
-# text[en] = The one in the big house is reading (a) book.
-# text[az] =
-# text[tr] = Büyük evdeki kitap okuyor .
+# translit = Choŋ üy-dö-ğü kitep oku-p zhat-at.
+# glossing = big home-LOC-ATTR book read-PFV lay.down-PRS.PROG.3SG
 # issue: MWE / segmentation
+# text[en] = The one in the big house is reading (a) book.
+# text[az] = Böyük evdəki kitab oxur.
+# text[tr] = Büyük evdeki kitap okuyor.
 1	Чоң	чоң	ADJ	_	_	2	amod	_	_
 2-3	үйдѳгү	_	_	_	_	_	_	_	_
 2	үйдѳ	үй	NOUN	_	_	3	nmod	_	_
@@ -1770,26 +1883,28 @@
 6	жатат	жат	AUX	_	_	5	aux	_	SpaceAfter=No
 7	.	.	PUNCT	_	_	5	punct	_	_
 
-# sent_id = kir-63:90
+# sent_id = kir-63
 # text = Пиязды кызарганга чейин кууруңуз.
-# translit = Piyazdi kyzarğanğa cheyin kuuruŋuz.
+# translit = Piyaz-dı qızar-ğan-ğa cheyin kuur-u-ŋuz.
+# glossing = onion-ACC become.red-PTCP-DAT until fry-IMP-2SG.FRM
+# issue: MWE / segmentation
 # text[en] = Fry the onions until they become dark pinк.
 # text[az] = Soğanları qərələnə çan qızardın.
 # text[tr] = Soğanlari koyu pembeleşinceye kadar kavurun.
-# issue: MWE / segmentation
 1	Пиязды	пияз	NOUN	_	_	4	obj	_	_
 2	кызарганга	кызар	VERB	_	_	4	advcl	_	_
 3	чейин	чейин	ADP	_	_	2	case	_	_
 4	кууруңуз	куур	VERB	_	_	0	root	_	SpaceAfter=No
 5	.	.	PUNCT	_	_	4	punct	_	_
 
-# sent_id = kir-64:90
+# sent_id = kir-64
 # text = Үйдүн алдында үч унаалык унаа токтоотуучу жай бар.
-# translit = Üydün aldynda üch unaalyk unaa toktoochuchu zhay bar.
+# translit = Üy-dün aldı-n-da üch unaa-lık unaa tokto-o-tuu-chu zhay bar.
+# glossing = home-GEN front-POSS.3SG-LOC three car.PRTV car stop place exist
+# issue: MWE / segmentation
 # text[en] = There is a three-car parking place in front of the house.
 # text[az] = Evin qabağında üç maşınlıq park yeri var.
-# text[tr] = Evin önünde üç arabalik park yeri var .
-# issue: MWE / segmentation
+# text[tr] = Evin önünde üç arabalik park yeri var.
 1	Үйдүн	үй	NOUN	_	_	2	nmod:poss	_	_
 2	алдында	алды	NOUN	_	_	8	obl	_	_
 3	үч	үч	NUM	_	_	4	nummod	_	_
@@ -1800,13 +1915,14 @@
 8	бар	бар	ADJ	_	_	0	root	_	SpaceAfter=No
 9	.	.	PUNCT	_	_	8	punct	_	_
 
-# sent_id = kir-65:90
+# sent_id = kir-65
 # text = Ыйык китепсиз диндер да бар.
-# translit = Yjyk kitepsiz dinder da bar.
+# translit = Iyık kitep-siz din-der da bar.
+# glossing = holy book-ABE religion-PL also exist
+# issue: MWE / segmentation (китепсиз)
 # text[en] = There are religions without holly books.
 # text[az] = Muqəddəs kitabı olmuyan dinlər də var.
 # text[tr] = Kutsal kitapsiz dinler de var.
-# issue: MWE / segmentation (китепсиз)
 1	Ыйык	ыйык	ADJ	_	_	2	amod	_	_
 2	китепсиз	китепсиз	NOUN	_	_	3	nmod	_	_
 3	диндер	дин	NOUN	_	_	5	nsubj	_	_
@@ -1814,13 +1930,14 @@
 5	бар	бар	ADJ	_	_	0	root	_	SpaceAfter=No
 6	.	.	PUNCT	_	_	5	punct	_	_
 
-# sent_id = kir-65.1:90
+# sent_id = kir-65.1
 # text = Ыйык китеби болбогон диндер да бар.
-# translit = Iyıq kitebi bolboğon dinder da bar.
+# translit = Iyıq kiteb-i bol-bo-ğon din-der da bar.
+# glossing = holy book-POSS.3SG be-NEG-PTCP religion-PL also exist
+# issue: MWE / segmentation
 # text[en] = There are also/even religions without holy books.
 # text[az] = Muqəddəs kitabı olmuyan dinlər də var.
 # text[tr] = Kutsal kitapsiz dinler de var.
-# issue: MWE / segmentation
 1	Ыйык	ыйык	ADJ	_	_	2	amod	_	_
 2	китеби	китеп	NOUN	_	_	3	nsubj	_	_
 3	болбогон	бол	VERB	_	_	4	acl:relcl	_	_
@@ -1829,13 +1946,14 @@
 6	бар	бар	ADJ	_	_	0	root	_	SpaceAfter=No
 7	.	.	PUNCT	_	_	6	punct	_	_
 
-# sent_id = kir-66:90
+# sent_id = kir-66
 # text = Кичине терезелүү үйдѳ жетиштүү жарык жок.
-# translit = Kichine terezelüü üydö zhetishtüü zharyk zhok.
-# text[en] = There is not enough light in the house with small windows .
+# translit = Kichine tereze-lüü üy-dö zhetish-tüü zharık zhok.
+# glossing = small window.ORN home-LOC enough-ORN light not.exist
+# issue: MWE / segmentation
+# text[en] = There is not enough light in the house with small windows.
 # text[az] = Kiçik pəncərəli evlərdə kifayət qədər işıq yoxdur.
 # text[tr] = Küçük pencereli evde yeterince işik yok.
-# issue: MWE / segmentation
 1	Кичине	кичине	ADJ	_	_	2	amod	_	_
 2	терезелүү	терезе	NOUN	_	_	3	nmod	_	_
 3	үйдѳ	үй	NOUN	_	_	6	obl	_	_
@@ -1844,13 +1962,14 @@
 6	жок	жок	ADJ	_	_	0	root	_	SpaceAfter=No
 7	.	.	PUNCT	_	_	6	punct	_	_
 
-# sent_id = kir-66.1:90
+# sent_id = kir-66.1
 # text = Кичине терезелүү үйдѳ жарык жетишсиз.
-# translit = Kichine terezelüü üydö jaryk zhetishsiz.
+# translit = Kichine tereze-lüü üy-dö zharık zhetish-siz.
+# glossing = small window.ORN home-LOC light enough-ABE
+# issue: MWE / segmentation (second variant of the translation)
 # text[en] = There is not enough light in the house with small windows.
 # text[az] = Kiçik pəncərəli evlərdə kifayət qədər işıq yoxdur.
 # text[tr] = Küçük pencereli evde yeterince işik yok.
-# issue: MWE / segmentation (second variant of the translation)
 1	Кичине	кичине	ADJ	_	_	2	amod	_	_
 2	терезелүү	терезе	NOUN	_	_	3	nmod	_	_
 3	үйдѳ	үй	NOUN	_	_	5	obl	_	_
@@ -1858,13 +1977,14 @@
 5	жетишсиз	жетишсиз	ADJ	_	_	0	root	_	SpaceAfter=No
 6	.	.	PUNCT	_	_	5	punct	_	_
 
-# sent_id = kir-67:90
+# sent_id = kir-67
 # text = Дениз үйгѳ келдиби?
-# translit = Deniz üyğö keldibi?
+# translit = Deniz üy-ğö keldi-bi?
+# glossing = Deniz home-DAT come-PST.3SG-Q
+# issue: Question particle
 # text[en] = Did Deniz come home?
 # text[az] = Deniz evə gəldi?
 # text[tr] = Deniz eve geldi mi?
-# issue: Question particle
 1	Дениз	Дениз	PROPN	_	_	3	nsubj	_	_
 2	үйгѳ	үй	NOUN	_	_	3	obl	_	_
 3-4	келдиби	_	_	_	_	_	_	_	SpaceAfter=No
@@ -1872,13 +1992,14 @@
 4	би	бы	PART	_	_	3	discourse	_	_
 5	?	?	PUNCT	_	_	3	punct	_	_
 
-# sent_id = kir-68:90
+# sent_id = kir-68
 # text = Дениз үйгѳ келген беле?
-# translit = Deniz üyğö kelğen bele?
-# text[en] = Had Deniz come home? ( copula/aux attached to -mi)
-# text[az] = Deniz evə gəlmişdi?
-# text[tr] = Deniz eve gelmiş miydi?
+# translit = Deniz üy-ğö kel-ğen b-ele?
+# glossing = Deniz home-DAT come-PST.PFV Q-COP.PST.3SG
 # issue: Question particle
+# text[en] = Had Deniz come home? 
+# text[az] = Deniz evə gəlmişdi?
+# text[tr] = Deniz eve gelmiş miydi? [copula/aux attached to -mi]
 1	Дениз	Дениз	PROPN	_	_	3	nsubj	_	_
 2	үйгѳ	үй	NOUN	_	_	3	obl	_	_
 3	келген	кел	VERB	_	_	0	root	_	_
@@ -1887,26 +2008,28 @@
 5	еле	э	AUX	_	_	3	aux	_	_
 6	?	?	PUNCT	_	_	3	punct	_	_
 
-# sent_id = kir-69:90
+# sent_id = kir-69
 # text = Дениз үйдѳбү?
-# translit = Deniz üydöbü?
-# text[en] = Is Deniz at home? (copula)
-# text[az] = Deniz evdə?
-# text[tr] = Deniz evede mi?
+# translit = Deniz üydö-bü?
+# glossing = Deniz home-LOC-Q
 # issue: Question particle
+# text[en] = Is Deniz at home? 
+# text[az] = Deniz evdə?
+# text[tr] = Deniz evede mi? [copula "mi"]
 1	Дениз	Дениз	PROPN	_	_	2	nsubj	_	_
 2-3	үйдѳбү	_	_	_	_	_	_	_	SpaceAfter=No
 2	үйдѳ	үй	NOUN	_	_	0	root	_	_
 3	бү	бы	PART	_	_	2	discourse	_	_
 4	?	?	PUNCT	_	_	2	punct	_	_
 
-# sent_id = kir-70:90
+# sent_id = kir-70
 # text = Дениз үйдѳ болду бекен?
-# translit = Deniz üydö boldu beken?
-# text[en] = Is Deniz at home? (copula, with additonal affix on -mi)
-# text[az] = Deniz evdədir?
-# text[tr] = Deniz evede midir?
+# translit = Deniz üy-dö bol-du b-eken?
+# glossing = Deniz home-LOC be-PST.3SG Q-COP.3SG
 # issue: Question particle
+# text[en] = Is Deniz at home? 
+# text[az] = Deniz evdədir?
+# text[tr] = Deniz evede midir? [copula, with additonal affix on -mi]
 1	Дениз	Дениз	PROPN	_	_	3	nsubj	_	_
 2	үйдѳ	үй	NOUN	_	_	3	obl	_	_
 3	болду	бол	VERB	_	_	0	root	_	_
@@ -1915,13 +2038,14 @@
 5	екен	экен	AUX	_	_	3	aux	_	_
 6	?	?	PUNCT	_	_	3	punct	_	_
 
-# sent_id = kir-71:90
+# sent_id = kir-71
 # text = Дениз үйдѳ беле?
-# translit = Deniz üydö bele?
+# translit = Deniz üy-dö b-ele?
+# glossing = Deniz home-LOC Q-COP.PST.3SG
+# issue: Question particle
 # text[en] = Was Deniz at home?
 # text[az] = Deniz evdə iydi?
 # text[tr] = Deniz evede miydi?
-# issue: Question particle
 1	Дениз	Дениз	PROPN	_	_	2	nsubj	_	_
 2	үйдѳ	үй	NOUN	_	_	0	root	_	_
 3-4	беле	_	_	_	_	_	_	_	SpaceAfter=No
@@ -1929,13 +2053,14 @@
 4	еле	э	AUX	_	_	2	cop	_	_
 5	?	?	PUNCT	_	_	2	punct	_	_
 
-# sent_id = kir-72:90
+# sent_id = kir-72
 # text = Дениз үйдѳ эмес беле?
-# translit = Deniz üydö emes bele?
-# text[en] = Was Deniz not at home? (with negation)
+# translit = Deniz üy-dö əmes b-ele?
+# glossing = Deniz home-LOC not Q-COP.PST.3SG
+# issue: Question particle
+# text[en] = Was Deniz not at home? [with negation]
 # text[az] = Deniz evdə dəyildi?
 # text[tr] = Deniz evede değil miydi?
-# issue: Question particle
 1	Дениз	Дениз	PROPN	_	_	2	nsubj	_	_
 2	үйдѳ	үй	NOUN	_	_	0	root	_	_
 3	эмес	эмес	ADV	_	_	2	advmod	_	_
@@ -1944,13 +2069,14 @@
 5	еле	э	AUX	_	_	2	cop	_	_
 6	?	?	PUNCT	_	_	2	punct	_	_
 
-# sent_id = kir-73:90
+# sent_id = kir-73
 # text = Дениз үйдѳ жокпу?
-# translit = Deniz üydö jokpu?
-# text[en] = Is Deniz not at home? (negation with 'yok')
+# translit = Deniz üydö zhokpu?
+# glossing = Deniz home-LOC not.exist-Q
+# issue: Question particle
+# text[en] = Is Deniz not at home? [negation with 'yok']
 # text[az] = Deniz evdə yoxdu(r)?
 # text[tr] = Deniz evede yok mu?
-# issue: Question particle
 1	Дениз	Дениз	PROPN	_	_	3	nsubj	_	_
 2	үйдѳ	үй	NOUN	_	_	3	obl	_	_
 3-4	жокпу	_	_	_	_	_	_	_	SpaceAfter=No
@@ -1958,13 +2084,14 @@
 4	пу	бы	PART	_	_	3	discourse	_	_
 5	?	?	PUNCT	_	_	3	punct	_	_
 
-# sent_id = kir-74:90
+# sent_id = kir-74
 # text = Үйдѳ нан барбы?
-# translit = Üydö nan barby?
+# translit = Üy-dö nan bar-bı?
+# glossing = home-LOC bread exist-Q
+# issue: Question particle
 # text[en] = Is there (any) bread at home?
-# text[az] =
+# text[az] = Evdə çörək var?
 # text[tr] = Evede ekmek mi var?
-# issue: Question particle
 1	Үйдѳ	үй	NOUN	_	_	3	obl	_	_
 2	нан	нан	NOUN	_	_	3	nsubj	_	_
 3-4	барбы	_	_	_	_	_	_	_	SpaceAfter=No
@@ -1972,13 +2099,14 @@
 4	бы	бы	PART	_	_	3	discourse	_	_
 5	?	?	PUNCT	_	_	3	punct	_	_
 
-# sent_id = kir-75:90
+# sent_id = kir-75
 # text = Үйдѳ нан барбы?
-# translit = Üydö nan barby?
+# translit = Üy-dö nan bar-bı?
+# glossing = home-LOC bread exist-Q
+# issue: Question particle
 # text[en] = Is there (any) bread at home?
 # text[az] = Evdə çörək var?
 # text[tr] = Ev(e - typo) de ekmek mi var?
-# issue: Question particle
 1	Үйдѳ	үй	NOUN	_	_	3	obl	_	_
 2	нан	нан	NOUN	_	_	3	nsubj	_	_
 3-4	барбы	_	_	_	_	_	_	_	SpaceAfter=No
@@ -1986,13 +2114,14 @@
 4	бы	бы	PART	_	_	3	discourse	_	_
 5	?	?	PUNCT	_	_	3	punct	_	_
 
-# sent_id = kir-76:90
+# sent_id = kir-76
 # text = Үйдѳ нан барбы?
-# translit = Üydö nan barby?
+# translit = Üy-dö nan bar-bı?
+# glossing = home-LOC bread exist-Q
+# issue: Question particle
 # text[en] = Is there (any) bread at home?
 # text[az] = Evdə çörək var?
 # text[tr] = Ev(e - typo) de ekmek mi var?
-# issue: Question particle
 1	Үйдѳ	үй	NOUN	_	_	3	obl	_	_
 2	нан	нан	NOUN	_	_	3	nsubj	_	_
 3-4	барбы	_	_	_	_	_	_	_	SpaceAfter=No
@@ -2000,13 +2129,14 @@
 4	бы	бы	PART	_	_	3	discourse	_	_
 5	?	?	PUNCT	_	_	3	punct	_	_
 
-# sent_id = kir-77:90
+# sent_id = kir-77
 # text = Окуганыңызды түшүнүп жаттыңызбы?
-# translit = Okuğanyŋyzdy tüshünüp zhattyŋyzby?
-# text[en] = Were you understanding what you read? (multiple affixes on -mu)
+# translit = Oku-ğan-ı-ŋız-dı tüshün-üp zhat-tıŋız-bı?
+# glossing = read-PTCP-POSS.2SG.FRM-ACC understand-PFV lay.down-PST.PROG-2SG.FRM-Q 
+# issue: Question particle
+# text[en] = Were you understanding what you read? [multiple affixes on -mu]
 # text[az] = Oxuduğuzu düsünürdüz?
 # text[tr] = Okuduğunuzu anliyor muydunuz?
-# issue: Question particle
 1	Окуганыңызды	оку	VERB	_	_	2	ccomp	_	_
 2	түшүнүп	түшүн	VERB	_	_	0	root	_	_
 3-4	жаттыңызбы	_	_	_	_	_	_	_	SpaceAfter=No
@@ -2014,13 +2144,14 @@
 4	бы	бы	PART	_	_	2	discourse	_	_
 5	?	?	PUNCT	_	_	2	punct	_	_
 
-# sent_id = kir-78:90
+# sent_id = kir-78
 # text = Эртең менен Дениз китепти Айханга бердиби?
-# translit = Erteŋ menen Deniz kitepti Ayhanğa berdibi?
+# translit = Ərteŋ menen Deniz kitep-ti Ayhan-ğa ber-di-bi?
+# glossing = tomorrow with Deniz book-ACC Ayhan-DAT give-PST.3SG-Q
+# issue: Question particle
 # text[en] = Did Deniz give the book to Ayhan in the morning?
 # text[az] = Söbh Deniz kitabı Ayhana verdi?
 # text[tr] = Sabah Deniz kitabi Ayhan'a mi verdi?
-# issue: Question particle
 1	Эртең	эртең	ADV	_	_	6	advmod	_	_
 2	менен	менен	ADP	_	_	1	fixed	_	_
 3	Дениз	Дениз	PROPN	_	_	6	nsubj	_	_
@@ -2031,13 +2162,14 @@
 7	би	бы	PART	_	_	6	discourse	_	_
 8	?	?	PUNCT	_	_	6	punct	_	_
 
-# sent_id = kir-79:90
+# sent_id = kir-79
 # text = Эртең менен Дениз китепти Айханга бердиби?
-# translit = Erteŋ menen Deniz kitepti Ayhanğa berdibi?
+# translit = Ərteŋ menen Deniz kitep-ti Ayhan-ğa ber-di-bi?
+# glossing = tomorrow with Deniz book-ACC Ayhan-DAT give-PST.3SG-Q
+# issue: Question particle
 # text[en] = Did Deniz give the book to Ayhan in the morning?
 # text[az] = Söbh Deniz kitabı Ayhana verdi?
 # text[tr] = Sabah Deniz kitabi Ayhan'a mi verdi?
-# issue: Question particle
 1	Эртең	эртең	ADV	_	_	6	advmod	_	_
 2	менен	менен	ADP	_	_	1	fixed	_	_
 3	Дениз	Дениз	PROPN	_	_	6	nsubj	_	_
@@ -2048,30 +2180,14 @@
 7	би	бы	PART	_	_	6	discourse	_	_
 8	?	?	PUNCT	_	_	6	punct	_	_
 
-# sent_id = kir-80:90
+# sent_id = kir-80
 # text = Эртең менен Дениз китепти Айханга бердиби?
-# translit = Erteŋ menen Deniz kitepti Ayhanğa berdibi?
-# text[en] = Did Deniz give the book to Ayhan in the morning ?
-# text[az] = Söbh Deniz kitabı Ayhana verdi?
-# text[tr] = Sabah Deniz kitabi Ayhan'a mi verdi?
+# translit = Ərteŋ menen Deniz kitep-ti Ayhan-ğa ber-di-bi?
+# glossing = tomorrow with Deniz book-ACC Ayhan-DAT give-PST.3SG-Q
 # issue: Question particle
-1	Эртең	эртең	ADV	_	_	6	advmod	_	_
-2	менен	менен	ADP	_	_	1	fixed	_	_
-3	Дениз	Дениз	PROPN	_	_	6	nsubj	_	_
-4	китепти	китеп	NOUN	_	_	6	obj	_	_
-5	Айханга	Айхан	PROPN	_	_	6	obl	_	_
-6-7	бердиби	_	_	_	_	_	_	_	SpaceAfter=No
-6	берди	бер	VERB	_	_	0	root	_	_
-7	би	бы	PART	_	_	6	discourse	_	_
-8	?	?	PUNCT	_	_	6	punct	_	_
-
-# sent_id = kir-81:90
-# text = Эртең менен Дениз китепти Айханга бердиби?
-# translit = Erteŋ menen Deniz kitepti Ayhanğa berdibi?
 # text[en] = Did Deniz give the book to Ayhan in the morning?
 # text[az] = Söbh Deniz kitabı Ayhana verdi?
 # text[tr] = Sabah Deniz kitabi Ayhan'a mi verdi?
-# issue: Question particle
 1	Эртең	эртең	ADV	_	_	6	advmod	_	_
 2	менен	менен	ADP	_	_	1	fixed	_	_
 3	Дениз	Дениз	PROPN	_	_	6	nsubj	_	_
@@ -2082,13 +2198,32 @@
 7	би	бы	PART	_	_	6	discourse	_	_
 8	?	?	PUNCT	_	_	6	punct	_	_
 
-# sent_id = kir-82:90
+# sent_id = kir-81
+# text = Эртең менен Дениз китепти Айханга бердиби?
+# translit = Ərteŋ menen Deniz kitep-ti Ayhan-ğa ber-di-bi?
+# glossing = tomorrow with Deniz book-ACC Ayhan-DAT give-PST.3SG-Q
+# issue: Question particle
+# text[en] = Did Deniz give the book to Ayhan in the morning?
+# text[az] = Söbh Deniz kitabı Ayhana verdi?
+# text[tr] = Sabah Deniz kitabi Ayhan'a mi verdi?
+1	Эртең	эртең	ADV	_	_	6	advmod	_	_
+2	менен	менен	ADP	_	_	1	fixed	_	_
+3	Дениз	Дениз	PROPN	_	_	6	nsubj	_	_
+4	китепти	китеп	NOUN	_	_	6	obj	_	_
+5	Айханга	Айхан	PROPN	_	_	6	obl	_	_
+6-7	бердиби	_	_	_	_	_	_	_	SpaceAfter=No
+6	берди	бер	VERB	_	_	0	root	_	_
+7	би	бы	PART	_	_	6	discourse	_	_
+8	?	?	PUNCT	_	_	6	punct	_	_
+
+# sent_id = kir-82
 # text = Дениз китепти Айханга эртең менен бердиби?
-# translit = Deniz kitepti Ayhanğa erteŋ menen beresiŋbi?
+# translit = Deniz kitep-ti Ayhan-ğa ərteŋ menen ber-di-bi?
+# glossing = Deniz book-ACC Ayhan-DAT tomorrow with give-PST.3SG-Q
+# issue: Question particle
 # text[en] = Did Deniz give the book to Ayhan in the morning?
 # text[az] = Söbh Deniz kitabı Ayhana verdi?
-# text[tr] =  Deniz kitabi Ayhan'a sabah mi verdi?
-# issue: Question particle
+# text[tr] = Deniz kitabi Ayhan'a sabah mi verdi?
 1	Дениз	Дениз	PROPN	_	_	6	nsubj	_	_
 2	китепти	китеп	NOUN	_	_	6	obj	_	_
 3	Айханга	Айхан	PROPN	_	_	6	obl	_	_
@@ -2099,13 +2234,14 @@
 7	би	бы	PART	_	_	6	discourse	_	_
 8	?	?	PUNCT	_	_	6	punct	_	_
 
-# sent_id = kir-83:90
+# sent_id = kir-83
 # text = Мага кѳктү бересиңби?
-# translit = Mağa köktü beresiŋbi?
-# text[en] = Can you give me the blue one? (zero A -> N derivation)
+# translit = Ma-ğa kök-tü ber-esiŋ-bi?
+# glossing = I-DAT.1SG blue-ACC give-PRS-2SG-Q
+# issue:
+# text[en] = Can you give me the blue one? [zero A -> N derivation]
 # text[az] = Mənə abisini verərsən?
 # text[tr] = Bana maviyi verir misin?
-# issue:
 1	Мага	мен	PRON	_	_	3	obl	_	_
 2	кѳктү	кѳк	ADJ	_	_	3	obj	_	_
 3-4	бересиңби	_	_	_	_	_	_	_	SpaceAfter=No
@@ -2113,25 +2249,27 @@
 4	би	бы	PART	_	_	3	discourse	_	_
 5	?	?	PUNCT	_	_	3	punct	_	_
 
-# sent_id = kir-84:90
+# sent_id = kir-84
 # text = Мунун кѳгү жакшыраак.
-# translit = Munun köğü zhakshyraak.
-# text[en] = The blue (version) of this is nicer. (-si, (pro)nominals)
+# translit = Mu-nun kö-ğü zhakshı-raak.
+# glossing = this-GEN blue-POSS.3SG good-COMP
+# issue:
+# text[en] = The blue (version) of this is nicer. [-si, (pro)nominals]
 # text[az] = Bunun abisi daha gözəldir.
 # text[tr] = Bunun mavisi daha güzel.
-# issue:
 1	Мунун	бул	PRON	_	_	2	nmod:poss	_	_
 2	кѳгү	кѳк	ADJ	_	_	3	nsubj	_	_
 3	жакшыраак	жакшы	ADJ	_	_	0	root	_	SpaceAfter=No
 4	.	.	PUNCT	_	_	3	punct	_	_
 
-# sent_id = kir-85:90
+# sent_id = kir-85
 # text = Менин унаам Дениздикинин кѳгү.
-# translit = Menin unaam Denizdikinin köğü.
+# translit = Me-nin unaa-m Deniz-di-ki-nin kö-ğü.
+# glossing = I-GEN car-POSS.1SG Deniz-GEN-ATTR-POSS.3SG blue-POSS.3SG
+# issue:
 # text[en] = My car is the blue (version) of Deniz'es.
 # text[az] = Mənim maşınım Denizinkinin abisi.
 # text[tr] = Benim arabam Deniz'inkinin mavisi.
-# issue:
 1	Менин	мен	PRON	_	_	2	nmod:poss	_	_
 2	унаам	унаа	NOUN	_	_	5	nsubj	_	_
 3-4	Дениздикинин	_	_	_	_	_	_	_	_
@@ -2140,59 +2278,64 @@
 5	кѳгү	кѳк	ADJ	_	_	0	root	_	SpaceAfter=No
 6	.	.	PUNCT	_	_	5	punct	_	_
 
-# sent_id = kir-86:90
+# sent_id = kir-86
 # text = Китеп окулуп жатат.
-# translit = Kitep okulup zhatat.
-# text[en] = The book is being read (passive)
+# translit = Kitep oku-l-up zhat-at.
+# glossing = book read-PASS-PFV lay.down-PRS.PROG.3SG
+# issue: 
+# text[en] = The book is being read. [Passive]
 # text[az] = Kitab oxunur.
 # text[tr] = Kitap okunuyor.
-# issue:
 1	Китеп	китеп	NOUN	_	_	2	nsubj	_	_
 2	окулуп	оку	VERB	_	_	0	root	_	_
 3	жатат	жат	AUX	_	_	2	aux	_	SpaceAfter=No
 4	.	.	PUNCT	_	_	2	punct	_	_
 
-# sent_id = kir-87:90
+# sent_id = kir-87
 # text = Китеп бардык мектептерде окуттурулат.
-# translit = Kitep bardyk mektepterde okutturulat.
-# text[en] = The book will be made to be made to be read in all schools (double causative)
+# translit = Kitep bardık mektep-ter-de oku-t-tu-rul-at.
+# glossing = book all school-PL-LOC read-CAUS-CAUS-PASS-FUT.3SG
+# issue: Double causative
+# text[en] = The book will be made to be made to be read in all schools. [Double causative]
 # text[az] = Kitab tamam mədrəsələrdə oxutdurulacax.
-# text[tr] = Kitap bütün okullarda okutturulacak. [double causative]
-# issue:
+# text[tr] = Kitap bütün okullarda okutturulacak. [Double causative]
 1	Китеп	китеп	NOUN	_	_	4	nsubj:pass	_	_
 2	бардык	бардык	DET	_	_	3	det	_	_
 3	мектептерде	мектеп	NOUN	_	_	4	obl	_	_
 4	окуттурулат	оку	VERB	_	_	0	root	_	SpaceAfter=No
 5	.	.	PUNCT	_	_	4	punct	_	_
 
-# sent_id = kir-88:90
+# sent_id = kir-88
 # text = Дениз уктатылды.
-# translit = Deniz uktatyldy.
-# text[en] =  Deniz was made to sleep. (passive/causative)
-# text[az] =
+# translit = Deniz ukta-t-ıl-dı.
+# glossing = Deniz sleep-CAUS-PASS-PST.3SG
+# issue: causative
+# text[en] = Deniz was made to sleep. [Passive/Causative]
+# text[az] = Deniz yuxladıldı.
 # text[tr] = Deniz uyutuldu.
-# issue:
 1	Дениз	Дениз	PROPN	_	_	2	nsubj:pass	_	_
 2	уктатылды	укта	VERB	_	_	0	root	_	SpaceAfter=No
 3	.	.	PUNCT	_	_	2	punct	_	_
 
-# sent_id = kir-89:90
+# sent_id = kir-89
 # text = Алар кетти.
-# translit = Alar ketti.
+# translit = Alar ket-ti.
+# glossing = they go-PST.3SG
 # issue: Plural subject, but a singular verb
-# text[en] = They are gone . / They left.
-# text[az] =
+# text[en] = They are gone. / They left.
+# text[az] = Olar getdi.
 # text[tr] = Onlar gitti.
 1	Алар	алар	PRON	_	_	2	nsubj	_	_
 2	кетти	кетти	VERB	_	_	0	root	_	SpaceAfter=No
 3	.	.	PUNCT	_	_	2	punct	_	_
 
-# sent_id = kir-90:90
+# sent_id = kir-90
 # text = Ал кетти.
-# translit = Al ketti.
+# translit = Al ket-ti.
+# glossing = he/she go-PST.3SG
 # issue: Plural subject, but a singular verb
 # text[en] = He/She left./ He/She is gone.
-# text[az] =
+# text[az] = O getdi.
 # text[tr] = O gitti.
 1	Ал	ал	PRON	_	_	2	nsubj	_	_
 2	кетти	кет	VERB	_	_	0	root	_	SpaceAfter=No
