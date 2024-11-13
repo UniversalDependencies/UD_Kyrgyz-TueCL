@@ -1,7 +1,7 @@
 # sent_id = Cairo-kir-1
 # text = Кыз досуна кат жазды.
-# translit = Qız dos-u-na kat zhaz-dı.
-# glossing = girl friend-POSS.3SG-DAT letter write-PST.3SG
+# translit = Qız dos-u-na qat jaz-dı.
+# glossing = girl friend-POSS.3SG-DAT letter write-PST[3]
 # issue:
 # text[en] = The girl wrote a letter to her friend.
 # text[az] = Qız yoldaşına namә yazdı.
@@ -14,8 +14,8 @@
 
 # sent_id = Cairo-kir-2
 # text = Жамгыр жаап жатат окшойт.
-# translit = Zhamğır zha-ap zhat-at oksho-yt.
-# glossing = rain rain-PFV lay.down-PRS.PROG.3SG seem-PRS.3SG
+# translit = Jamğır zhaa-p jat-a-t oqşo-y-t.
+# glossing = rain rain-INF lie.down-NPST-3 seem-NPST-3
 # issue: (It) is raining
 # text[en] = I think that it is raining.
 # text[az] = Fikr eliyәm yağɪş yağɪr.
@@ -28,8 +28,8 @@
 
 # sent_id = Cairo-kir-2.1
 # text = Жамгыр жаап жатат деп ойлойм.
-# translit = Zhamğır zha-ap zhat-at de-p oylo-ym.
-# glossing = rain rain-PFV lay.down-PRS.PROG.3SG say-PFV think-PRS.1SG
+# translit = Jamğır jaa-p jat-a-t de-p oylo-y-m.
+# glossing = rain rain-INF lie.down-NPST-3 say-INF think-NPST-1SG
 # issue: (It) is raining
 # text[en] = I think that it is raining.
 # text[az] = Fikr eliyәm yağɪş yağɪr.
@@ -43,8 +43,8 @@
 
 # sent_id = Cairo-kir-3
 # text = Тамеки чегүүнү жана арак ичүүнү токтотууга аракет кылды.
-# translit = Tameki cheğ-üü-nü zhana arak ich-üü-nü tokto-t-uu-ğa araket kıl-dı.
-# glossing = cigarette smoke-INF-ACC and alcohol drink-INF-ACC stop-CAUS-INF-DAT action do-PST.3SG
+# translit = Tameki çeg-üü-nü jana araq iç-üü-nü toqto-t-uu-ğa araket qıl-dı.
+# glossing = cigarette smoke-VN-ACC and alcohol drink-VN-ACC stop-CAUS-VN-DAT action do-PST[3]
 # issue:
 # text[en] = He/She tried to stop smoking and drinking.
 # text[az] = (O) çalɪşdɪ kɪ siqar çekmә vә әlkol içmәni tәrkidә.
@@ -61,8 +61,8 @@
 
 # sent_id = Cairo-kir-3.1
 # text = Ал тамеки чегүүнү жана арак ичүүнү токтотууга аракет кылды.
-# translit = Al tameki cheğ-üü-nü zhana arak ich-üü-nü tokto-t-uu-ğa araket kıl-dı.
-# glossing = he/she cigarette smoke-INF-ACC and alcohol drink-INF-ACC stop-CAUS-INF-DAT action do-PST.3SG
+# translit = Al tameki çeg-üü-nü jana araq iç-üü-nü toqto-t-uu-ğa araket qıl-dı.
+# glossing = he/she cigarette smoke-VN-ACC and alcohol drink-VN-ACC stop-CAUS-VN-DAT action do-PST[3]
 # issue:
 # text[en] = He/She tried to stop smoking and drinking.
 # text[az] = O çalɪşdɪ kɪ siqar çekmә vә әlkol içmәni tәrkidә.
@@ -80,8 +80,8 @@
 
 # sent_id = Cairo-kir-4
 # text = Кеткиң келип жатабы?
-# translit = Ket-kiŋ kel-ip zhat-a-bı?
-# glossing = go-2SG come-PFV lay.down-PRS.PROG-Q
+# translit = Ket-ki-ŋ kel-ip jat-a-bı?
+# glossing = leave-VN-2SG come-INF lie.down-NPST[3]-Q
 # issue:
 # text[en] = Do you want to go?
 # text[az] = (Siz) getmək istəyirsiniz?
@@ -95,8 +95,8 @@
 
 # sent_id = Cairo-kir-4.1
 # text = Сен кеткиң келип жатабы?
-# translit = Sen ket-kiŋ kel-ip zhat-a-bı?
-# glossing = you-2.SG go-2SG come-PFV lay.down-PRS.PROG-Q
+# translit = Sen ket-ki-ŋ kel-ip jat-a-bı?
+# glossing = you leave-VN-2SG come-INF lie.down-NPST[3]-Q
 # issue:
 # text[en] = Do you want to go?
 # text[az] = Siz getmək istəyirsiniz?
@@ -112,8 +112,8 @@
 
 # sent_id = Cairo-kir-5
 # text = Сэм, терезени ач!
-# translit = Səm, tereze-ni ach!
-# glossing = Sam window-ACC open.IMP.2SG 
+# translit = Sem, tereze-ni aç!
+# glossing = Sam window-ACC open[IMP.2SG]
 # issue:
 # text[en] = Sam, open the window!
 # text[az] = Sam, pәncәrәni aç!
@@ -126,11 +126,11 @@
 
 # sent_id = Cairo-kir-6
 # text = Ал күйөөсүнө унааны жуудурду.
-# translit = Al küyöö-sü-nö unaa-nı zhuu-dur-du.
-# glossing = he/she husband-POSS.3SG-DAT car-ACC wash-CAUS-PST.3SG
+# translit = Al küyöö-sü-nö unaa-nı juu-dur-du.
+# glossing = he/she husband-POSS.3-DAT car-ACC wash-CAUS-PST[3]
 # issue:
 # text[en] = She made her husband wash the car.
-# text[az] = Әrinә maşɪnɪ yudurtdu.
+# text[az] = Әrinә maşını yudurtdu.
 # text[tr] = O kocasına arabayı yıkattırdı.
 1	Ал	ал	PRON	_	_	4	nsubj	_	_
 2	күйөөсүнө	күйө	NOUN	_	_	4	obl:cau	_	_
@@ -140,11 +140,11 @@
 
 # sent_id = Cairo-kir-6.1
 # text = Күйөөсүнө унааны жуудурду.
-# translit = Küyöö-sü-nö unaa-nı zhuu-dur-du.
-# glossing = husband-POSS.3SG-DAT car-ACC wash-CAUS-PST.3SG
+# translit = Küyöö-sü-nö unaa-nı juu-dur-du.
+# glossing = husband-POSS.3-DAT car-ACC wash-CAUS-PST[3]
 # issue:
 # text[en] = She made her husband wash the car.
-# text[az] = Әrinә maşɪnɪ yudurtdu.
+# text[az] = Әrinә maşını yudurtdu.
 # text[tr] = Kocasına arabayı yıkattırdı.
 1	Күйөөсүнө	күйө	NOUN	_	_	3	obl:cau	_	_
 2	унааны	унаа	NOUN	_	_	3	obj	_	_
@@ -153,8 +153,8 @@
 
 # sent_id = Cairo-kir-7
 # text = Питердин кошунасы тосмону кызыл түскө боёду.
-# translit = Piter-din koshuna-sı tosmo-nu qızıl tüs-kö boyo-du.
-# glossing = Peter-GEN neighbour-POSS.3SG fence-ACC red colour-DAT paint-PST.3SG
+# translit = Piter-din koşuna-sı tosmo-nu qızıl tüs-kö boyo-du.
+# glossing = Peter-GEN neighbour-POSS.3 fence-ACC red colour-DAT paint-PST[3]
 # issue:
 # text[en] = Peter’s neighbour painted the fence red.
 # text[az] = Peterin qonşusu hasarı qırmız rənglədı.
@@ -169,8 +169,8 @@
 
 # sent_id = Cairo-kir-7.1
 # text = Питердин кошунасы тосмону кызылга боёду.
-# translit = Piter-din koshuna-sı tosmo-nu qızıl-ğa boyo-du.
-# glossing = Peter-GEN neighbour-POSS.3SG fence-ACC red-DAT paint-PST.3SG
+# translit = Piter-din koşuna-sı tosmo-nu qızıl-ğa boyo-du.
+# glossing = Peter-GEN neighbour-POSS.3 fence-ACC red-DAT paint-PST[3]
 # issue:
 # text[en] = Peter’s neighbour painted the fence red.
 # text[az] = Peterin qonşusu hasarı qırmız rənglədı.
@@ -184,8 +184,8 @@
 
 # sent_id = Cairo-kir-8
 # text = Менин атам сеникинен кыйыныраак.
-# translit = Men-in ata-m seni-ki-nen kıyın-ıraak.
-# glossing = I-GEN father-POSS.1SG you-ATTR-ABL cool-COMP
+# translit = Me-nin ata-m se-niki-nen qıyın-ıraaq.
+# glossing = I-GEN father-POSS.1SG you-GEN.SUBST-ABL cool-COMP
 # issue:
 # text[en] = My dad is cooler than yours.
 # text[az] = Mәnin babam sәninkindən bәtәrdi.
@@ -200,8 +200,8 @@
 
 # sent_id = Cairo-kir-9
 # text = Мэри коло, Питер күмүш, Джейн алтын утту.
-# translit = Məri kolo, Piter kümüsh, Dzheyn altın ut-tu.
-# glossing = Mary bronze Peter silver Jane gold win-PST.3SG
+# translit = Meri qolo, Piter kümüş, Jeyn altın ut-tu.
+# glossing = Mary bronze Peter silver Jane gold win-PST[3]
 # issue:
 # text[en] = Mary won bronze, Peter silver, and Jane gold.
 # text[az] = Mary bronz qazandı, Peter gümüş, Jane qɪzɪl.
@@ -219,8 +219,8 @@
 
 # sent_id = Cairo-kir-9.1
 # text = Мэри коло утту, Питер күмүш, Джейн алтын.
-# translit = Məri kolo ut-tu, Piter kümüsh, Dzheyn altın.
-# glossing = Mary bronze win-PST.3SG Peter silver Jane gold 
+# translit = Meri qolo ut-tu, Piter kümüsh, Jeyn altın.
+# glossing = Mary bronze win-PST[3] Peter silver Jane gold
 # issue:
 # text[en] = Mary won bronze, Peter silver, and Jane gold.
 # text[az] = Mary bronz qazandı, Peter gümüş, Jane qɪzɪl.
@@ -237,8 +237,8 @@
 10	.	.	PUNCT	_	_	3	punct	_	_
 
 # sent_id = Cairo-kir-10
-# text = Игуазу чоң өрөөнбү же кичинекейби?
-# translit = Iğuazu choŋ öröön-bü zhe kichinekey-bi?
+# text = Игуасу чоң өрөөнбү же кичинекейби?
+# translit = Iguazu çoŋ öröön-bü je kichinekey-bi?
 # glossing = Iguazu big country-Q or small-Q
 # issue:
 # text[en] = Is Iguazu a big or a small country?
@@ -257,8 +257,8 @@
 
 # sent_id = Cairo-kir-11
 # text = Питер Смит да, Мэри Браун да өтө албай калды.
-# translit = Piter Smit da, Məri Braun da öt-ö al-bay kal-dı.
-# glossing = Peter Smith also Mary Brown also pass take-NEG stay-PST.3SG
+# translit = Piter Smit da, Meri Braun da öt-ö al-ba-y qal-dı.
+# glossing = Peter Smith also Mary Brown also pass-INF take-NEG-INF stay-PST[3]
 # issue:
 # text[en] = Neither Peter Smith nor Mary Brown could be selected.
 # text[az] = Nә Peter Smith nә Mary Brown, intixab ola bildi.
@@ -277,8 +277,8 @@
 
 # sent_id = Cairo-kir-12
 # text = Кимдин жазгандыгы жөнүндө эч ойлору да жок.
-# translit = Kim-din zhaz-ğan-dı-ğı zhönün-dö əch oylo-ru da zhok.
-# glossing = who-GEN write-PTCP-POSS.3SG-ACC about-LOC nothing idea-PL-POSS.3PL aslo not.exist
+# translit = Kim-din jaz-ğan-dığ-ı jönündö eç oy-lor-u da joq.
+# glossing = who-GEN write-VN-POSS.3 about no idea-PL-POSS.3 even absent
 # issue:
 # text[en] = They have no idea who wrote it.
 # text[az] = Kimin yazdığını bilmirlər.irleri yok.
@@ -287,15 +287,15 @@
 2	жазгандыгы	жаз	VERB	_	_	7	obl	_	_
 3	жөнүндө	жөнүндө	ADP	_	_	2	case	_	_
 4	эч	эч	DET	_	_	5	det	_	_
-5	ойлору	ойло	NOUN	_	_	7	nsubj	_	_
+5	ойлору	ой	NOUN	_	_	7	nsubj	_	_
 6	да	да	ADV	_	_	5	advmod:emph	_	_
 7	жок	жок	ADJ	_	_	0	root	_	SpaceAfter=No
 8	.	.	PUNCT	_	_	7	punct	_	_
 
 # sent_id = Cairo-kir-12.1
 # text = Кимдин жазганын эч билишпейт.
-# translit = Kim-din zhaz-ğan-ın əch bil-ish-pey-t.
-# glossing = who-GEN write-PTCP-POSS.3SG nothing know-RECP-NEG-3SG
+# translit = Kim-din jaz-ğan-ı-n ech bil-iş-pe-y-t.
+# glossing = who-GEN write-VN-POSS.3-ACC no know-RECP-NEG-NPST-3
 # issue:
 # text[en] = They have no idea who wrote it.
 # text[az] = Kimin yazdığını bilmirlər.
@@ -308,8 +308,8 @@
 
 # sent_id = Cairo-kir-13
 # text = Эмнени карап жатасың?
-# translit = Əmne-ni kara-p zhat-a-sıŋ?
-# glossing = what-ACC watch-PFV lay.down-PRS.PROG-2SG
+# translit = Emne-ni qara-p jat-a-sıŋ?
+# glossing = what-ACC watch-INF lie.down-NPST-2SG
 # issue:
 # text[en] = What are you looking at?
 # text[az] = Nәmәyә baxɪran?
@@ -2251,7 +2251,7 @@
 
 # sent_id = kir-84
 # text = Мунун көгү жакшыраак.
-# translit = Mu-nun kö-ğü zhakshı-raak.
+# translit = Mu-nun kög-ü jaqşı-raaq.
 # glossing = this-GEN blue-POSS.3SG good-COMP
 # issue:
 # text[en] = The blue (version) of this is nicer. [-si, (pro)nominals]
