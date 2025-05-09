@@ -5,97 +5,104 @@
        fused is the number of tokens that are split to two or more syntactic words
        The words and fused elements can be omitted if no token is split to smaller syntactic words. -->
   <size>
-    <total><sentences>145</sentences><tokens>972</tokens><words>1001</words><fused>29</fused></total>
+    <total><sentences>173</sentences><tokens>1214</tokens><words>1250</words><fused>35</fused></total>
     <train><sentences>0</sentences><tokens>0</tokens><words>0</words><fused>0</fused></train>
     <dev><sentences>0</sentences><tokens>0</tokens><words>0</words><fused>0</fused></dev>
-    <test><sentences>145</sentences><tokens>972</tokens><words>1001</words><fused>29</fused></test>
+    <test><sentences>173</sentences><tokens>1214</tokens><words>1250</words><fused>35</fused></test>
   </size>
-  <lemmas unique="250" /><!-- ., Дениз, ,, ал, китеп, ?, үй, жат, бы, бол, оку, укта, бар, э, жок -->
-  <forms unique="400" /><!-- ., Дениз, ,, ?, үйдѳ, китеп, ал, жатат, менен, жок, китепти, эле, да, бар, эмес -->
-  <fusions unique="19" /><!-- бердиби, барбы, беле, жатабы, үйдѳгү, Дениздикинин, Окугандарын, ашкананыкын, бекен, бересиңби, жаттыңызбы, жокпу, келдиби, кичинекейби, сеникинен -->
+  <lemmas unique="286" /><!-- ., Дениз, ,, ал, китеп, ?, үй, жат, бы, оку, бол, укта, жок, менен, э -->
+  <forms unique="464" /><!-- ., Дениз, ,, ?, китеп, үйдө, ал, менен, жок, да, жатат, эле, китепти, эмес, бар -->
+  <fusions unique="22" /><!-- бердиби, Окугандарын, барбы, бекен, беле, жатабы, Дениздикинин, ашкананыкын, бересиңби, жаттыңызбы, жокпу, келдиби, кичинекейби, коёсуңбу, сеникинен -->
   <!-- Statistics of universal POS tags. The comments show the most frequent lemmas. -->
-  <tags unique="15">
-    <tag name="ADJ">49</tag><!-- бар, жок, жакшы, чоң, керек, кѳк, кичине, кызыл, ыйык, жакшынакай -->
-    <tag name="ADP">16</tag><!-- менен, жѳнүндѳ, соң, бой, ки, тууралуу, чейин, үчүн -->
-    <tag name="ADV">48</tag><!-- да, эмес, эртең, кеч, эрте, абдан, анда, бүгүн, гана, дагы -->
-    <tag name="AUX">75</tag><!-- жат, э, кал, экен, ал, бол, кой, жок, кет, тур -->
-    <tag name="CCONJ">11</tag><!-- бирок, менен, жана, а, же -->
-    <tag name="DET">11</tag><!-- бул, кѳп, эч, ѳз, бардык, ошо -->
+  <tags unique="16">
+    <tag name="ADJ">62</tag><!-- жок, бар, жакшы, керек, чоң, көк, кичине, кызыл, ыйык, бош -->
+    <tag name="ADP">19</tag><!-- менен, жөнүндө, соң, үчүн, бой, тууралуу, чейин -->
+    <tag name="ADV">65</tag><!-- да, эмес, эртең, кайчылаш, кеч, эрте, гана, жөн, качан, ушунчалык -->
+    <tag name="AUX">88</tag><!-- жат, э, кал, ал, экен, бол, жок, кой, тур, бер -->
+    <tag name="CCONJ">15</tag><!-- бирок, менен, жана, а, же -->
+    <tag name="DET">16</tag><!-- бул, эч, бир, көп, ошо, өз, бардык -->
     <tag name="INTJ">2</tag><!-- Макул, да -->
-    <tag name="NOUN">243</tag><!-- китеп, үй, мектеп, бала, дос, текче, унаа, апа, бѳлмѳ, терезе -->
+    <tag name="NOUN">294</tag><!-- китеп, үй, мектеп, бала, унаа, апа, дос, текче, бөлмө, борбор -->
     <tag name="NUM">9</tag><!-- үч, беш, бир, _, эки -->
-    <tag name="PART">24</tag><!-- бы, тур, ээ -->
-    <tag name="PRON">45</tag><!-- ал, мен, ки, биз, бул, сен, Питер, бир, ким, _ -->
-    <tag name="PROPN">93</tag><!-- Дениз, Питер, Айхан, Мэри, Айша, Джейн, Париж, Франция, Браун, Игуазу -->
-    <tag name="PUNCT">184</tag><!-- ., ,, ?, –, !, -, _, — -->
+    <tag name="PART">28</tag><!-- бы, тур, ээ -->
+    <tag name="PRON">67</tag><!-- ал, сен, мен, алар, биз, ки, ким, _, бул, Питер -->
+    <tag name="PROPN">106</tag><!-- Дениз, Питер, Айхан, Мэри, Айша, Париж, Франция, Айше, Джейн, Хакан -->
+    <tag name="PUNCT">228</tag><!-- ., ,, ?, -, –, !, _, — -->
     <tag name="SCONJ">5</tag><!-- менен, анткени, жана, эгер -->
-    <tag name="VERB">186</tag><!-- оку, укта, бол, бер, ал, кел, кет, кыл, кѳр, бар -->
+    <tag name="SYM">2</tag><!-- - -->
+    <tag name="VERB">244</tag><!-- оку, укта, бол, бер, ал, кел, кет, көр, кара, кыл -->
   </tags>
   <!-- Statistics of features and values. The comments show the most frequent word forms. -->
-  <feats unique="23">
+  <feats unique="29">
     <feat name="Aspect" value="Imp" upos="AUX">1</feat><!-- болчу -->
-    <feat name="Aspect" value="Perf" upos="VERB">2</feat><!-- Түнѳп, жыйнап -->
+    <feat name="Aspect" value="Perf" upos="VERB">2</feat><!-- Түнөп, жыйнап -->
     <feat name="Case" value="Abl" upos="NOUN">1</feat><!-- ресторандан -->
-    <feat name="Case" value="Acc" upos="NOUN">2</feat><!-- эшикти, үйдү -->
-    <feat name="Case" value="Gen" upos="NOUN">1</feat><!-- үйдүн -->
-    <feat name="Case" value="Nom" upos="NOUN,PRON">5</feat><!-- ал, буюртма, конок, тамак, ээси -->
+    <feat name="Case" value="Acc" upos="NOUN">5</feat><!-- унааны, терезени, эшикти, үйдү -->
+    <feat name="Case" value="Dat" upos="NOUN">3</feat><!-- күйөөсүнө, досуна -->
+    <feat name="Case" value="Gen" upos="NOUN,PRON">3</feat><!-- Менин, гүнү, үйдүн -->
+    <feat name="Case" value="Loc" upos="NOUN">1</feat><!-- үйдө -->
+    <feat name="Case" value="Nom" upos="NOUN,PRON,PROPN">26</feat><!-- ал, Сен, Алар, Жамгыр, Кыз, Сэм, буюртма, кат, конок, кү -->
     <feat name="Definite" value="Def" upos="NOUN">3</feat><!-- эшикти, үйдү, үйдүн -->
     <feat name="Definite" value="Ind" upos="NOUN">1</feat><!-- буюртма -->
+    <feat name="Degree" value="Cmp" upos="ADJ">1</feat><!-- кыйыныраак -->
     <feat name="Evident" value="Nfh" upos="VERB">1</feat><!-- такылдатыптыр -->
-    <feat name="Mood" value="Ind" upos="AUX,VERB">4</feat><!-- болчу, жаткан, такылдатыптыр, ѳткѳрүлѳ -->
-    <feat name="Number" value="Sing" upos="AUX,PRON,VERB">5</feat><!-- ал, болчу, жаткан, такылдатыптыр, ѳткѳрүлѳ -->
+    <feat name="Mood" value="Imp" upos="VERB">1</feat><!-- ач -->
+    <feat name="Mood" value="Ind" upos="AUX,VERB">6</feat><!-- жуудурду, болчу, жаткан, такылдатыптыр, өткөрүлө -->
+    <feat name="Number" value="Plur" upos="PRON">4</feat><!-- Алар, Сен -->
+    <feat name="Number" value="Sing" upos="AUX,NOUN,PRON,PROPN,VERB">33</feat><!-- ал, Сен, Жамгыр, жуудурду, күйөөсүнө, унааны, Кыз, Менин, Сэм, болчу -->
     <feat name="Number[psor]" value="Plur,Sing" upos="NOUN">1</feat><!-- ээси -->
-    <feat name="Person" value="3" upos="AUX,PRON,VERB">5</feat><!-- ал, болчу, жаткан, такылдатыптыр, ѳткѳрүлѳ -->
+    <feat name="Person" value="2" upos="PRON">3</feat><!-- Сен -->
+    <feat name="Person" value="3" upos="AUX,PRON,VERB">20</feat><!-- ал, Алар, Сен, жуудурду, ач, болчу, жаткан, такылдатыптыр, өткөрүлө -->
     <feat name="Person[psor]" value="3" upos="NOUN">1</feat><!-- ээси -->
-    <feat name="PronType" value="Prs" upos="PRON">1</feat><!-- ал -->
-    <feat name="Tense" value="Past" upos="AUX,VERB">4</feat><!-- берген, болчу, жаткан, такылдатыптыр -->
-    <feat name="Tense" value="Pres" upos="VERB">1</feat><!-- ѳткѳрүлѳ -->
-    <feat name="VerbForm" value="Conv" upos="VERB">1</feat><!-- Түнѳп -->
-    <feat name="VerbForm" value="Fin" upos="AUX,VERB">4</feat><!-- болчу, жаткан, такылдатыптыр, ѳткѳрүлѳ -->
+    <feat name="PronType" value="Prs" upos="PRON">17</feat><!-- ал, Сен, Алар, Менин -->
+    <feat name="Tense" value="Past" upos="AUX,VERB">6</feat><!-- жуудурду, берген, болчу, жаткан, такылдатыптыр -->
+    <feat name="Tense" value="Pres" upos="VERB">2</feat><!-- ач, өткөрүлө -->
+    <feat name="VerbForm" value="Conv" upos="VERB">1</feat><!-- Түнөп -->
+    <feat name="VerbForm" value="Fin" upos="AUX,VERB">5</feat><!-- ач, болчу, жаткан, такылдатыптыр, өткөрүлө -->
     <feat name="VerbForm" value="Inf" upos="VERB">1</feat><!-- жыйнап -->
     <feat name="VerbForm" value="Part" upos="VERB">1</feat><!-- берген -->
-    <feat name="Voice" value="Cau" upos="VERB">1</feat><!-- такылдатыптыр -->
-    <feat name="Voice" value="Pass" upos="VERB">1</feat><!-- ѳткѳрүлѳ -->
+    <feat name="Voice" value="Cau" upos="VERB">3</feat><!-- жуудурду, такылдатыптыр -->
+    <feat name="Voice" value="Pass" upos="VERB">1</feat><!-- өткөрүлө -->
   </feats>
   <!-- Statistics of universal dependency relations. -->
   <deps unique="38">
-    <dep name="acl">11</dep>
+    <dep name="acl">14</dep>
     <dep name="acl:relcl">1</dep>
-    <dep name="advcl">25</dep>
-    <dep name="advmod">34</dep>
-    <dep name="advmod:emph">10</dep>
-    <dep name="amod">14</dep>
-    <dep name="appos">1</dep>
-    <dep name="aux">65</dep>
-    <dep name="case">13</dep>
-    <dep name="cc">11</dep>
-    <dep name="ccomp">15</dep>
-    <dep name="compound">10</dep>
+    <dep name="advcl">38</dep>
+    <dep name="advmod">47</dep>
+    <dep name="advmod:emph">14</dep>
+    <dep name="amod">19</dep>
+    <dep name="appos">2</dep>
+    <dep name="aux">78</dep>
+    <dep name="case">18</dep>
+    <dep name="cc">14</dep>
+    <dep name="ccomp">22</dep>
+    <dep name="compound">15</dep>
     <dep name="compound:lvc">2</dep>
     <dep name="compound:svc">2</dep>
-    <dep name="conj">20</dep>
+    <dep name="conj">27</dep>
     <dep name="cop">9</dep>
-    <dep name="csubj">8</dep>
-    <dep name="det">11</dep>
-    <dep name="discourse">25</dep>
-    <dep name="fixed">13</dep>
+    <dep name="csubj">11</dep>
+    <dep name="det">16</dep>
+    <dep name="discourse">30</dep>
+    <dep name="fixed">15</dep>
     <dep name="flat">2</dep>
     <dep name="mark">2</dep>
-    <dep name="nmod">21</dep>
-    <dep name="nmod:poss">24</dep>
-    <dep name="nsubj">142</dep>
-    <dep name="nsubj:outer">2</dep>
+    <dep name="nmod">36</dep>
+    <dep name="nmod:poss">27</dep>
+    <dep name="nsubj">168</dep>
+    <dep name="nsubj:outer">4</dep>
     <dep name="nsubj:pass">2</dep>
     <dep name="nummod">7</dep>
-    <dep name="obj">60</dep>
-    <dep name="obl">79</dep>
+    <dep name="obj">74</dep>
+    <dep name="obl">94</dep>
     <dep name="obl:cau">2</dep>
-    <dep name="obl:tmod">6</dep>
-    <dep name="orphan">5</dep>
-    <dep name="parataxis">6</dep>
-    <dep name="punct">184</dep>
-    <dep name="root">145</dep>
+    <dep name="obl:tmod">8</dep>
+    <dep name="orphan">6</dep>
+    <dep name="parataxis">7</dep>
+    <dep name="punct">228</dep>
+    <dep name="root">173</dep>
     <dep name="vocative">1</dep>
-    <dep name="xcomp">11</dep>
+    <dep name="xcomp">15</dep>
   </deps>
 </treebank>
