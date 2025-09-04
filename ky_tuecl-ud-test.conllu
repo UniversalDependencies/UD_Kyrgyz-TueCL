@@ -1,4 +1,5 @@
 # sent_id = cairo-1
+# parallel_id = cairo/1
 # text = Кыз досуна кат жазды.
 # translit = Qız dos-u-na qat jaz-dı.
 # glossing = girl friend-POSS.3SG-DAT letter write-PST[3]
@@ -14,6 +15,7 @@
 5	.	.	PUNCT	_	_	4	punct	_	_
 
 # sent_id = cairo-2
+# parallel_id = cairo/2/alt1
 # text = Жамгыр жаап жатат деп ойлойм.
 # translit = Jamğır jaa-p jat-a-t de-p oylo-y-m.
 # glossing = rain rain-INF lie.down-NPST-3 say-INF think-NPRS.1SG
@@ -30,6 +32,7 @@
 6	.	.	PUNCT	_	_	5	punct	_	_
 
 # sent_id = cairo-2.1
+# parallel_id = cairo/2/alt2
 # text = Жамгыр жаап жатат окшойт.
 # translit = Jamğır jaa-p jat-a-t oqşo-y-t.
 # glossing = rain rain-INF lie.down-NPST.3 seem-NPST.3
@@ -45,6 +48,7 @@
 5	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = cairo-3.1
+# parallel_id = cairo/3/alt1
 # text = Ал тамеки чегүүнү жана арак ичүүнү токтотууга аракет кылды.
 # translit = Al tameki çeg-üü-nü jana araq iç-üü-nü toqto-t-uu-ğa araket qıl-dı.
 # glossing = he/she cigarette smoke-VN-ACC and alcohol drink-VN-ACC stop-CAUS-VN-DAT action do-PST[3]
@@ -65,6 +69,7 @@
 10	.	.	PUNCT	_	_	9	punct	_	_
 
 # sent_id = cairo-3.2
+# parallel_id = cairo/3/alt2
 # text = Тамеки чегүүнү жана арак ичүүнү токтотууга аракет кылды.
 # translit = Tameki çeg-üü-nü jana araq iç-üü-nü toqto-t-uu-ğa araket qıl-dı.
 # glossing = cigarette smoke-VN-ACC and alcohol drink-VN-ACC stop-CAUS-VN-DAT action do-PST[3]
@@ -84,6 +89,7 @@
 9	.	.	PUNCT	_	_	8	punct	_	_
 
 # sent_id = cairo-4.1
+# parallel_id = cairo/4/alt1
 # text = Сен кеткиң келип жатабы?
 # translit = Sen ket-ki-ŋ kel-ip jat-a-bı?
 # glossing = you leave-VN-2SG come-INF lie.down-NPST[3]-Q
@@ -102,6 +108,7 @@
 6	?	?	PUNCT	_	_	3	punct	_	_
 
 # sent_id = cairo-4.2
+# parallel_id = cairo/4/alt2
 # text = Кеткиң келип жатабы?
 # translit = Ket-ki-ŋ kel-ip jat-a-bı?
 # glossing = leave-VN-2SG come-INF lie.down-NPST[3]-Q
@@ -118,6 +125,7 @@
 5	?	?	PUNCT	_	_	2	punct	_	_
 
 # sent_id = cairo-5
+# parallel_id = cairo/5
 # text = Сэм, терезени ач!
 # translit = Sem, tereze-ni aç!
 # glossing = Sam window-ACC open[IMP.2SG] 
@@ -133,6 +141,7 @@
 5	!	!	PUNCT	_	_	4	punct	_	_
 
 # sent_id = cairo-6.1
+# parallel_id = cairo/6/alt1
 # text = Ал күйөөсүнө унааны жуудурду.
 # translit = Al küyöö-sü-nö unaa-nı juu-dur-du.
 # glossing = he/she husband-POSS.3-DAT car-ACC wash-CAUS-PST[3]
@@ -148,6 +157,7 @@
 5	.	.	PUNCT	_	_	4	punct	_	_
 
 # sent_id = cairo-6.2
+# parallel_id = cairo/6/alt2
 # text = Күйөөсүнө унааны жуудурду.
 # translit = Küyöö-sü-nö unaa-nı juu-dur-du.
 # glossing = husband-POSS.3-DAT car-ACC wash-CAUS-PST[3]
@@ -162,6 +172,7 @@
 4	.	.	PUNCT	_	_	3	punct	_	_
 
 # sent_id = cairo-7
+# parallel_id = cairo/7/alt1
 # text = Питердин кошунасы тосмону кызыл түскө боёду.
 # translit = Piter-din koşuna-sı tosmo-nu qızıl tüs-kö boyo-du.
 # glossing = Peter-GEN neighbour-POSS.3 fence-ACC red colour-DAT paint-PST[3]
@@ -179,6 +190,7 @@
 7	.	.	PUNCT	_	_	6	punct	_	_
 
 # sent_id = cairo-7.1
+# parallel_id = cairo/7/alt2
 # text = Питердин кошунасы тосмону кызылга боёду.
 # translit = Piter-din koşuna-sı tosmo-nu qızıl-ğa boyo-du.
 # glossing = Peter-GEN neighbour-POSS.3 fence-ACC red-DAT paint-PST[3]
@@ -195,6 +207,7 @@
 6	.	.	PUNCT	_	_	5	punct	_	_
 
 # sent_id = cairo-8
+# parallel_id = cairo/8
 # text = Менин атам сеникинен кыйыныраак.
 # translit = Me-nin ata-m se-niki-nen qıyın-ıraak.
 # glossing = I-GEN father-POSS.1SG you-GEN.SUBST cool-COMP
@@ -212,6 +225,7 @@
 6	.	.	PUNCT	_	_	5	punct	_	_
 
 # sent_id = cairo-9
+# parallel_id = cairo/9/alt1
 # text = Мэри коло утту, Питер күмүш, Джейн алтын.
 # translit = Meri qolo ut-tu, Piter kümüş, Jeyn altın.
 # glossing = Mary bronze win-PST[3] Peter silver Jane gold 
@@ -232,6 +246,7 @@
 10	.	.	PUNCT	_	_	3	punct	_	_
 
 # sent_id = cairo-9.1
+# parallel_id = cairo/9/alt2
 # text = Мэри коло, Питер күмүш, Джейн алтын утту.
 # translit = Meri qolo, Piter kümüş, Jeyn altın ut-tu.
 # glossing = Mary bronze Peter silver Jane gold win-PST[3]
@@ -252,6 +267,7 @@
 10	.	.	PUNCT	_	_	9	punct	_	_
 
 # sent_id = cairo-10
+# parallel_id = cairo/10
 # text = Игуазу чоң өрөөнбү же кичинекейби?
 # translit = Iguazu çoŋ öröön-bü je kiçinekey-bi?
 # glossing = Iguazu big country-Q or small-Q
@@ -272,6 +288,7 @@
 8	?	?	PUNCT	_	_	3	punct	_	_
 
 # sent_id = cairo-11
+# parallel_id = cairo/11
 # text = Питер Смит да, Мэри Браун да өтө албай калды.
 # translit = Piter Smit da, Meri Braun da öt-ö al-ba-y qal-dı.
 # glossing = Peter Smith also Mary Brown also pass-INF take-NEG-INF stay-PST[3]
@@ -293,6 +310,7 @@
 11	.	.	PUNCT	_	_	8	punct	_	_
 
 # sent_id = cairo-12.1
+# parallel_id = cairo/12/alt1
 # text = Алар кимдин жазганын эч билишпейт.
 # translit = Alar kim-din jaz-ğan-ı-n eç bil-iş-pe-y-t.
 # glossing = they who-GEN write-VN-ACC no know-RECP-NEG-NPST-3
@@ -309,6 +327,7 @@
 6	.	.	PUNCT	_	_	5	punct	_	_
 
 # sent_id = cairo-12.2
+# parallel_id = cairo/12/alt2
 # text = Кимдин жазганын эч билишпейт.
 # translit = Kim-din jaz-ğan-ı-n eç bil-iş-pe-y-t.
 # glossing = who-GEN write-VN-POSS.3-ACC no know-RECP-NEG-NPST-3
@@ -324,6 +343,7 @@
 5	.	.	PUNCT	_	_	4	punct	_	_
 
 # sent_id = cairo-12.3
+# parallel_id = cairo/12/alt3
 # text = Алар кимдин жазгандыгы жөнүндө эч ойлору да жок.
 # translit = Alar kim-din jaz-ğan-dığ-ı jönündö eç oy-lor-u da joq.
 # glossing = they who-GEN write-VN-POSS.3 about no idea-PL-POSS.3 even absent
@@ -343,6 +363,7 @@
 9	.	.	PUNCT	_	_	8	punct	_	_
 
 # sent_id = cairo-12.4
+# parallel_id = cairo/12/alt4
 # text = Кимдин жазгандыгы жөнүндө эч ойлору да жок.
 # translit = Kim-din jaz-ğan-dığ-ı jönündö eç oy-lor-u da joq.
 # glossing = who-GEN write-VN-POSS.3 about no idea-PL-POSS.3 even absent
@@ -361,6 +382,7 @@
 8	.	.	PUNCT	_	_	7	punct	_	_
 
 # sent_id = cairo-13.1
+# parallel_id = cairo/13/alt1
 # text = Сен эмнени карап жатасың?
 # translit = Sen emne-ni kara-p jat-a-sıŋ?
 # glossing = you what-ACC watch-INF lie.down-PRS.PROG-2SG
@@ -376,6 +398,7 @@
 5	?	?	PUNCT	_	_	3	punct	_	_
 
 # sent_id = cairo-13.2
+# parallel_id = cairo/13/alt2
 # text = Эмнени карап жатасың?
 # translit = Emne-ni kara-p jat-a-sıŋ?
 # glossing = what-ACC watch-INF lie.down-PRS.PROG-2SG
@@ -390,6 +413,7 @@
 4	?	?	PUNCT	_	_	2	punct	_	_
 
 # sent_id = cairo-14.1
+# parallel_id = cairo/14/alt1
 # text = Сен качан келе алам деп ойлойсуң?
 # translit = Sen kaçan kel-e al-a-m de-p oyloy-suŋ?
 # glossing = you when come-SBJV take-PRS.2SG say-INF think-PRS.2SG
@@ -407,6 +431,7 @@
 7	?	?	PUNCT	_	_	6	punct	_	_
 
 # sent_id = cairo-14.2
+# parallel_id = cairo/14/alt2
 # text = Качан келе алам деп ойлойсуң?
 # translit = Kaçan kel-e al-a-m de-p oyloy-suŋ?
 # glossing = when come-SBJV take-PRS.2SG say-INF think-PRS.2SG
@@ -423,6 +448,7 @@
 6	?	?	PUNCT	_	_	5	punct	_	_
 
 # sent_id = cairo-15.1
+# parallel_id = cairo/15/alt1
 # text = Ал унаа сатып алды, бирок анын иниси жөн гана велосипед.
 # translit = Al unaa satı-p al-dı, birok a-nın ini-si jön ğana velosiped.
 # glossing = he/she car buy-INF take-PST.3SG but he/she-GEN younger.brother-POSS.3SG just only bike
@@ -445,6 +471,7 @@
 12	.	.	PUNCT	_	_	4	punct	_	_
 
 # sent_id = cairo-15.2
+# parallel_id = cairo/15/alt2
 # text = Унаа сатып алды, бирок анын иниси жөн гана велосипед.
 # translit = Unaa satı-p al-dı, birok a-nın ini-si jön ğana velosiped.
 # glossing = car buy-INF take-PST.3SG but he/she-GEN younger.brother-POSS.3SG just only bike
@@ -466,6 +493,7 @@
 11	.	.	PUNCT	_	_	3	punct	_	_
 
 # sent_id = cairo-16
+# parallel_id = cairo/16/alt1
 # text = Питер менен Мэри бири-бирин кучакташты, андан соң бөлмөдөн чыгып кетишти.
 # translit = Piter menen Meri biri-birin kuçakta-ş-tı, a-nda-n soŋ bölmö-dön çığ-ıp ket-iş-ti.
 # glossing = Peter and Mary each.other hug-RECP-PST.3SG that-ABL after room-ABL exit-PFV leave-RECP-PST.3SG
@@ -491,6 +519,7 @@
 14	.	.	PUNCT	_	_	7	punct	_	_
 
 # sent_id = cairo-16.1
+# parallel_id = cairo/16/alt2
 # text = Питер менен Мэри кучакташты, андан соң бөлмөдөн чыгып кетишти.
 # translit = Piter menen Meri kuçakta-ş-tı, a-nda-n soŋ bölmö-dön çığ-ıp ket-iş-ti.
 # glossing = Peter and Mary each other hug-RECP-PST.3SG that-ABL after room-ABL exit-PFV leave-RECP-PST.3SG
@@ -513,6 +542,7 @@
 11	.	.	PUNCT	_	_	4	punct	_	_
 
 # sent_id = cairo-17.1
+# parallel_id = cairo/17/alt1
 # text = Ал чачын жасалгалап туруш керек болчу, бирок эмнегедир ошол күнү жасаган эмес.
 # translit = Al çaç-ın jasalğa-lap tur-uş kerek bol-çu, birok emneğe-dir oşol kün-ü jasa-ğan emes.
 # glossing = he/she hair-POSS.3SG decorate-PFV stand.up-INF.3SG need be-PST.3SG but for.some.reason that day make-VN not 
@@ -537,6 +567,7 @@
 14	.	.	PUNCT	_	_	6	punct	_	_
 
 # sent_id = cairo-17.2
+# parallel_id = cairo/17/alt2
 # text = Чачын жасалгалап туруш керек болчу, бирок эмнегедир ошол күнү жасаган эмес.
 # translit = Сhaç-ın jasalğa-lap tur-uş kerek bol-çu, birok emneğe-dir oşol kün-ü jasa-ğan emes.
 # glossing = hair-POSS.3SG decorate-PFV stand.up-INF.3SG need be-PST.3SG but for.some.reason that day make-VN not 
@@ -560,6 +591,7 @@
 13	.	.	PUNCT	_	_	5	punct	_	_
 
 # sent_id = cairo-18
+# parallel_id = cairo/18
 # text = Ага теңеле алган жокмун, анткени ал абдан тез чуркады.
 # translit = A-ğa teŋe-le al-ğan joq-mun, antkeni al abdan tez çurka-dı.
 # glossing = he/she-DAT equal take-VN not.exist-1SG because.of he/she very fast run-PST.3SG
@@ -581,6 +613,7 @@
 11	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = cairo-19
+# parallel_id = cairo/19
 # text = Бул кат Питерден жана ал кечээ келди.
 # translit = Bul qat Piter-den jana al keçee kel-di.
 # glossing = this letter Peter-ABL and it yesterday come-PST.3SG
@@ -599,6 +632,7 @@
 8	.	.	PUNCT	_	_	3	punct	_	_
 
 # sent_id = cairo-20.1
+# parallel_id = cairo/20/alt1
 # text = Ал Франциянын борбору Парижде чоңойду.
 # translit = Al Franziya-nın borbor-u Parij-de, çoŋoy-du.
 # glossing = he/she France-GEN capital-POSS.3SG Paris-LOC grow.up-PST.3SG 
@@ -615,6 +649,7 @@
 6	.	.	PUNCT	_	_	5	punct	_	_
 
 # sent_id = cairo-20.2
+# parallel_id = cairo/20/alt2
 # text = Франциянын борбору Парижде чоңойду.
 # translit = Franziya-nın borbor-u Parij-de, çoŋoy-du.
 # glossing = France-GEN capital-POSS.3SG Paris-LOC grow.up-PST.3SG 
@@ -630,6 +665,7 @@
 5	.	.	PUNCT	_	_	4	punct	_	_
 
 # sent_id = cairo-20.3
+# parallel_id = cairo/03/alt3
 # text = Ал Парижде, Франциянын борборунда, чоңойду.
 # translit = Al Parij-de, Franziya-nın borbor-un-da, çoŋoy-du.
 # glossing = he/she Paris-LOC France-GEN capital-POSS.3SG-LOC grow.up-PST.3SG 
@@ -648,6 +684,7 @@
 8	.	.	PUNCT	_	_	7	punct	_	_
 
 # sent_id = cairo-20.4
+# parallel_id = cairo/20/alt4
 # text = Парижде, Франциянын борборунда, чоңойду.
 # translit = Parij-de, Franziya-nın borbor-un-da, çoŋoy-du.
 # glossing = Paris-LOC France-GEN capital-POSS.3SG-LOC grow.up-PST.3SG 
