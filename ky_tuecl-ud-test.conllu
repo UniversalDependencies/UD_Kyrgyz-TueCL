@@ -702,6 +702,7 @@
 7	.	.	PUNCT	_	_	6	punct	_	_
 
 # sent_id = udtw23-1
+# parallel_id = tuecl/udtw23-1
 # text = Жубайым дачадагы балдар бөлмөсүнүн терезесин шаша-буша тазалап, ашкананыкын тазалабай коюптур.
 # translit = Jubay-ım daça-dağı bal-dar bölmö-sü-nün tereze-sin şaşa-buşa tazala-p, aşkana-nıkı-n tazala-ba-y koy-up-tur.
 # glossing = wife summer.house child-PL room window in.a.hurry clean-INF kitchen clean-NEG-INF put-INF-
@@ -728,6 +729,7 @@
 15	.	.	PUNCT	_	_	13	punct	_	_
 
 # sent_id = udtw23-2
+# parallel_id = tuecl/udtw23-2
 # text = Мен сага муну дайыма айтам, күндө эртең менен досуң менен телефондо сүйлөшкөндө мен жөнүндө сөз кылба.
 # translit = Men sa-ğa mu-nu dayıma ayt-a-m, kün-dö erteŋ menen dos-uŋ menen telefon-do süylö-ş-kön-dö men jön-ün-dö söz qıl-ba.
 # glossing = I you-DAT this-ACC always tell-PRS.1SG day-LOC tomorrow with friend-POSS.2.SG with phone-LOC talk-RECP-LOC I topic-POSS.3SG-LOC word make-NEG.2SG 
@@ -756,6 +758,7 @@
 18	.	.	PUNCT	_	_	5	punct	_	_
 
 # sent_id = udtw23-3
+# parallel_id = tuecl/udtw23-3
 # text = Түнөп калчу конок эшикти такылдатыптыр, бирок үйдүн ээси дагы эле үйдү жыйнап жаткан, ал эми ал ресторандан буюртма берген тамак келмек болчу.
 # translit = Tünö-p qal-çu konok eşik-ti taqılda-tıptır, birok üy-dün ee-si dağı ele üy-dü jıyna-p jat-kan, al emi al restoran-dan buyurtma ber-ğen tamak kel-mek bol-çu.
 # glossing = sleep.over-INF clean-INF stay gest dor 
@@ -791,6 +794,7 @@
 25	.	.	PUNCT	sent	_	23	punct	_	_
 
 # sent_id = udtw23-4
+# parallel_id = tuecl/udtw23-4
 # text = Айша — доктур.
 # translit = Ayşa — doktur.
 # glossing = Ayşe — doctor
@@ -805,6 +809,7 @@
 4	.	.	PUNCT	_	_	3	punct	_	_
 
 # sent_id = udtw23-5
+# parallel_id = tuecl/udtw23-5
 # text = Биз чечүүгө аракет кылып жаткан көйгөй – китеп текчесинде беш китептик да орундун жоктугу.
 # translit = Biz çeç-üü-ğö araket qıl-ıp jat-kan köyğöy – kitep tekçe-si-n-de beş kitep-tik da orun-dun joq-tuğ-u.
 # glossing = we solve-VN-
@@ -830,6 +835,7 @@
 15	.	.	PUNCT	_	_	14	punct	_	_
 
 # sent_id = udtw23-5.1
+# parallel_id = tuecl/udtw23-5/alt1
 # text = Биз чечүүгө аракет кылып жаткан көйгөй – китеп текчесинде беш китептик да орундун жоктугу.
 # translit = Biz çeç-üü-ğö araket qıl-ıp jat-kan köyğöy – kitep tekçe-si-n-de beş kitep-tik da orun-dun joq-tuğ-u.
 # glossing = 
@@ -855,6 +861,7 @@
 15	.	.	PUNCT	_	_	14	punct	_	_
 
 # sent_id = udtw23-5.2
+# parallel_id = tuecl/udtw23-5/alt2
 # text = Биз чечүүгө аракет кылып жаткан көйгөй – китеп текчесинде беш китептик да орундун болбогону.
 # translit = Biz çeç-üü-ğö araket qıl-ıp jat-kan köyğöy – kitep tekçe-si-n-de beş kitep-tik da orun-dun bol-bo-ğon-u.
 # glossing = 
@@ -880,6 +887,7 @@
 15	.	.	PUNCT	_	_	14	punct	_	_
 
 # sent_id = udtw23-6
+# parallel_id = tuecl/udtw23-6
 # text = Анын таенеси мед айым эле.
 # translit = A-nın taene-si med ayım ele.
 # glossing = he/she-GEN grandmother-POSS.3SG med woman be-COP.PST.3SG
@@ -896,6 +904,7 @@
 6	.	.	PUNCT	_	_	4	punct	_	_
 
 # sent_id = udtw23-7
+# parallel_id = tuecl/udtw23-7
 # text = Макул, анда китеп текчесиндегилер кайда эле?
 # translit = Makul, anda kitep tekçe-sin-de-ği-ler kayda ele?
 # glossing = all.right then book shelf where be-COP.PST.3SG
@@ -916,6 +925,7 @@
 9	?	?	PUNCT	_	_	7	punct	_	_
 
 # sent_id = udtw23-8
+# parallel_id = tuecl/udtw23-8
 # text = Суде үч саат бою кеңседе болгон жок, Айша да үйдө болгон эмес экен.
 # translit = Sude üç saat boyu keŋse-de bol-ğon joq, Ayşa da üy-do bol-ğon emes eken.
 # glossing =
@@ -942,6 +952,7 @@
 15	.	.	PUNCT	_	_	11	punct	_	_
 
 # sent_id = udtw23-9
+# parallel_id = tuecl/udtw23-9
 # text = Дүкөндө жемиш бар, бирок жакшы эмес.
 # translit = Dükön-dö jemiş bar, birok jakşı emes.
 # glossing = 
@@ -960,6 +971,7 @@
 8	.	.	PUNCT	_	_	3	punct	_	_
 
 # sent_id = udtw23-10
+# parallel_id = tuecl/udtw23-10
 # text = Дениз доктур болот, билип кой!
 # translit = Deniz doktur bol-ot, bil-ip koy! 
 # glossing = Deniz doctor be-FUT.3SG know-INF put
@@ -978,6 +990,7 @@
 7	!	!	PUNCT	_	_	5	punct	_	_
 
 # sent_id = udtw23-11
+# parallel_id = tuecl/udtw23-11
 # text = Дениз уктап калган эле.
 # translit = Deniz ukta-p qal-ğan ele.
 # glossing = Deniz sleep-INF stay-VN be-COP.PST.3SG
@@ -993,6 +1006,7 @@
 5	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = udtw23-12
+# parallel_id = tuecl/udtw23-12
 # text = Чогулуш боло тургандыгы айтылып жаткан учурда, ал ушунчалык таң калгандыктан окшойт, мени караган бойдон калды.
 # translit = Çoğuluş bol-o tur-ğan-dı-ğı ayt-ıl-ıp jat-kan uçur-da, al uşunçalık taŋ qal-ğan-dık-tan oqşo-y-t, men-i kara-ğan boy-don qal-dı.
 # glossing = 'qal-dı' stay-PST[3]
@@ -1021,6 +1035,7 @@
 18	.	.	PUNCT	_	_	17	punct	_	_
 
 # sent_id = udtw23-13
+# parallel_id = tuecl/udtw23-13/alt1
 # text = Кардиганым үйдө бекен?
 # translit = Kardiğa-nım üy-dö b-eken?
 # glossing = cardigan-POSS.1SG home-LOC Q-COP.3SG
@@ -1038,6 +1053,7 @@
 5	?	?	PUNCT	_	_	2	punct	_	_
 
 # sent_id = udtw23-13.1
+# parallel_id = tuecl/udtw23-13/alt2
 # text = Кардиганым үйдө болгон бекен?
 # translit = Kardiğa-nım üy-dö bol-ğon b-eken? 
 # glossing = cardigan-POSS.1SG home-LOC be-PST.3SG Q-COP.3SG
@@ -1056,6 +1072,7 @@
 6	?	?	PUNCT	_	_	2	punct	_	_
 
 # sent_id = udtw23-14
+# parallel_id = tuecl/udtw23-14
 # text = Иш-чара бүгүн өткөрүлөбү?
 # translit = Iş-çara büğün öt-kör-ülö-bü? 
 # glossing = [passive]
@@ -1074,6 +1091,7 @@
 7	?	?	PUNCT	sent	_	5	punct	_	_
 
 # sent_id = udtw23-15
+# parallel_id = tuecl/udtw23-15
 # text = Натыйжалар жарыяланыптыр да, ээ?
 # translit = Natıyja-lar jarıyala-n-ıp-tır da, ee?
 # glossing = resalt-PL publish--INF- also isn't
@@ -1090,6 +1108,7 @@
 6	?	?	PUNCT	_	_	2	punct	_	_
 
 # sent_id = udtw23-16
+# parallel_id = tuecl/udtw23-16/alt1
 # text = Айша бул китепти окуган эмес.
 # translit = Ayşa bul kitep-ti oku-ğan emes. 
 # glossing = Ayşe this book-ACC read-VN not [Present Pefect Tense]
@@ -1106,6 +1125,7 @@
 6	.	.	PUNCT	_	_	4	punct	_	_
 
 # sent_id = udtw23-16.1
+# parallel_id = tuecl/udtw23-16/alt2
 # text = Айша бул китепти окубай койгон жок.
 # translit = Ayşa bul kitep-ti oku-ba-y koy-ğon joq.
 # glossing = Ayşe this book-ACC read-NEG-INF put- not
@@ -1123,6 +1143,7 @@
 7	.	.	PUNCT	_	_	4	punct	_	_
 
 # sent_id = udtw23-17
+# parallel_id = tuecl/udtw23-17
 # text = Негизинен ал окуганды эмес, сүрөт тартканды жакшы көрөт.
 # translit = Neğiz-inen al oku-ğan-dı emes, süröt tart-kan-dı jakşı kör-ö-t.
 # glossing = basic- he/she read-PTCP-ACC not, picture draw-PTCP-ACC good see-3SG
@@ -1143,6 +1164,7 @@
 10	.	.	PUNCT	_	_	9	punct	_	_
 
 # sent_id = udtw23-18
+# parallel_id = tuecl/udtw23-18
 # text = Ал окугандары эмес, окуй тургандары тууралуу айтып жатат.
 # translit = Al oku-ğan-da-rı emes, oku-y tur-ğan-da-rı tuuraluu ayt-ıp jat-a-t.
 # glossing = he/she read- not read- stay- about tell- lie.down-NPST-3
@@ -1163,6 +1185,7 @@
 10	.	.	PUNCT	_	_	8	punct	_	_
 
 # sent_id = udtw23-19
+# parallel_id = tuecl/udtw23-19
 # text = Мунун көгү жакшынакайыраак экен, мага көгүн берип коёсуңбу?
 # translit = Mun-un köğ-ü jakşınakay-ıraak eken, mağa köğ-ün ber-ip koyo-osuŋ-bu?
 # glossing = give-INF
@@ -1185,6 +1208,7 @@
 11	?	?	PUNCT	_	_	3	punct	_	_
 
 # sent_id = udtw23-20
+# parallel_id = tuecl/udtw23-20
 # text = Жаштарды ишке ашырылбас максаттарынан баш тарттырышыбыз керек.
 # translit = Jaş-tar-dı iş-ke aş-ırıl-bas maksat-ta-rı-nan baş tart-tı-rı-şı-bız kerek.
 # glossing = 
@@ -1203,6 +1227,7 @@
 8	.	.	PUNCT	_	_	7	punct	_	_
 
 # sent_id = udtw23-21
+# parallel_id = tuecl/udtw23-21
 # text = Мугалим китепти алып мектепке кетти.
 # translit = Muğalim kitep-ti al-ıp mektep-ke ket-ti.
 # glossing = teacher book-ACC take-PFV school-DAT leave-PST-3SG
@@ -1219,6 +1244,7 @@
 6	.	.	PUNCT	_	_	5	punct	_	_
 
 # sent_id = udtw23-22
+# parallel_id = tuecl/udtw23-22
 # text = Мугалим китепти мектепке алып кетти.
 # translit = Muğalim kitep-ti mektep-ke al-ıp ket-ti.
 # glossing = teacher book-ACC school-DAT take-PFV leave-PST-3SG
