@@ -1261,6 +1261,7 @@
 6	.	.	PUNCT	_	_	5	punct	_	_
 
 # sent_id = 1
+# parallel_id = tuecl/1
 # text = Дениз уктады.
 # translit = Deniz ukta-dı.
 # glossing = Deniz sleep-PST-3SG
@@ -1274,6 +1275,7 @@
 3	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = 2
+# parallel_id = tuecl/2
 # text = Дениз китеп окуп жатат.
 # translit = Deniz kitep oku-p jat-a-t.
 # glossing = Deniz book read-PFV lie.down-NPST-3
@@ -1289,6 +1291,7 @@
 5	.	.	PUNCT	_	_	3	punct	_	_
 
 # sent_id = 3
+# parallel_id = tuecl/3
 # text = Дениз кечинде үйдө китеп окуйт.
 # translit = Deniz keç-in-de üy-dö kitep oku-y-t.
 # glossing = Deniz late-POSS.3SG-LOC home-LOC book read-PRS-3SG
@@ -1305,6 +1308,7 @@
 6	.	.	PUNCT	_	_	5	punct	_	_
 
 # sent_id = 4
+# parallel_id = tuecl/4
 # text = Дениз эжесине китепти берди.
 # translit = Deniz eje-si-ne kitep-ti ber-di.
 # glossing = Deniz elder.sister-POSS.3SG-DAT book-ACC give-PST-3SG
@@ -1320,6 +1324,7 @@
 5	.	.	PUNCT	_	_	4	punct	_	_
 
 # sent_id = 5
+# parallel_id = tuecl/5
 # text = Дениз китепти үйүнө алып кетти.
 # translit = Deniz kitep-ti üy-ü-nö alı-p ket-ti.
 # glossing = Deniz book-ACC home-POSS.3SG-DAT take-INF leave-PST-3SG
@@ -1336,6 +1341,7 @@
 6	.	.	PUNCT	_	_	5	punct	_	_
 
 # sent_id = 6
+# parallel_id = tuecl/6
 # text = Мугалим балдарга сабак өттү.
 # translit = Muğalim bal-dar-ğa sabak öt-tü.
 # glossing = teacher child-PL-DAT lesson pass-PST-3SG
@@ -1351,6 +1357,7 @@
 5	.	.	PUNCT	_	_	4	punct	_	_
 
 # sent_id = 7
+# parallel_id = tuecl/7
 # text = Дениз досуна китеп сатып алды.
 # translit = Deniz dos-un-a kitep satıp aldı.
 # glossing = Deniz friend-POSS.3SG-DAT book sell-PFV take-PST-3SG
@@ -1367,6 +1374,7 @@
 6	.	.	PUNCT	_	_	5	punct	_	_
 
 # sent_id = 8
+# parallel_id = tuecl/8/alt1
 # text = Дениз эжеси менен жарашты.
 # translit = Deniz eje-si menen jaraş-tı.
 # glossing = Deniz elder.sister-POSS.3SG with make.peace-PST.3SG
@@ -1382,6 +1390,7 @@
 5	.	.	PUNCT	_	_	4	punct	_	_
 
 # sent_id = 8.1
+# parallel_id = tuecl/8/alt2
 # text = Дениз байкеси менен элдешти.
 # translit = Deniz bayke-si menen eldeş-ti.
 # glossing = Deniz elder.brother-POSS.3SG with make.peace-PST.3SG
@@ -1397,6 +1406,7 @@
 5	.	.	PUNCT	_	_	4	punct	_	_
 
 # sent_id = 9
+# parallel_id = tuecl/9/alt1
 # text = Дениз досторуна нааразы.
 # translit = Deniz dos-tor-u-na naarazı.
 # glossing = Deniz friend-PL-POSS.3SG-DAT complaine-PRS.3SG
@@ -1411,6 +1421,7 @@
 4	.	.	PUNCT	_	_	3	punct	_	_
 
 # sent_id = 9.1
+# parallel_id = tuecl/9/alt2
 # text = Дениз досунун үстүнөн арызданып жатат.
 # translit = Deniz dos-u-nun üst-ü-nön arızdan-ıp jat-a-t.
 # glossing = Deniz friend-POSS.3SG-GEN top-POSS.3SG-ABL complaine-PFV lie.down-NPST-3
@@ -1427,6 +1438,7 @@
 6	.	.	PUNCT	_	_	4	punct	_	_
 
 # sent_id = 10
+# parallel_id = tuecl/10
 # text = Дениз эрте уктады.
 # translit = Deniz erte ukta-dı.
 # glossing = Deniz early sleep-PST-3SG
@@ -1441,6 +1453,7 @@
 4	.	.	PUNCT	_	_	3	punct	_	_
 
 # sent_id = 11
+# parallel_id = tuecl/11
 # text = Дениз досу даярдаган тамактан эки табак жеди.
 # translit = Deniz dos-u dayarda-ğan tamak-tan eki tabak je-di.
 # glossing = Deniz friend- prepare-VN food- two plate eat-PST-3SG
@@ -1459,6 +1472,7 @@
 8	.	.	PUNCT	_	_	7	punct	_	_
 
 # sent_id = 12
+# parallel_id = tuecl/12
 # text = Дениз үч саат уктады.
 # translit = Deniz üç saat ukta-dı.
 # glossing = Deniz three hour sleep-PST-3SG
@@ -1474,6 +1488,7 @@
 5	.	.	PUNCT	_	_	4	punct	_	_
 
 # sent_id = 13
+# parallel_id = tuecl/13
 # text = Дениз өтө ылдам.
 # translit = Deniz ötö ıldam.
 # glossing = Deniz very fast
@@ -1488,6 +1503,7 @@
 4	.	.	PUNCT	_	_	3	punct	_	_
 
 # sent_id = 14
+# parallel_id = tuecl/14/alt1
 # text = Дениз студент.
 # translit = Deniz student.
 # glossing = Deniz student
@@ -1501,6 +1517,7 @@
 3	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = 14.1
+# parallel_id = tuecl/14/alt2
 # text = Дениз студент кыз.
 # translit = Deniz student qız.
 # glossing = Deniz student girl
@@ -1515,6 +1532,7 @@
 4	.	.	PUNCT	_	_	3	punct	_	_
 
 # sent_id = 15
+# parallel_id = tuecl/15
 # text = Дениз студент.
 # translit = Deniz student.
 # glossing = Deniz student
@@ -1529,6 +1547,7 @@
 3	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = 16
+# parallel_id = tuecl/16
 # text = Дениз доктур болот.
 # translit = Deniz doktur bol-ot.
 # glossing = Deniz doctor be-FUT-3SG
@@ -1543,6 +1562,7 @@
 4	.	.	PUNCT	_	_	3	punct	_	_
 
 # sent_id = 17
+# parallel_id = tuecl/17
 # text = Дениз үйдө.
 # translit = Deniz üy-dö.
 # glossing = Deniz home-LOC
@@ -1556,6 +1576,7 @@
 3	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = 18
+# parallel_id = tuecl/18
 # text = Дениз үйдө болчу.
 # translit = Deniz üy-dö bol-çu.
 # glossing = Deniz home-LOC be-PST.PFV.3SG
@@ -1570,6 +1591,7 @@
 4	.	.	PUNCT	_	_	3	punct	_	_
 
 # sent_id = 19
+# parallel_id = tuecl/19
 # text = Дениз үйдө эле.
 # translit = Deniz üy-dö ele.
 # glossing = Deniz home-LOC be-COP.PST.3SG
@@ -1584,6 +1606,7 @@
 4	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = 20
+# parallel_id = tuecl/20
 # text = Белек Дениз үчүн болчу.
 # translit = Belek Deniz üçün bol-çu.
 # glossing = present Deniz for be-PST.PFV.3SG
@@ -1599,6 +1622,7 @@
 5	.	.	PUNCT	_	_	4	punct	_	_
 
 # sent_id = 21
+# parallel_id = tuecl/21
 # text = Дениз уктап калган.
 # translit = Deniz ukta-p qal-ğan.
 # glossing = Deniz sleep-INF stay-VN
@@ -1613,6 +1637,7 @@
 4	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = 22
+# parallel_id = tuecl/22
 # text = Дениз уктап калган эле.
 # translit = Deniz ukta-p qal-ğan ele.
 # glossing = Deniz sleep-INF stay-VN be-COP.PST.3SG
@@ -1628,6 +1653,7 @@
 5	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = 23
+# parallel_id = tuecl/23
 # text = Дениз уктаган болот.
 # translit = Deniz ukta-ğan bol-o-t.
 # glossing = Deniz sleep-VN be-FUT-3SG
@@ -1642,6 +1668,7 @@
 4	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = 24
+# parallel_id = tuecl/24
 # text = Апасынын кыялы Дениздин жакшы мектепте окушу эле.
 # translit = Apa-sı-nın kıyal-ı Deniz-din jakşı mektep-te oku-şu ele.
 # glossing = mother-POSS.3SG-GEN dream-POSS.3SG Deniz-GEN good school-LOC read be-COP.PST.3SG
@@ -1660,6 +1687,7 @@
 8	.	.	PUNCT	_	_	6	punct	_	_
 
 # sent_id = 25
+# parallel_id = tuecl/25
 # text = Дениздин жакшы мектепте окубагандыгы апасын санаага салчу.
 # translit = Deniz-din jakşı mektep-te oku-ba-ğan-dı-ğı apa-sı-n sanaa-ğa sal-çu.
 # glossing = Deniz-GEN good school-LOC read-NEG-VN-- mother-POSS.3SG-ACC worry-DAT put-
@@ -1678,6 +1706,7 @@
 8	.	.	PUNCT	_	_	7	punct	_	_
 
 # sent_id = 26
+# parallel_id = tuecl/26/alt1
 # text = Столдо көп китеп бар, китеп текчеде жок.
 # translit = Stol-do köp kitep bar, kitep tekçe-de joq.
 # glossing = table-LOC many book exist book shelf-LOC not.exist
@@ -1697,6 +1726,7 @@
 9	.	.	PUNCT	_	_	4	punct	_	_
 
 # sent_id = 26.1
+# parallel_id = tuecl/26/alt2
 # text = Столдун үстүндө көп китеп бар, китеп текчеде жок.
 # translit = Stol-dun üst-ün-dö köp kitep bar, kitep tekçe-de joq.
 # glossing = table-GEN top-POSS.3SG-LOC  many book exist book shelf-LOC not.exist
@@ -1717,6 +1747,7 @@
 10	.	.	PUNCT	_	_	5	punct	_	_
 
 # sent_id = 27
+# parallel_id = tuecl/27
 # text = Дениздин эч бир китеби жок.
 # translit = Deniz-din eç bir kiteb-i joq.
 # glossing = Deniz-GEN nothing one book-POSS.3SG not.exist
@@ -1733,6 +1764,7 @@
 6	.	.	PUNCT	_	_	5	punct	_	_
 
 # sent_id = 28
+# parallel_id = tuecl/28
 # text = Дениз үйдө эмес эле.
 # translit = Deniz üy-dö emes ele.
 # glossing = Deniz home-LOC not be-COP.PST.3SG
@@ -1748,6 +1780,7 @@
 5	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = 29
+# parallel_id = tuecl/29
 # text = Дениз өз убагында уктабайт.
 # translit = Deniz öz ubağ-ın-da ukta-bay-t.
 # glossing = Deniz own time-POSS.3SG-LOC sleep-NEG-3SG
@@ -1763,6 +1796,7 @@
 5	.	.	PUNCT	_	_	4	punct	_	_
 
 # sent_id = 30
+# parallel_id = tuecl/30
 # text = Дениз уктай албай жатат.
 # translit = Deniz ukta-y al-ba-y jat-a-t.
 # glossing = Deniz sleep- take-NEG-INF lie.down-NPST-3
@@ -1778,6 +1812,7 @@
 5	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = 31
+# parallel_id = tuecl/31
 # text = Дениз өз убагында уктай албашы мүмкүн.
 # translit = Deniz öz ubağ-ın-da ukta-y al-ba-şı mümkün.
 # glossing = Deniz own time-POSS.3SG-LOC sleep take-NEG maybe
@@ -1795,6 +1830,7 @@
 7	.	.	PUNCT	_	_	6	punct	_	_
 
 # sent_id = 32
+# parallel_id = tuecl/32
 # text = Дениз апасын көрбөй калды.
 # translit = Deniz apa-sı-n kör-bö-y qal-dı.
 # glossing = Deniz mother-POSS.3SG-ACC see-NEG-INF stay-PST[3]
@@ -1810,6 +1846,7 @@
 5	.	.	PUNCT	_	_	3	punct	_	_
 
 # sent_id = 33
+# parallel_id = tuecl/33
 # text = Дениз апасын көрүп калган жок.
 # translit = Deniz apa-sı-n kör-üp qal-ğan joq.
 # glossing = Deniz mother-POSS.3SG-ACC see-INF stay-VN not
@@ -1826,6 +1863,7 @@
 6	.	.	PUNCT	_	_	3	punct	_	_
 
 # sent_id = 34
+# parallel_id = tuecl/34
 # text = Дениз апасын көрбөй калган жок.
 # translit = Deniz apa-sı-n kör-bö-y qal-ğan joq.
 # glossing = Deniz mother-POSS.3SG-ACC see-NEG-INF stay-VN not
@@ -1842,6 +1880,7 @@
 6	.	.	PUNCT	_	_	3	punct	_	_
 
 # sent_id = 35
+# parallel_id = tuecl/35
 # text = Окугандарын түшүнбөй жатат.
 # translit = Oku-ğan-dar-ın tüşün-bö-y jat-a-t.
 # glossing = read-VN-PL-3SG.POSS understand-NEG-INF lie.down-NPST-3
@@ -1858,6 +1897,7 @@
 5	.	.	PUNCT	_	_	3	punct	_	_
 
 # sent_id = 36
+# parallel_id = tuecl/36
 # text = Окугандарын түшүнүп жаткан жок.
 # translit = Oqu-ğan-dar-ın tüşün-üp jat-qan joq
 # glossing = read-VN-PL-3SG.POSS understand-INF lie.down-VN not
@@ -1875,6 +1915,7 @@
 6	.	.	PUNCT	_	_	3	punct	_	_
 
 # sent_id = 37
+# parallel_id = tuecl/37
 # text = Окугандарын түшүнбөй жаткан жок.
 # translit = Oqu-ğan-dar-ın tüşün-bö-y jat-qan joq
 # glossing = read-VN-PL-3SG.POSS understand-NEG.INF lie.down-VN not
@@ -1892,6 +1933,7 @@
 6	.	.	PUNCT	_	_	3	punct	_	_
 
 # sent_id = 38
+# parallel_id = tuecl/38
 # text = Окуганды эмес, сүрөт тартканды жакшы көрөт.
 # translit = Oqu-ğan-dı emes, süröt tart-ğan-dı jakşı kör-öt
 # glossing = read-PTCP-ACC not, picture draw-PTCP-ACC good see-3SG
@@ -1910,6 +1952,7 @@
 8	.	.	PUNCT	_	_	7	punct	_	_
 
 # sent_id = 39
+# parallel_id = tuecl/39
 # text = Дениз бөлмөдө эмес эле.
 # translit = Deniz bölmö-dö emes ele.
 # glossing = Deniz room-LOC not be-COP.PST.3SG
@@ -1925,6 +1968,7 @@
 5	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = 40
+# parallel_id = tuecl/40
 # text = Дениз бөлмөдө жок эле.
 # translit = Deniz bölmö-dö joq ele.
 # glossing = Deniz room-LOC not be-COP.PST.3SG
@@ -1940,6 +1984,7 @@
 5	.	.	PUNCT	_	_	3	punct	_	_
 
 # sent_id = 41
+# parallel_id = tuecl/41
 # text = Дениздин китеп окугусу келип жатат.
 # translit = Deniz-din kitep oku-ğu-su kel-ip jat-a-t.
 # glossing = Deniz-GEN book read-INF-POSS.3SG come-INF lie.down-NPST-3
@@ -1956,6 +2001,7 @@
 6	.	.	PUNCT	_	_	4	punct	_	_
 
 # sent_id = 42
+# parallel_id = tuecl/42
 # text = Дениз китеп окууну каалайт.
 # translit = Deniz kitep okuu-nu kaalai-t
 # glossing = Deniz book read-VN-ACC want-3SG
@@ -1971,6 +2017,7 @@
 5	.	.	PUNCT	_	_	4	punct	_	_
 
 # sent_id = 43
+# parallel_id = tuecl/43
 # text = Дениз атасынын ага китеп окуп берүүсүн каалап жатат.
 # Note: changed from: 'text = Дениз атасын ага китеп окуп беришин каалайт.'
 # translit = Deniz ata-sın ağa kitep okup ber-i-şin qaala-y-t.
@@ -1991,6 +2038,7 @@
 9	.	.	PUNCT	_	_	7	punct	_	_
 
 # sent_id = 44
+# parallel_id = tuecl/44
 # text = Дениз өзү менен өзү болууну жакшы көрөт.
 # translit = Deniz özü menen özü boluu-nu jakşı kör-ö-t.
 # glossing = Deniz self-POSS.3SG with self-POSS.3SG be-VN-ACC good see-3SG.PRES
@@ -2010,6 +2058,7 @@
 8	.	.	PUNCT	_	_	7	punct	_	_
 
 # sent_id = 45
+# parallel_id = tuecl/45
 # text = Апасынын китеп окушу Дениздин укташын жеңилдетет.
 # translit = Apa-sı-nın kitep oku-şu Deniz-din uqta-şın jeŋil-det-e-t.
 # glossing = mother-POSS.3SG-GEN book read-VN-POSS.3SG Deniz-GEN sleep-POSS.3SG-ACC facilitate-3SG.PRES
@@ -2027,6 +2076,7 @@
 7	.	.	PUNCT	_	_	6	punct	_	_
 
 # sent_id = 46
+# parallel_id = tuecl/46
 # text = Балдарга китеп окуп берүү алардын өсүп-өнүгүүсү үчүн маанилүү.
 # translit = Bal-dar-ga kitep oku-p ber-üü alar-dın ös-üp - önüg-üü-sü üchün maani-lüü.
 # glossing = child-PL-DAT book read-INF give-VN they-GEN grow-INF - develop-VN-POSS.3SG for meaning-
@@ -2048,6 +2098,7 @@
 11	.	.	PUNCT	_	_	10	punct	_	_
 
 # sent_id = 47
+# parallel_id = tuecl/47
 # text = Дениз китеп окуп жатып уктайт.
 # translit = Deniz kitep oku-p jat-ıp uqta-y-t
 # glossing = Deniz book read-INF lie.down-INF sleep-PROG-3SG
@@ -2064,6 +2115,7 @@
 6	.	.	PUNCT	_	_	5	punct	_	_
 
 # sent_id = 48
+# parallel_id = tuecl/48
 # text = Дениз каникул экенин унутуп мектепке барыптыр.
 # translit = Deniz kanikul ekenin unut-up mektep-ke bar-ıp-tır.
 # glossing = Deniz holiday that forget-INF school-DAT go-INF-
@@ -2082,6 +2134,7 @@
 7	.	.	PUNCT	_	_	6	punct	_	_
 
 # sent_id = 49
+# parallel_id = tuecl/49/alt1
 # text = Дениз каникул экенин унутуп, сумкасын алып мектепке барыптыр.
 # translit = Deniz kanikul eken-in unut-up, sumka-sı-n al-ıp mektep-ke bar-ıp-tır.
 # glossing = Deniz holiday that forget-INF bag-POSS.3SG-ACC take-INF school-DAT go-INF-
@@ -2103,6 +2156,7 @@
 10	.	.	PUNCT	_	_	9	punct	_	_
 
 # sent_id = 49.1
+# parallel_id = tuecl/49/alt2
 # text = Дениз каникул болгонун унутуп, сумкасын алып мектепке барыптыр.
 # translit = Deniz kanikul bol-ğo-nun unut-up, sumka-sı-n al-ıp mektep-ke bar-ıp-tır.
 # glossing = Deniz holiday be forget-INF bag-POSS.3SG-ACC take-INF school-DAT go-INF
@@ -2123,6 +2177,7 @@
 10	.	.	PUNCT	_	_	9	punct	_	_
 
 # sent_id = 50
+# parallel_id = tuecl/50
 # text = Дениз кеч уктаса мектепке кечигет эле.
 # translit = Deniz keç ukta-sa mektep-ke keç-i-ğet ele.
 # glossing = Deniz late sleep-COND school-DAT late be-COP.PST.3SG
@@ -2140,6 +2195,7 @@
 7	.	.	PUNCT	_	_	5	punct	_	_
 
 # sent_id = 51
+# parallel_id = tuecl/51/alt1
 # text = Дениз кеч уктаса мектепке кечигип барат.
 # translit = Deniz keç ukta-sa mektep-ke keç-i-ğip qal-at.
 # glossing = Deniz late sleep-COND school-DAT late-INF stay
@@ -2157,6 +2213,7 @@
 7	.	.	PUNCT	_	_	6	punct	_	_
 
 # sent_id = 51.1
+# parallel_id = tuecl/51/alt2
 # text = Дениз кеч жатса мектепке кеч калат.
 # translit = Deniz keç jat-sa mektep-ke keç qal-at.
 # glossing = Deniz late lie.down-COND school-DAT late stay
@@ -2174,6 +2231,7 @@
 7	.	.	PUNCT	_	_	6	punct	_	_
 
 # sent_id = 52
+# parallel_id = tuecl/52
 # text = Бала уктаса кино көрөт элек.
 # translit = Bala ukta-sa kino kör-öt elek.
 # glossing = child sleep-COND movie watch be
@@ -2190,6 +2248,7 @@
 6	.	.	PUNCT	_	_	4	punct	_	_
 
 # sent_id = 53
+# parallel_id = tuecl/53
 # text = Эгер бала биз үйгө жеткиче уктап калса, барганыбызда ойготушубуз керек болот.
 # translit = Eğer bala biz üy-ğö jet-ki-çe uktap qal-sa, bar-ğan-ı-bız-da oyğo-tu-şu-buz kerek bol-ot.
 # glossing = if child I-PL home-DAT enough sleep-INF stay-COND go-VN awake need be
@@ -2213,6 +2272,7 @@
 13	.	.	PUNCT	_	_	12	punct	_	_
 
 # sent_id = 54
+# parallel_id = tuecl/54
 # text = Көңүлгө алба.
 # translit = Köŋül-ğö al-ba.
 # glossing = attention-DAT take.IMP-NEG
@@ -2226,6 +2286,7 @@
 3	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = 55
+# parallel_id = tuecl/55
 # text = Көңүлгө алба.
 # translit = Köŋül-ğö al-ba.
 # glossing = attention-DAT take.IMP-NEG
@@ -2239,6 +2300,7 @@
 3	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = 56
+# parallel_id = tuecl/56/alt1
 # text = Бала эрте уктайт деп ойлоп жатам.
 # translit = Bala erte ukta-y-t de-p oylo-p jat-am. 
 # glossing = child early sleep-FUT-3SG say-INF think-INF lie.down-NPST[1]
@@ -2256,6 +2318,7 @@
 7	.	.	PUNCT	_	_	5	punct	_	_
 
 # sent_id = 56.1
+# parallel_id = tuecl/56/alt2
 # text = Баланын эрте уктарын ойлоп жатам.
 # translit = Bala-nın erte ukta-rı-n oylo-p jat-am.
 # glossing = child-GEN early sleep think-INF lie.down-NPST[1]
@@ -2272,6 +2335,7 @@
 6	.	.	PUNCT	_	_	4	punct	_	_
 
 # sent_id = 57
+# parallel_id = tuecl/57
 # text = Дениз бир тууганын жек көрөт.
 # translit = Deniz bir tuuğan-ı-n jek kör-öt.
 # glossing = Deniz one relative-POSS.3SG-[ACC] hate see-PRS.3SG
@@ -2288,6 +2352,7 @@
 6	.	.	PUNCT	_	_	5	punct	_	_
 
 # sent_id = 58
+# parallel_id = tuecl/58
 # text = Эртеңки күндү чыдамсыздык менен күтүп жатам.
 # translit = Erteŋ-ki kün-dü çıdam-sız-dık menen küt-üp jat-am.
 # glossing = morning-ATTR day-LOC patience-ABE with.INST wait-INF lie.down-NPST[1]
@@ -2305,6 +2370,7 @@
 7	.	.	PUNCT	_	_	5	punct	_	_
 
 # sent_id = 59
+# parallel_id = tuecl/59
 # text = Оорукана эл кызматына берилди.
 # translit = Oorukana el qızmat-ı-na ber-il-di.
 # glossing = hospital people service-POSS.3SG-DAT give-PASS-PST.3SG
@@ -2320,6 +2386,7 @@
 5	.	.	PUNCT	_	_	4	punct	_	_
 
 # sent_id = 60
+# parallel_id = tuecl/60
 # text = Чоң үйдөгү бала китеп окуп жатат.
 # translit = Çoŋ üy-dö-ğü bala kitep oku-p jat-a-t.
 # glossing = big home-LOC-ATTR child book read-INF lie.down-NPST-3
@@ -2337,6 +2404,7 @@
 7	.	.	PUNCT	_	_	5	punct	_	_
 
 # sent_id = 61
+# parallel_id = tuecl/61
 # text = Чоң үйдөгү китеп окуп жатат.
 # translit = Çoŋ üy-dö-ğü kitep oku-p jat-a-t.
 # glossing = big home-LOC-ATTR book read-INF lie.down-NPST-3
@@ -2355,6 +2423,7 @@
 7	.	.	PUNCT	_	_	5	punct	_	_
 
 # sent_id = 62
+# parallel_id = tuecl/62
 # text = Чоң үйдөгү баланын чачы сары, кичинекей үйдөгүнүкү күрөң.
 # translit = Çoŋ üydö-ğü bala-nıŋ çaç-ı sary, kiçinekey üydö-ğü-nü-kü küröŋ.
 # glossing = big house-LOC.REL child-GEN hair-3SG yellow, small house-LOC.REL-3SG-GEN brown
@@ -2378,6 +2447,7 @@
 12	.	.	PUNCT	_	_	5	punct	_	_
 
 # sent_id = 63
+# parallel_id = tuecl/63
 # text = Пиязды кызарганга чейин кууруңуз.
 # translit = Piyaz-dı qızar-ğan-ğa çeyin kuur-u-ŋuz.
 # glossing = onion-ACC become.red-VN-DAT until fry-IMP-2SG.FRM
@@ -2393,6 +2463,7 @@
 5	.	.	PUNCT	_	_	4	punct	_	_
 
 # sent_id = 64
+# parallel_id = tuecl/64
 # text = Үйдүн алдында үч унаалык унаа токтоотуучу жай бар.
 # translit = Üy-dün aldı-n-da üç unaa-lık unaa toqto-o-tuu-çu jay bar.
 # glossing = home-GEN front-POSS.3SG-LOC three car.PRTV car stop place exist
@@ -2412,6 +2483,7 @@
 9	.	.	PUNCT	_	_	8	punct	_	_
 
 # sent_id = 65
+# parallel_id = tuecl/65/alt1
 # text = Ыйык китепсиз диндер да бар.
 # translit = Iyık kitep-siz din-der da bar.
 # glossing = holy book-ABE religion-PL also exist
@@ -2428,6 +2500,7 @@
 6	.	.	PUNCT	_	_	5	punct	_	_
 
 # sent_id = 65.1
+# parallel_id = tuecl/65/alt2
 # text = Ыйык китеби болбогон диндер да бар.
 # translit = Iyıq kiteb-i bol-bo-ğon din-der da bar.
 # glossing = holy book-POSS.3SG be-NEG-PTCP religion-PL also exist
@@ -2445,6 +2518,7 @@
 7	.	.	PUNCT	_	_	6	punct	_	_
 
 # sent_id = 66
+# parallel_id = tuecl/66/alt1
 # text = Кичине терезелүү үйдө жетиштүү жарык жок.
 # translit = Kiçine tereze-lüü üy-dö jetiş-tüü jarık joq.
 # glossing = small window.ORN home-LOC enough-ORN light not.exist
@@ -2462,6 +2536,7 @@
 7	.	.	PUNCT	_	_	6	punct	_	_
 
 # sent_id = 66.1
+# parallel_id = tuecl/66/alt2
 # text = Кичине терезелүү үйдө жарык жетишсиз.
 # translit = Kiçine tereze-lüü üy-dö jarık jetiş-siz.
 # glossing = small window.ORN home-LOC light enough-ABE
@@ -2478,6 +2553,7 @@
 6	.	.	PUNCT	_	_	5	punct	_	_
 
 # sent_id = 67
+# parallel_id = tuecl/67
 # text = Дениз үйгө келдиби?
 # translit = Deniz üy-ğö keldi-bi?
 # glossing = Deniz home-DAT come-PST.3SG-Q
@@ -2494,6 +2570,7 @@
 5	?	?	PUNCT	_	_	3	punct	_	_
 
 # sent_id = 68
+# parallel_id = tuecl/68
 # text = Дениз үйгө келген беле?
 # translit = Deniz üy-ğö kel-ğen b-ele?
 # glossing = Deniz home-DAT come-PST.PFV Q-COP.PST.3SG
@@ -2511,6 +2588,7 @@
 6	?	?	PUNCT	_	_	3	punct	_	_
 
 # sent_id = 69
+# parallel_id = tuecl/69
 # text = Дениз үйдөбү?
 # translit = Deniz üydö-bü?
 # glossing = Deniz home-LOC-Q
@@ -2526,6 +2604,7 @@
 4	?	?	PUNCT	_	_	2	punct	_	_
 
 # sent_id = 70
+# parallel_id = tuecl/70
 # text = Дениз үйдө болду бекен?
 # translit = Deniz üy-dö bol-du b-eken?
 # glossing = Deniz home-LOC be-PST.3SG Q-COP.3SG
@@ -2543,6 +2622,7 @@
 6	?	?	PUNCT	_	_	3	punct	_	_
 
 # sent_id = 71
+# parallel_id = tuecl/71
 # text = Дениз үйдө беле?
 # translit = Deniz üy-dö b-ele?
 # glossing = Deniz home-LOC Q-COP.PST.3SG
@@ -2559,6 +2639,7 @@
 5	?	?	PUNCT	_	_	2	punct	_	_
 
 # sent_id = 72
+# parallel_id = tuecl/72
 # text = Дениз үйдө эмес беле?
 # translit = Deniz üy-dö emes b-ele?
 # glossing = Deniz home-LOC not Q-COP.PST.3SG
@@ -2576,6 +2657,7 @@
 6	?	?	PUNCT	_	_	2	punct	_	_
 
 # sent_id = 73
+# parallel_id = tuecl/73
 # text = Дениз үйдө жокпу?
 # translit = Deniz üydö joq-pu?
 # glossing = Deniz home-LOC not.exist-Q
@@ -2592,6 +2674,7 @@
 5	?	?	PUNCT	_	_	3	punct	_	_
 
 # sent_id = 74
+# parallel_id = tuecl/74
 # text = Үйдө нан барбы?
 # translit = Üy-dö nan bar-bı?
 # glossing = home-LOC bread exist-Q
@@ -2608,6 +2691,7 @@
 5	?	?	PUNCT	_	_	3	punct	_	_
 
 # sent_id = 75
+# parallel_id = tuecl/75
 # text = Үйдө нан барбы?
 # translit = Üy-dö nan bar-bı?
 # glossing = home-LOC bread exist-Q
@@ -2624,6 +2708,7 @@
 5	?	?	PUNCT	_	_	3	punct	_	_
 
 # sent_id = 76
+# parallel_id = tuecl/76
 # text = Үйдө нан барбы?
 # translit = Üy-dö nan bar-bı?
 # glossing = home-LOC bread exist-Q
@@ -2640,6 +2725,7 @@
 5	?	?	PUNCT	_	_	3	punct	_	_
 
 # sent_id = 77
+# parallel_id = tuecl/77
 # text = Окуганыңызды түшүнүп жаттыңызбы?
 # translit = Oku-ğan-ı-ŋız-dı tüşün-üp jat-tıŋız-bı?
 # glossing = read-VN-POSS.2SG.FRM-ACC understand-INF lie.down-PST.PROG-2SG.FRM-Q 
@@ -2656,6 +2742,7 @@
 5	?	?	PUNCT	_	_	2	punct	_	_
 
 # sent_id = 78
+# parallel_id = tuecl/78
 # text = Эртең менен Дениз китепти Айханга бердиби?
 # translit = Erteŋ menen Deniz kitep-ti Ayhan-ğa ber-di-bi?
 # glossing = tomorrow with Deniz book-ACC Ayhan-DAT give-PST.3SG-Q
@@ -2675,6 +2762,7 @@
 8	?	?	PUNCT	_	_	6	punct	_	_
 
 # sent_id = 79
+# parallel_id = tuecl/79
 # text = Эртең менен Дениз китепти Айханга бердиби?
 # translit = Erteŋ menen Deniz kitep-ti Ayhan-ğa ber-di-bi?
 # glossing = tomorrow with Deniz book-ACC Ayhan-DAT give-PST.3SG-Q
@@ -2694,6 +2782,7 @@
 8	?	?	PUNCT	_	_	6	punct	_	_
 
 # sent_id = 80
+# parallel_id = tuecl/80
 # text = Эртең менен Дениз китепти Айханга бердиби?
 # translit = Erteŋ menen Deniz kitep-ti Ayhan-ğa ber-di-bi?
 # glossing = tomorrow with Deniz book-ACC Ayhan-DAT give-PST.3SG-Q
@@ -2713,6 +2802,7 @@
 8	?	?	PUNCT	_	_	6	punct	_	_
 
 # sent_id = 81
+# parallel_id = tuecl/81
 # text = Эртең менен Дениз китепти Айханга бердиби?
 # translit = Erteŋ menen Deniz kitep-ti Ayhan-ğa ber-di-bi?
 # glossing = tomorrow with Deniz book-ACC Ayhan-DAT give-PST.3SG-Q
@@ -2732,6 +2822,7 @@
 8	?	?	PUNCT	_	_	6	punct	_	_
 
 # sent_id = 82
+# parallel_id = tuecl/82
 # text = Дениз китепти Айханга эртең менен бердиби?
 # translit = Deniz kitep-ti Ayhan-ğa erteŋ menen ber-di-bi?
 # glossing = Deniz book-ACC Ayhan-DAT tomorrow with give-PST.3SG-Q
@@ -2751,6 +2842,7 @@
 8	?	?	PUNCT	_	_	6	punct	_	_
 
 # sent_id = 83
+# parallel_id = tuecl/83
 # text = Мага көктү бересиңби?
 # translit = Ma-ğa kök-tü ber-esiŋ-bi?
 # glossing = I-DAT.1SG blue-ACC give-PRS-2SG-Q
@@ -2767,6 +2859,7 @@
 5	?	?	PUNCT	_	_	3	punct	_	_
 
 # sent_id = 84
+# parallel_id = tuecl/84
 # text = Мунун көгү жакшыраак.
 # translit = Mu-nun kö-ğü jakşı-raak.
 # glossing = this-GEN blue-POSS.3SG good-COMP
@@ -2781,6 +2874,7 @@
 4	.	.	PUNCT	_	_	3	punct	_	_
 
 # sent_id = 85
+# parallel_id = tuecl/85
 # text = Менин унаам Дениздикинин көгү.
 # translit = Me-nin unaa-m Deniz-di-ki-nin kö-ğü.
 # glossing = I-GEN car-POSS.1SG Deniz-GEN-ATTR-POSS.3SG blue-POSS.3SG
@@ -2798,6 +2892,7 @@
 6	.	.	PUNCT	_	_	5	punct	_	_
 
 # sent_id = 86
+# parallel_id = tuecl/86
 # text = Китеп окулуп жатат.
 # translit = Kitep oku-l-up jat-a-t.
 # glossing = book read-PASS-INF lie.down-NPST-3
@@ -2812,6 +2907,7 @@
 4	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = 87
+# parallel_id = tuecl/87
 # text = Китеп бардык мектептерде окуттурулат.
 # translit = Kitep bardık mektep-ter-de oku-t-tu-rul-at.
 # glossing = book all school-PL-LOC read-CAUS-CAUS-PASS-FUT.3SG
@@ -2827,6 +2923,7 @@
 5	.	.	PUNCT	_	_	4	punct	_	_
 
 # sent_id = 88
+# parallel_id = tuecl/88
 # text = Дениз уктатылды.
 # translit = Deniz ukta-t-ıl-dı.
 # glossing = Deniz sleep-CAUS-PASS-PST.3SG
@@ -2840,6 +2937,7 @@
 3	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = 89
+# parallel_id = tuecl/89/alt1
 # text = Алар кетти.
 # translit = Alar ket-ti.
 # glossing = they leave-PST.3SG
@@ -2853,6 +2951,7 @@
 3	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = 89.1
+# parallel_id = tuecl/89/alt2
 # text = Алар кетишти.
 # translit = Alar keti-ş-ti.
 # glossing = they leave-RECP-PST.3SG
@@ -2866,6 +2965,7 @@
 3	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = 90
+# parallel_id = tuecl/90
 # text = Ал кетти.
 # translit = Al ket-ti.
 # glossing = he/she leave-PST.3SG
@@ -2879,6 +2979,7 @@
 3	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = 91
+# parallel_id = tuecl/91
 # text = Дениз бул жакка келип, бош убактыларында китеп окуйт эле.
 # translit = Deniz bul jak-ka kel-ip, bosh ubaktı-lar-ın-da kițep oku-y-t ele.
 # glossing = Deniz this place-LOC come-INF, free time-PL--LOC book read-3SG used-to
@@ -2900,6 +3001,7 @@
 11	.	.	PUNCT	_	_	4	punct	_	_
 
 # sent_id = 92
+# parallel_id = tuecl/92
 # text = Сен да биз менен келесиң, туурабы?
 # translit = Sen da biz menen kele-siŋ, tuura-bı?
 # glossing = you also we with come-2SG, right-?
@@ -2920,6 +3022,7 @@
 9	?	?	PUNCT	_	_	5	punct	_	_
 
 # sent_id = 93
+# parallel_id = tuecl/93
 # text = Ал yшунчалык укмуш бир китеп дейсиң, аны окуган адам дүйнөгө кайра мурункудай көз караш менен карай албайт.
 # translit = Al uçunçalık ukmuş bir kitep, deysiŋ, anı oqu-ğan adam düynö-gö qayra murunquday köz qaraş menen qaray al-ba-y-t.
 # glossing = that such one book it read-VN person world-DAT again before-like eye view with look able-NEG-INF-3SG
@@ -2951,6 +3054,7 @@
 19	.	.	PUNCT	_	_	17	punct	_	_
 
 # sent_id = 94
+# parallel_id = tuecl/94
 # text = Сен биринчи тазалоону бүтүр, анан биз үтүктөйбүз.
 # translit = Sen birinchi tazaloo-nu bütür, anan biz ütüktö-y-büz.
 # glossing = you first cleaning-VN-ACC finish then we iron-1PL
@@ -2970,6 +3074,7 @@
 9	.	.	PUNCT	_	_	4	punct	_	_
 
 # sent_id = 95
+# parallel_id = tuecl/95/alt1
 # text = Айткандарга караганда, Айше Хаканга үй тапшырмасын жасоого жардам бериптир.
 # translit = Ayt-qan-dar-ga qara-ğan-da, Ayşe Xaqan-ga üy tapşırma-sın jas-o-go jardam ber-ip-tir.
 # glossing = say--PL-DAT look-VN-LOC Ayşe Hakan-DAT house assignment-ACC do-NMLZ-DAT help give-INF-EVID
@@ -2991,6 +3096,7 @@
 11	.	.	PUNCT	_	_	10	punct	_	_
 
 # sent_id = 95.1
+# parallel_id = tuecl/95/alt2
 # text = Айткандарга караганда, Айше Хаканга үй тапшырмасын жасоого жардам бериптир.
 # translit = Ayt-qan-dar-ga qara-ğan-da, Ayşe Xaqan-ga üy tapşırma-sın jas-o-go jardam ber-ip-tir.
 # glossing = say--PL-DAT look-VN-LOC Ayşe Hakan-DAT house assignment-ACC do-NMLZ-DAT help give-INF-EVID
@@ -3012,6 +3118,7 @@
 11	.	.	PUNCT	_	_	10	punct	_	_
 
 # sent_id = 96
+# parallel_id = tuecl/96
 # text = Жалпы алганда ийгиликтүү бир фильм болду.
 # translit = Jalpı al-ğan-da iygilik-tüü bir film bol-du.
 # glossing = general take-VN-LOC success- one movie become-PST.3SG
@@ -3029,6 +3136,7 @@
 7	.	.	PUNCT	_	_	5	punct	_	_
 
 # sent_id = 97
+# parallel_id = tuecl/97/alt1
 # text = Алма дарактар апрель-май айларында гүлдөп, кайчылаш чаңдашат.
 # translit = Alma daraq-tar aprel'- may ayların-da ğüldö-p, kayçılaş çaŋda-ş-a-t. 
 # glossing = apple tree-PL april-may month-PL-?-LOC bloom-INF cross pollinate-RECP-3PL
@@ -3051,6 +3159,7 @@
 11	.	.	PUNCT	_	_	7	punct	_	_
 
 # sent_id = 97.1
+# parallel_id = tuecl/97/alt2
 # text = Алма дарактар апрель-майда гүлдөп, кайчылаш чаңдашат.
 # translit = Alma daraq-tar aprel'- may-da ğüldö-p, kayçılaş çaŋda-ş-a-t. 
 # glossing = apple tree-PL april-may-LOC bloom-INF cross pollinate-RECP-3PL
@@ -3072,6 +3181,7 @@
 10	.	.	PUNCT	_	_	6	punct	_	_
 
 # sent_id = 97.2
+# parallel_id = tuecl/95/alt3
 # text = Алма дарактар апрель жана май айларында гүлдөп, кайчылаш чаңдашат.
 # translit = Alma daraq-tar aprel'jana may ayların-da ğüldö-p, kayçılaş çaŋda-ş-a-t. 
 # glossing = apple tree-PL april and may month-PL-?-LOC bloom-INF cross pollinate-RECP-3PL
