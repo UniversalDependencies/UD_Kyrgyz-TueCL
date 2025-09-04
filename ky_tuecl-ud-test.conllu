@@ -809,7 +809,7 @@
 4	.	.	PUNCT	_	_	3	punct	_	_
 
 # sent_id = udtw23-5
-# parallel_id = tuecl/udtw23-5
+# parallel_id = tuecl/udtw23-5/alt1
 # text = Биз чечүүгө аракет кылып жаткан көйгөй – китеп текчесинде беш китептик да орундун жоктугу.
 # translit = Biz çeç-üü-ğö araket qıl-ıp jat-kan köyğöy – kitep tekçe-si-n-de beş kitep-tik da orun-dun joq-tuğ-u.
 # glossing = we solve-VN-
@@ -835,7 +835,7 @@
 15	.	.	PUNCT	_	_	14	punct	_	_
 
 # sent_id = udtw23-5.1
-# parallel_id = tuecl/udtw23-5/alt1
+# parallel_id = tuecl/udtw23-5/alt2
 # text = Биз чечүүгө аракет кылып жаткан көйгөй – китеп текчесинде беш китептик да орундун жоктугу.
 # translit = Biz çeç-üü-ğö araket qıl-ıp jat-kan köyğöy – kitep tekçe-si-n-de beş kitep-tik da orun-dun joq-tuğ-u.
 # glossing = 
@@ -861,7 +861,7 @@
 15	.	.	PUNCT	_	_	14	punct	_	_
 
 # sent_id = udtw23-5.2
-# parallel_id = tuecl/udtw23-5/alt2
+# parallel_id = tuecl/udtw23-5/alt3
 # text = Биз чечүүгө аракет кылып жаткан көйгөй – китеп текчесинде беш китептик да орундун болбогону.
 # translit = Biz çeç-üü-ğö araket qıl-ıp jat-kan köyğöy – kitep tekçe-si-n-de beş kitep-tik da orun-dun bol-bo-ğon-u.
 # glossing = 
