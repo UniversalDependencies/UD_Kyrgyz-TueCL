@@ -42,6 +42,7 @@ We extend special thanks to the Kyrgyz team — [Jonathan North Washington](http
 Data available since: UD v2.14
 License: CC BY-SA 4.0
 Includes text: yes
+Parallel: cairo tuecl
 Genre: grammar-examples
 Lemmas: manual native
 UPOS: manual native
