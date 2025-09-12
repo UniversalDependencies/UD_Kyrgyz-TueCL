@@ -128,7 +128,7 @@
 # parallel_id = cairo/5
 # text = Сэм, терезени ач!
 # translit = Sem, tereze-ni aç!
-# glossing = Sam window-ACC open[IMP.2SG] 
+# glossing = Sam window-ACC open[IMP.2SG]
 # issue:
 # text[en] = Sam, open the window!
 # text[az] = Sam, pәncәrәni aç!
@@ -228,7 +228,7 @@
 # parallel_id = cairo/9/alt1
 # text = Мэри коло утту, Питер күмүш, Джейн алтын.
 # translit = Meri qolo ut-tu, Piter kümüş, Jeyn altın.
-# glossing = Mary bronze win-PST[3] Peter silver Jane gold 
+# glossing = Mary bronze win-PST[3] Peter silver Jane gold
 # issue:
 # text[en] = Mary won bronze, Peter silver, and Jane gold.
 # text[az] = Mary bronz qazandı, Peter gümüş, Jane qɪzɪl.
@@ -501,7 +501,7 @@
 # text[en] = Peter and Mary hugged each other and then left the room.
 # text[az] = Peterinәn Mary qucaxlaşdılar vә sonra otaqdan çıxdılar.
 # text[uz] = Piter va Meri bir-birlarini quchoqladilar va shundan so'ng xonadan chiqdilar.
-# text[tr] = Peter ve Mary birbirlerini kucakladılar ve ondan sonra odadan çıktılar.	
+# text[tr] = Peter ve Mary birbirlerini kucakladılar ve ondan sonra odadan çıktılar.
 # note: "бири-бирин" - lemma: "бир-бир"
 1	Питер	Питер	PROPN	_	_	7	nsubj	_	_
 2	менен	менен	SCONJ	_	_	3	cc	_	_
@@ -545,7 +545,7 @@
 # parallel_id = cairo/17/alt1
 # text = Ал чачын жасалгалап туруш керек болчу, бирок эмнегедир ошол күнү жасаган эмес.
 # translit = Al çaç-ın jasalğa-lap tur-uş kerek bol-çu, birok emneğe-dir oşol kün-ü jasa-ğan emes.
-# glossing = he/she hair-POSS.3SG decorate-PFV stand.up-INF.3SG need be-PST.3SG but for.some.reason that day make-VN not 
+# glossing = he/she hair-POSS.3SG decorate-PFV stand.up-INF.3SG need be-PST.3SG but for.some.reason that day make-VN not
 # issue:
 # text[en] = He/She should have been doing his/her hair but for some reason he/she wouldn't that day.
 # text[az] = O tüklәrin cürlǝmǝliydi, amma neçә dәlilә görә o gün elǝmәdi.
@@ -570,7 +570,7 @@
 # parallel_id = cairo/17/alt2
 # text = Чачын жасалгалап туруш керек болчу, бирок эмнегедир ошол күнү жасаган эмес.
 # translit = Сhaç-ın jasalğa-lap tur-uş kerek bol-çu, birok emneğe-dir oşol kün-ü jasa-ğan emes.
-# glossing = hair-POSS.3SG decorate-PFV stand.up-INF.3SG need be-PST.3SG but for.some.reason that day make-VN not 
+# glossing = hair-POSS.3SG decorate-PFV stand.up-INF.3SG need be-PST.3SG but for.some.reason that day make-VN not
 # issue:
 # text[en] = He/She should have been doing his/her hair but for some reason he/she wouldn't that day.
 # text[az] = Tüklәrin cürlǝmǝliydi, amma neçә dәlilә görә o gün elǝmәdi.
@@ -635,9 +635,9 @@
 # parallel_id = cairo/20/alt1
 # text = Ал Франциянын борбору Парижде чоңойду.
 # translit = Al Franziya-nın borbor-u Parij-de, çoŋoy-du.
-# glossing = he/she France-GEN capital-POSS.3SG Paris-LOC grow.up-PST.3SG 
+# glossing = he/she France-GEN capital-POSS.3SG Paris-LOC grow.up-PST.3SG
 # issue:
-# text[en] = He/She grew up in Paris, the capital of France.	
+# text[en] = He/She grew up in Paris, the capital of France.
 # text[az] = O Fәransәnin paytәxti, Parisdә böyüdü.
 # text[uz] = U Fransiya poytaxti Parijda o'sgan.
 # text[tr] = O Fransanın başkenti Paris'te büyüdü.
@@ -652,9 +652,9 @@
 # parallel_id = cairo/20/alt2
 # text = Франциянын борбору Парижде чоңойду.
 # translit = Franziya-nın borbor-u Parij-de, çoŋoy-du.
-# glossing = France-GEN capital-POSS.3SG Paris-LOC grow.up-PST.3SG 
+# glossing = France-GEN capital-POSS.3SG Paris-LOC grow.up-PST.3SG
 # issue:
-# text[en] = He/She grew up in Paris, the capital of France.	
+# text[en] = He/She grew up in Paris, the capital of France.
 # text[az] = Fәransәnin paytәxti, Parisdә böyüdü.
 # text[uz] = Fransiya poytaxti Parijda o'sgan.
 # text[tr] = Fransanın başkenti Paris'te büyüdü.
@@ -665,10 +665,10 @@
 5	.	.	PUNCT	_	_	4	punct	_	_
 
 # sent_id = cairo-20.3
-# parallel_id = cairo/03/alt3
+# parallel_id = cairo/20/alt3
 # text = Ал Парижде, Франциянын борборунда, чоңойду.
 # translit = Al Parij-de, Franziya-nın borbor-un-da, çoŋoy-du.
-# glossing = he/she Paris-LOC France-GEN capital-POSS.3SG-LOC grow.up-PST.3SG 
+# glossing = he/she Paris-LOC France-GEN capital-POSS.3SG-LOC grow.up-PST.3SG
 # issue:
 # text[en] = He/She grew up in Paris, the capital of France.
 # text[az] = O Fәransәnin paytәxti, Parisdә böyüdü.
@@ -687,7 +687,7 @@
 # parallel_id = cairo/20/alt4
 # text = Парижде, Франциянын борборунда, чоңойду.
 # translit = Parij-de, Franziya-nın borbor-un-da, çoŋoy-du.
-# glossing = Paris-LOC France-GEN capital-POSS.3SG-LOC grow.up-PST.3SG 
+# glossing = Paris-LOC France-GEN capital-POSS.3SG-LOC grow.up-PST.3SG
 # issue:
 # text[en] = He/She grew up in Paris, the capital of France.
 # text[az] = Fәransәnin paytәxti, Parisdә böyüdü.
@@ -732,7 +732,7 @@
 # parallel_id = tuecl/udtw23-2
 # text = Мен сага муну дайыма айтам, күндө эртең менен досуң менен телефондо сүйлөшкөндө мен жөнүндө сөз кылба.
 # translit = Men sa-ğa mu-nu dayıma ayt-a-m, kün-dö erteŋ menen dos-uŋ menen telefon-do süylö-ş-kön-dö men jön-ün-dö söz qıl-ba.
-# glossing = I you-DAT this-ACC always tell-PRS.1SG day-LOC tomorrow with friend-POSS.2.SG with phone-LOC talk-RECP-LOC I topic-POSS.3SG-LOC word make-NEG.2SG 
+# glossing = I you-DAT this-ACC always tell-PRS.1SG day-LOC tomorrow with friend-POSS.2.SG with phone-LOC talk-RECP-LOC I topic-POSS.3SG-LOC word make-NEG.2SG
 # issue: Oblique vs object, oblique (?) as temporal modifier
 # text[en] = I always tell you, when you talk with your friend on the phone in the morning, don't talk about me.
 # text[az] = Sənə bunu həmişə diyirəm, söbhlər yoldaşıynan telfunda danışanda mənim moridimdə danışma.
@@ -761,7 +761,7 @@
 # parallel_id = tuecl/udtw23-3
 # text = Түнөп калчу конок эшикти такылдатыптыр, бирок үйдүн ээси дагы эле үйдү жыйнап жаткан, ал эми ал ресторандан буюртма берген тамак келмек болчу.
 # translit = Tünö-p qal-çu konok eşik-ti taqılda-tıptır, birok üy-dün ee-si dağı ele üy-dü jıyna-p jat-kan, al emi al restoran-dan buyurtma ber-ğen tamak kel-mek bol-çu.
-# glossing = sleep.over-INF clean-INF stay gest dor 
+# glossing = sleep.over-INF clean-INF stay gest dor
 # issue: Compound_or_obj be_aux
 # text[en] = The guest that was going to stay for the night knocked on the door, but the owner of the house was still cleaning, and the food he had ordered from the restaurant was still coming.
 # text[az] = Gecəni qalan qonax qapını çalmışdı, amma ev sahab sil-süpür elirdi və resturandan sifariş verən qəza hələ gələcəgidi.
@@ -838,7 +838,7 @@
 # parallel_id = tuecl/udtw23-5/alt2
 # text = Биз чечүүгө аракет кылып жаткан көйгөй – китеп текчесинде беш китептик да орундун жоктугу.
 # translit = Biz çeç-üü-ğö araket qıl-ıp jat-kan köyğöy – kitep tekçe-si-n-de beş kitep-tik da orun-dun joq-tuğ-u.
-# glossing = 
+# glossing =
 # issue: Null morpheme copula with multiple subjects, productive/lexicalized derivation, internally_divided_case
 # text[en] = The (problem) we're trying to solve is that the bookshelf doesn't have room for even five books.
 # text[az] = Həll eləməyə təlaş elədigimiz məsələ kitabxanada beş dənə kitaba da yer olmamasıdır.
@@ -864,7 +864,7 @@
 # parallel_id = tuecl/udtw23-5/alt3
 # text = Биз чечүүгө аракет кылып жаткан көйгөй – китеп текчесинде беш китептик да орундун болбогону.
 # translit = Biz çeç-üü-ğö araket qıl-ıp jat-kan köyğöy – kitep tekçe-si-n-de beş kitep-tik da orun-dun bol-bo-ğon-u.
-# glossing = 
+# glossing =
 # issue: Null morpheme copula with multiple subjects, productive/lexicalized derivation, internally_divided_case
 # text[en] = The (problem) we're trying to solve is that the bookshelf doesn't have room for even five books.
 # text[az] = Həll eləməyə təlaş elədigimiz məsələ kitabxanada beş dənə kitaba da yer olmamasıdır.
@@ -934,7 +934,7 @@
 # text[az] = Sudə üç saatdı(r) afisdə dəyil, Ayşə də evdə dəyilmiş.
 # text[uz] = Sude uch soatdan beri idorada yo'q emish, Oysha ham uyda emas ekan.
 # text[tr] = Sude üç saattir ofiste yokmuş, Ayşe de evde değilmiş.
-# note: aux/cop 
+# note: aux/cop
 1	Суде	Суде	PROPN	_	_	5	nsubj	_	_
 2	үч	үч	NUM	_	_	3	nummod	_	_
 3	саат	саат	NOUN	_	_	5	obl	_	_
@@ -955,7 +955,7 @@
 # parallel_id = tuecl/udtw23-9
 # text = Дүкөндө жемиш бар, бирок жакшы эмес.
 # translit = Dükön-dö jemiş bar, birok jakşı emes.
-# glossing = 
+# glossing =
 # issue: Existential, “değil” negation
 # text[en] = There's fruit at the store, but it's not nice.
 # text[az] = Bazarda mivə var amma yaxçı dǝyir.
@@ -973,7 +973,7 @@
 # sent_id = udtw23-10
 # parallel_id = tuecl/udtw23-10
 # text = Дениз доктур болот, билип кой!
-# translit = Deniz doktur bol-ot, bil-ip koy! 
+# translit = Deniz doktur bol-ot, bil-ip koy!
 # glossing = Deniz doctor be-FUT.3SG know-INF put
 # issue: Copula, light verb auxiliary
 # text[en] = Deniz will be a doctor, know this!
@@ -1055,7 +1055,7 @@
 # sent_id = udtw23-13.1
 # parallel_id = tuecl/udtw23-13/alt2
 # text = Кардиганым үйдө болгон бекен?
-# translit = Kardiğa-nım üy-dö bol-ğon b-eken? 
+# translit = Kardiğa-nım üy-dö bol-ğon b-eken?
 # glossing = cardigan-POSS.1SG home-LOC be-PST.3SG Q-COP.3SG
 # issue: Question particle
 # text[en] = Is my cardigan at home? (i.e., Did I leave it at home?)
@@ -1074,7 +1074,7 @@
 # sent_id = udtw23-14
 # parallel_id = tuecl/udtw23-14
 # text = Иш-чара бүгүн өткөрүлөбү?
-# translit = Iş-çara büğün öt-kör-ülö-bü? 
+# translit = Iş-çara büğün öt-kör-ülö-bü?
 # glossing = [passive]
 # issue: Question particle
 # text[en] = Is the event being held today?
@@ -1110,7 +1110,7 @@
 # sent_id = udtw23-16
 # parallel_id = tuecl/udtw23-16/alt1
 # text = Айша бул китепти окуган эмес.
-# translit = Ayşa bul kitep-ti oku-ğan emes. 
+# translit = Ayşa bul kitep-ti oku-ğan emes.
 # glossing = Ayşe this book-ACC read-VN not [Present Pefect Tense]
 # issue: Negation, participle 'oku(ma)mış'
 # text[en] = It is not the case that Ayşe has read this book.
@@ -1129,7 +1129,7 @@
 # text = Айша бул китепти окубай койгон жок.
 # translit = Ayşa bul kitep-ti oku-ba-y koy-ğon joq.
 # glossing = Ayşe this book-ACC read-NEG-INF put- not
-# issue: Negation, participle 'oku(ma)mış' 
+# issue: Negation, participle 'oku(ma)mış'
 # text[en] = Ayşe didn't not read this book. [This is not the case, that Ayşe didn't read the book.]
 # text[az] = Ayşə bu kitabı oxumamış dǝyil.
 # text[uz] = Oysha bu kitobni o'qimagan emas.
@@ -1193,7 +1193,7 @@
 # text[en] = The blue [one] of these is prettier, could you give me the blue one?
 # text[az] = Bunun abisi çoxtər yaxçıdı. mənə abini verərsən?
 # text[uz] = Buning ko'ki chiroyliroq, menga ko'kini bera olasanmi?
-# text[tr] = Bunun mavisi daha güzel, bana maviyi verir misin? 
+# text[tr] = Bunun mavisi daha güzel, bana maviyi verir misin?
 1	Мунун	бул	PRON	_	_	2	nmod:poss	_	_
 2	көгү	көк	NOUN	_	_	3	nsubj	_	_
 3	жакшынакайыраак	жакшынакай	ADJ	_	_	0	root	_	_
@@ -1211,7 +1211,7 @@
 # parallel_id = tuecl/udtw23-20
 # text = Жаштарды ишке ашырылбас максаттарынан баш тарттырышыбыз керек.
 # translit = Jaş-tar-dı iş-ke aş-ırıl-bas maksat-ta-rı-nan baş tart-tı-rı-şı-bız kerek.
-# glossing = 
+# glossing =
 # issue: Multiple TAM markers, multi-word expressions
 # text[en] = We must make the young abandon unattainable goals.
 # text[az] = Cəvanlara əlçatmaz hədəflərini tərk etdirməliyik.
@@ -1493,7 +1493,7 @@
 # translit = Deniz ötö ıldam.
 # glossing = Deniz very fast
 # issue: Copula, [Adj. predicate]
-# text[en] = Deniz is very fast. 
+# text[en] = Deniz is very fast.
 # text[az] = Deniz çok yeyindir.
 # text[uz] = Deniz juda chaqqon.
 # text[tr] = Deniz çok hızlı.
@@ -1537,7 +1537,7 @@
 # translit = Deniz student.
 # glossing = Deniz student
 # issue: Copula, [Nom. Predicate with -dir]
-# text[en] = Deniz is a student. 
+# text[en] = Deniz is a student.
 # text[az] = Deniz mohəssildir.
 # text[uz] = Deniz talabadir.
 # text[tr] = Deniz öğrencidir.
@@ -1567,7 +1567,7 @@
 # translit = Deniz üy-dö.
 # glossing = Deniz home-LOC
 # issue: Copula, [with case marking]
-# text[en] = Deniz is at home. 
+# text[en] = Deniz is at home.
 # text[az] = Deniz evdə.
 # text[uz] = Deniz uyda.
 # text[tr] = Deniz evde.
@@ -1627,7 +1627,7 @@
 # translit = Deniz ukta-p qal-ğan.
 # glossing = Deniz sleep-INF stay-VN
 # issue: Copula as auxiliary, [complex tense formed by copular suffix]
-# text[en] = Deniz had slept. 
+# text[en] = Deniz had slept.
 # text[az] = Deniz yatmışdı.
 # text[uz] = Deniz uxlagandi.
 # text[tr] = Deniz uyumuştu.
@@ -1642,7 +1642,7 @@
 # translit = Deniz ukta-p qal-ğan ele.
 # glossing = Deniz sleep-INF stay-VN be-COP.PST.3SG
 # issue: Copula as auxiliary, [same with non-affixal copula]
-# text[en] = Deniz hat slept. 
+# text[en] = Deniz hat slept.
 # text[az] = Deniz yatmış iydı.
 # text[uz] = Deniz uxlagan edi.
 # text[tr] = Deniz uyumuş idi.
@@ -1658,7 +1658,7 @@
 # translit = Deniz ukta-ğan bol-o-t.
 # glossing = Deniz sleep-VN be-FUT-3SG
 # issue: Copula as auxiliary, [with auxiliary 'ol']
-# text[en] = Deniz will have slept. 
+# text[en] = Deniz will have slept.
 # text[az] = Deniz yatmış olacax.
 # text[uz] = Deniz uxlagan bo'ladi.
 # text[tr] = Deniz uyumuş olacak.
@@ -1673,7 +1673,7 @@
 # translit = Apa-sı-nın kıyal-ı Deniz-din jakşı mektep-te oku-şu ele.
 # glossing = mother-POSS.3SG-GEN dream-POSS.3SG Deniz-GEN good school-LOC read be-COP.PST.3SG
 # issue: Copula with subordinate clauses / verbal nouns, [Verbal-noun/copula with differing subjects]
-# text[en] = His/her mother's dream was for Deniz to study in a good school. 
+# text[en] = His/her mother's dream was for Deniz to study in a good school.
 # text[az] = Anasının arzusu Denizin yaxçı bir mədrəsəde ders oxumasıydı.
 # text[uz] = Onasining orzusi Denizning yaxshi maktabda o'qishi edi.
 # text[tr] = Annesinin hayali Deniz'in iyi bir okulda okumasıydı.
@@ -1692,7 +1692,7 @@
 # translit = Deniz-din jakşı mektep-te oku-ba-ğan-dı-ğı apa-sı-n sanaa-ğa sal-çu.
 # glossing = Deniz-GEN good school-LOC read-NEG-VN-- mother-POSS.3SG-ACC worry-DAT put-
 # issue: Copula with subordinate clauses / verbal nouns, [alternation with no double subject]
-# text[en] = The fact that Deniz did not study in a good school worried her mother. 
+# text[en] = The fact that Deniz did not study in a good school worried her mother.
 # text[az] = Denizin yaxçı bir mədrəsədə dərs oxumaması anasını nigəran elirdi.
 # text[uz] = Denizning yaxshi maktabda o'qimasligi onasini havotirga solardi.
 # text[tr] = Deniz'in iyi bir okulda okumaması annesini kaygılandırıyordu.
@@ -1711,7 +1711,7 @@
 # translit = Stol-do köp kitep bar, kitep tekçe-de joq.
 # glossing = table-LOC many book exist book shelf-LOC not.exist
 # issue: Existentials, [Positive/negative existentials]
-# text[en] = There are many books on the table, none in the bookshelf. 
+# text[en] = There are many books on the table, none in the bookshelf.
 # text[az] = Mizin üstündə çox kitab var, kitabxanda yox.
 # text[uz] = Stolda ko'p kitob bor, kitob javonida esa yo'q.
 # text[tr] = Masada çok kitap var, kitaplıkta yok.
@@ -1769,7 +1769,7 @@
 # translit = Deniz üy-dö emes ele.
 # glossing = Deniz home-LOC not be-COP.PST.3SG
 # issue: Negation, [Nominal predicate negation]
-# text[en] = Deniz was not at home. 
+# text[en] = Deniz was not at home.
 # text[az] = Deniz evdə dəyildi.
 # text[uz] = Deniz uyda emasdi.
 # text[tr] = Deniz evde değildi.
@@ -1817,7 +1817,7 @@
 # translit = Deniz öz ubağ-ın-da ukta-y al-ba-şı mümkün.
 # glossing = Deniz own time-POSS.3SG-LOC sleep take-NEG maybe
 # issue: Negation, [with double -abil]
-# text[en] = Deniz may not be able to sleep on time. 
+# text[en] = Deniz may not be able to sleep on time.
 # text[az] = Deniz vəxtikən yatmıya bilir.
 # text[uz] = Deniz vaqtida uxlay olmasligi mumkin.
 # text[tr] = Deniz zamaninda uyuyamayabilir.
@@ -1957,7 +1957,7 @@
 # translit = Deniz bölmö-dö emes ele.
 # glossing = Deniz room-LOC not be-COP.PST.3SG
 # issue: Negation, [simple negation with 'değil']
-# text[en] = Deniz was not in the room. 
+# text[en] = Deniz was not in the room.
 # text[az] = Deniz otaqda dəyildi.
 # text[uz] = Deniz xonada emasdi.
 # text[tr] = Deniz odada değildi.
@@ -1973,7 +1973,7 @@
 # translit = Deniz bölmö-dö joq ele.
 # glossing = Deniz room-LOC not be-COP.PST.3SG
 # issue: Negation, [version with 'yok']
-# text[en] = Deniz was not in the room. 
+# text[en] = Deniz was not in the room.
 # text[az] = Deniz otaqda yoxdu(r).
 # text[uz] = Deniz xonada yo'q edi.
 # text[tr] = Deniz odada yoktu .
@@ -2023,7 +2023,7 @@
 # translit = Deniz ata-sın ağa kitep okup ber-i-şin qaala-y-t.
 # glossing = Deniz father-ACC he/she.DAT book read-INF give-VN-POSS.3SG want-3SG.PRES
 # issue: Clausal arguments/modifiers, non-finite verbs.
-# text[en] = Deniz wants her/his father to read him/her (a) book. 
+# text[en] = Deniz wants her/his father to read him/her (a) book.
 # text[az] = Deniz babasının ona kitab oxumasını istəyir.
 # text[uz] = Deniz otasining kitob o‘qib berishini xohlaydi.
 # text[tr] = Deniz babasının kendisine kitap okumasını istiyor.
@@ -2043,7 +2043,7 @@
 # translit = Deniz özü menen özü boluu-nu jakşı kör-ö-t.
 # glossing = Deniz self-POSS.3SG with self-POSS.3SG be-VN-ACC good see-3SG.PRES
 # issue: Clausal arguments/modifiers, non-finite verbs.
-# text[en] = Deniz wants to be by himself/herself. 
+# text[en] = Deniz wants to be by himself/herself.
 # text[az] = Deniz özünə olmağı söyür.
 # text[uz] = Deniz o‘zi bilan o‘zi bo‘lishni yaxshi ko‘radi.
 # text[tr] = Deniz kendi kendine olmayı seviyor.
@@ -2302,7 +2302,7 @@
 # sent_id = 56
 # parallel_id = tuecl/56/alt1
 # text = Бала эрте уктайт деп ойлоп жатам.
-# translit = Bala erte ukta-y-t de-p oylo-p jat-am. 
+# translit = Bala erte ukta-y-t de-p oylo-p jat-am.
 # glossing = child early sleep-FUT-3SG say-INF think-INF lie.down-NPST[1]
 # issue: MWE / segmentation
 # text[en] = I think that the child will sleep early.
@@ -2427,7 +2427,7 @@
 # text = Чоң үйдөгү баланын чачы сары, кичинекей үйдөгүнүкү күрөң.
 # translit = Çoŋ üydö-ğü bala-nıŋ çaç-ı sary, kiçinekey üydö-ğü-nü-kü küröŋ.
 # glossing = big house-LOC.REL child-GEN hair-3SG yellow, small house-LOC.REL-3SG-GEN brown
-# issue: MWE / segmentation 
+# issue: MWE / segmentation
 # text[en] = The hair of the child in the big house is blond, the one of the one in the small house is brown.
 # text[az] = Böyük evdəki uşağın tüklәri sarıdır, kiçik evdəkininki qəhveyidir.
 # text[uz] = Katta uydagi bolaning sochi sargʻish, kichik uydaginiki jigarrang.
@@ -2575,10 +2575,10 @@
 # translit = Deniz üy-ğö kel-ğen b-ele?
 # glossing = Deniz home-DAT come-PST.PFV Q-COP.PST.3SG
 # issue: Question particle, [Canopula/aux attached to -mi]
-# text[en] = Had Deniz come home? 
+# text[en] = Had Deniz come home?
 # text[az] = Deniz evə gəlmişdi?
 # text[uz] = Deniz uyga kelganmidi?
-# text[tr] = Deniz eve gelmiş miydi? 
+# text[tr] = Deniz eve gelmiş miydi?
 1	Дениз	Дениз	PROPN	_	_	3	nsubj	_	_
 2	үйгө	үй	NOUN	_	_	3	obl	_	_
 3	келген	кел	VERB	_	_	0	root	_	_
@@ -2593,7 +2593,7 @@
 # translit = Deniz üydö-bü?
 # glossing = Deniz home-LOC-Q
 # issue: Question particle, [Copula "mi"]
-# text[en] = Is Deniz at home? 
+# text[en] = Is Deniz at home?
 # text[az] = Deniz evdə?
 # text[uz] = Deniz uydami?
 # text[tr] = Deniz evde mi?
@@ -2609,7 +2609,7 @@
 # translit = Deniz üy-dö bol-du b-eken?
 # glossing = Deniz home-LOC be-PST.3SG Q-COP.3SG
 # issue: Question particle, [Copula, with additonal affix on -mi]
-# text[en] = Is Deniz at home? 
+# text[en] = Is Deniz at home?
 # text[az] = Deniz evdədir?
 # text[uz] = Deniz uydamikan?
 # text[tr] = Deniz evde midir?
@@ -2728,9 +2728,9 @@
 # parallel_id = tuecl/77
 # text = Окуганыңызды түшүнүп жаттыңызбы?
 # translit = Oku-ğan-ı-ŋız-dı tüşün-üp jat-tıŋız-bı?
-# glossing = read-VN-POSS.2SG.FRM-ACC understand-INF lie.down-PST.PROG-2SG.FRM-Q 
+# glossing = read-VN-POSS.2SG.FRM-ACC understand-INF lie.down-PST.PROG-2SG.FRM-Q
 # issue: Question particle, [multiple affixes on -mu]
-# text[en] = Were you understanding what you read? 
+# text[en] = Were you understanding what you read?
 # text[az] = Oxuduğuzu düsünürdüz?
 # text[uz] = O'qiganingizni tushundingizmi?
 # text[tr] = Okuduğunuzu anlıyor muydunuz?
@@ -2864,7 +2864,7 @@
 # translit = Mu-nun kö-ğü jakşı-raak.
 # glossing = this-GEN blue-POSS.3SG good-COMP
 # issue: [-si, (pro)nominals]
-# text[en] = The blue (version) of this is nicer. 
+# text[en] = The blue (version) of this is nicer.
 # text[az] = Bunun abisi daha gözəldir.
 # text[uz] = Buning ko‘k rangi chiroyliroq.
 # text[tr] = Bunun mavisi daha güzel.
@@ -2958,7 +2958,7 @@
 # issue: Plural Subject, Plural Verb and additionally the reciprocal marker (RECP). Lit: They left (together).
 # text[en] = They are gone together. / They left together.
 # text[az] = Onlar gittiler. [note: It doesn't work with RECP in az]
-# text[uz] = 
+# text[uz] =
 # text[tr] = Onlar gittiler. [note: It doesn't work with RECP in tr]
 1	Алар	алар	PRON	_	_	2	nsubj	_	_
 2	кетишти	кет	VERB	_	_	0	root	_	SpaceAfter=No
@@ -3031,7 +3031,7 @@
 # text[az] = O elə bir kitabdır ki, onu oxuyan bir də dünyaya eyni şəkildə baxmiyacaq.
 # text[uz] = Bu shunday kitobki, uni o‘qigan dunyoga boshqacha nazar bilan qaraydi.
 # text[tr] = O öyle bir kitap ki okuyan bir daha dünyaya aynı gözle bakamaz.
-# note: There is no 'ki' connecting sentences in Kyrgyz. 
+# note: There is no 'ki' connecting sentences in Kyrgyz.
 # added адам - adam 'nsubj'
 1	Ал	ал	PRON	_	_	5	nsubj	_	_
 2	yшунчалык	ушунчалык	ADV	_	_	3	advmod	_	_
@@ -3138,7 +3138,7 @@
 # sent_id = 97
 # parallel_id = tuecl/97/alt1
 # text = Алма дарактар апрель-май айларында гүлдөп, кайчылаш чаңдашат.
-# translit = Alma daraq-tar aprel'- may ayların-da ğüldö-p, kayçılaş çaŋda-ş-a-t. 
+# translit = Alma daraq-tar aprel'- may ayların-da ğüldö-p, kayçılaş çaŋda-ş-a-t.
 # glossing = apple tree-PL april-may month-PL-?-LOC bloom-INF cross pollinate-RECP-3PL
 # issue: "алма дарактар" - 'alma daraqtar'
 # text[en] = Apple trees bloom (approximately) April to May and cross-pollinate.
@@ -3161,7 +3161,7 @@
 # sent_id = 97.1
 # parallel_id = tuecl/97/alt2
 # text = Алма дарактар апрель-майда гүлдөп, кайчылаш чаңдашат.
-# translit = Alma daraq-tar aprel'- may-da ğüldö-p, kayçılaş çaŋda-ş-a-t. 
+# translit = Alma daraq-tar aprel'- may-da ğüldö-p, kayçılaş çaŋda-ş-a-t.
 # glossing = apple tree-PL april-may-LOC bloom-INF cross pollinate-RECP-3PL
 # issue: "алма дарактар" - 'alma daraqtar'
 # text[en] = Apple trees bloom (approximately) April to May and cross-pollinate.
@@ -3183,7 +3183,7 @@
 # sent_id = 97.2
 # parallel_id = tuecl/95/alt3
 # text = Алма дарактар апрель жана май айларында гүлдөп, кайчылаш чаңдашат.
-# translit = Alma daraq-tar aprel'jana may ayların-da ğüldö-p, kayçılaş çaŋda-ş-a-t. 
+# translit = Alma daraq-tar aprel'jana may ayların-da ğüldö-p, kayçılaş çaŋda-ş-a-t.
 # glossing = apple tree-PL april and may month-PL-?-LOC bloom-INF cross pollinate-RECP-3PL
 # issue: "алма дарактар" - 'alma daraqtar'
 # text[en] = Apple trees bloom (approximately) April and May and cross-pollinate.
