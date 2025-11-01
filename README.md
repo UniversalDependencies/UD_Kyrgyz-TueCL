@@ -56,6 +56,7 @@ Please, cite the following paper if you use Kyrgyz UD treebank:
 # Changelog
 
 * 2025-09-04 v2.16
+  * add reference paper
   * add parallel corpus information to machine-readable metadata
   * add parallel data support with parallel_id metadata for cross-lingual sentence matching
 * 2024-05-15 v2.14
