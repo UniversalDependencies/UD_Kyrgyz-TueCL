@@ -28,7 +28,29 @@ We extend special thanks to the Kyrgyz team — [Jonathan North Washington](http
 
 ## References
 
-* (citation)
+Please, cite the following paper if you use Kyrgyz UD treebank:
+
+<pre>
+@inproceedings{akhundjanova-etal-2025-parallel,
+    title = "Parallel {U}niversal {D}ependencies Treebanks for {T}urkic Languages",
+    author = "Akhundjanova, Arofat  and
+      Akkurt, Furkan  and
+      Chontaeva, Bermet  and
+      Eslami, Soudabeh  and
+      Coltekin, Cagri",
+    editor = {Bouma, Gosse  and
+      {\c{C}}{\"o}ltekin, {\c{C}}a{\u{g}}r{\i}},
+    booktitle = "Proceedings of the Eighth Workshop on Universal Dependencies (UDW, SyntaxFest 2025)",
+    month = aug,
+    year = "2025",
+    address = "Ljubljana, Slovenia",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2025.udw-1.14/",
+    pages = "129--136",
+    ISBN = "979-8-89176-292-3",
+    abstract = "We introduce the first fully aligned and manually annotated parallel Universal Dependencies (UD) treebanks for four Turkic languages: Azerbaijani, Kyrgyz, Turkish, and Uzbek. These resources currently consist of 148 strategically selected sentences that illustrate typologically significant morphosyntactic phenomena across these related yet distinct languages. These parallel treebanks enable systematic comparative studies of Turkic syntax and may be instrumental in cross-lingual NLP applications. All treebanks are available as part of UD v2.16."
+}
+</pre>
 
 
 # Changelog
