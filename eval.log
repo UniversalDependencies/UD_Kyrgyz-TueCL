@@ -1,0 +1,51 @@
+Running the following version of UD tools:
+commit 26e6c87a2f518322d15901a351199b6be6569062
+Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
+Date:   Fri Nov 7 15:39:58 2025 +0100
+Evaluating the following revision of UD_Kyrgyz-TueCL:
+commit e57fa1fcf650ffba1090a173f90e0c90e1d9c3ef
+Author: Bermet Chontaeva <116275925+BermetChontaeva@users.noreply.github.com>
+Date:   Sat Nov 1 23:39:50 2025 +0100
+CoNLL-U data file regular expression = '(.+)-ud-(train|dev|test)\.conllu'
+Language-treebank code (from CoNLL-U file name) = 'ky_tuecl'
+Language code (from CoNLL-U file name) = 'ky'
+Found the following data files: ky_tuecl-ud-test.conllu
+Size: counted 1250 of 1250 words (nodes).
+Size: min(0, log((N/1000)**2)) = 0.44628710262842.
+Size: maximum value 13.815511 is for 1000000 words or more.
+Split: Did not find more than 10000 training words.
+Split: Did not find at least 10000 development words.
+Split: Did not find at least 10000 test words.
+Lemmas: source of annotation (from README) factor is 1.
+Universal POS tags: 16 out of 17 found in the corpus.
+Universal POS tags: source of annotation (from README) factor is 1.
+Features: 50 out of 1250 total words have one or more features.
+Features: source of annotation (from README) factor is 1.
+Universal relations: 29 out of 37 found in the corpus.
+Universal relations: source of annotation (from README) factor is 1.
+Genres: found 1 out of 18 known.
+/net/work/people/zeman/unidep/tools/validate.py --lang ky --max-err=10 UD_Kyrgyz-TueCL/ky_tuecl-ud-test.conllu
+[Line 184 Sent cairo-7]: [L3 Warning pron-det-without-prontype] The word 'Питердин' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 202 Sent cairo-7.1]: [L3 Warning pron-det-without-prontype] The word 'Питердин' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 222 Sent cairo-8]: [L3 Warning pron-det-without-prontype] The word 'сени' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 223 Sent cairo-8]: [L3 Warning pron-det-without-prontype] The word 'кинен' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 323 Sent cairo-12.1]: [L3 Warning pron-det-without-prontype] The word 'кимдин' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 339 Sent cairo-12.2]: [L3 Warning pron-det-without-prontype] The word 'Кимдин' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 356 Sent cairo-12.3]: [L3 Warning pron-det-without-prontype] The word 'кимдин' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 359 Sent cairo-12.3]: [L3 Warning pron-det-without-prontype] The word 'эч' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 375 Sent cairo-12.4]: [L3 Warning pron-det-without-prontype] The word 'Кимдин' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 378 Sent cairo-12.4]: [L3 Warning pron-det-without-prontype] The word 'эч' is tagged 'DET' but it lacks the 'PronType' feature
+...suppressing further errors regarding Warning
+Warnings: 84
+*** PASSED ***
+Validity: 1
+(weight=0.111111111111111) * (score{features}=0.3) = 0.0333333333333333
+(weight=0.111111111111111) * (score{genres}=0.0555555555555556) = 0.00617283950617284
+(weight=0.111111111111111) * (score{lemmas}=1) = 0.111111111111111
+(weight=0.37037037037037) * (score{size}=0.0323033376693521) = 0.0119641991367971
+(weight=0.0740740740740741) * (score{split}=0.01) = 0.000740740740740741
+(weight=0.111111111111111) * (score{tags}=0.941176470588235) = 0.104575163398693
+(weight=0.111111111111111) * (score{udeprels}=0.783783783783784) = 0.0870870870870871
+(TOTAL score=0.354984474313935) * (availability=1) * (validity=1) = 0.354984474313935
+STARS = 2
+UD_Kyrgyz-TueCL	0.354984474313935	2
