@@ -23,7 +23,7 @@ This resource is significant as it represents the first fully aligned parallel U
 
 # Acknowledgments
 
-This work was supported by COST Action CA21167 - Universality, diversity and idiosyncrasy in language technology ([UniDive](https://unidive.lisn.upsaclay.fr/)). We thank the [Turkic UD working group](https://github.com/ud-turkic) for fruitful discussions of linguistic issues and annotation approaches.
+This work was supported by COST Action CA21167 — Universality, diversity and idiosyncrasy in language technology ([UniDive](https://unidive.lisn.upsaclay.fr/)). We thank the [Turkic UD working group](https://github.com/ud-turkic) for fruitful discussions of linguistic issues and annotation approaches.
 We extend special thanks to the Kyrgyz team — [Jonathan North Washington](https://github.com/jonorthwash), Aida Kasieva, Gulnura Dzumalieva, Aigul Tursunova, Meerim Ryspakova, and Aizat Kadyrbekova — for their consistent support, as well as their valuable weekly meetings and discussions that greatly contributed to this work.
 
 ## References
@@ -55,6 +55,8 @@ Please, cite the following paper if you use Kyrgyz-TueCL UD treebank:
 
 # Changelog
 
+* 2026-05-15 v2.18
+  * Updated UniDive acknowledgment.
 * 2025-09-04 v2.16
   * add reference paper
   * add parallel corpus information to machine-readable metadata
