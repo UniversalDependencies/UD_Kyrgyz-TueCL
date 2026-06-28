@@ -29,7 +29,7 @@ et al. — for their consistent support, as well as their valuable ongoing meeti
 
 ## References
 
-Please, cite the following paper if you use Kyrgyz UD treebank:
+Please, cite the following paper if you use Kyrgyz-TueCL UD treebank:
 
 <pre>
 @inproceedings{akhundjanova-etal-2025-parallel,
