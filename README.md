@@ -23,8 +23,8 @@ Unique lemmas: 287
 
 # Acknowledgments
 
-This work was supported by COST Action CA21167 - Universality, diversity and idiosyncrasy in language technology ([UniDive](https://unidive.lisn.upsaclay.fr/)). We thank the [Turkic UD working group](https://github.com/ud-turkic) for fruitful discussions of linguistic issues and annotation approaches.
-We extend special thanks to the Kyrgyz team — [Jonathan North Washington](https://github.com/jonorthwash)
+This work was supported by COST Action CA21167 — Universality, diversity and idiosyncrasy in language technology ([UniDive](https://unidive.lisn.upsaclay.fr/)). We thank the [Turkic UD working group](https://github.com/ud-turkic) for fruitful discussions of linguistic issues and annotation approaches.
+We extend special thanks to the Kyrgyz team [Jonathan North Washington](https://github.com/jonorthwash)
 et al. — for their consistent support, as well as their valuable ongoing meetings and discussions that greatly contributed to this work.
 
 ## References
@@ -57,6 +57,7 @@ Please, cite the following paper if you use Kyrgyz-TueCL UD treebank:
 # Changelog
 
 * 2026-06-28 v2.18
+  * update UniDive acknowledgment. 
   * add Ottoman Turkish as the fifth language to the parallel treebank list (was four languages)
 * 2025-09-04 v2.16
   * add reference paper
